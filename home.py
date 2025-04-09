@@ -27,10 +27,9 @@ def main():
     df['timestamp'] = pd.to_datetime(df['timestamp'], errors='coerce')
     df = df.dropna(subset=['Latitude', 'Longitude'])
     # Filter the DataFrame to exclude the locations in the exclude_locations list
-    df = df[~df['Location'].str.lower().isin(exclude_locations)]
+    # df = df[~df['Location'].str.lower().isin(exclude_locations)]
     df = df[~df['url'].str.lower().str.contains('politics|yahoo|sports')]
     df = df[~df['title'].str.lower().str.contains('tool|angry')]
-
     df['date_only'] = df['timestamp'].dt.strftime('%Y-%m-%d')
 
     # Drop duplicate rows based on the combination of date_only, disaster_event, and Location
