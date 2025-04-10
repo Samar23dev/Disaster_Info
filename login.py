@@ -3,24 +3,36 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import auth
 from firebase_admin import exceptions
-
 import smtplib
 import ssl
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+import os
+from dotenv import load_dotenv
+import logging
 
+# Configure logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
-cred = credentials.Certificate("Global_Disaster_Monitoring/firebase-credentials.json")
-if not firebase_admin._apps:
-    firebase_admin.initialize_app(cred)
+# Load environment variables
+load_dotenv()
 
-def main():
-    st.title(':green[Welcome to Geospatial Visualization for Disaster Monitoring]')  # Use st.title for large font title
-    
+# Initialize Firebase
+try:
+    cred = credentials.Certificate("firebase-credentials.json")
+    if not firebase_admin._apps:
+        firebase_admin.initialize_app(cred)
+    logger.info("Firebase initialized successfully")
+except Exception as e:
+    logger.error(f"Failed to initialize Firebase: {str(e)}")
+    st.error("Failed to initialize authentication service. Please try again later.")
 
-    def send_email(email):
-        email_sender  = 'samarmittal59@gmail.com'
-        email_password = 'disasterinformationboard'
+def send_email(email):
+    """Send welcome email to new user with error handling."""
+    try:
+        email_sender = os.getenv('EMAIL_SENDER', 'samarmittal59@gmail.com')
+        email_password = os.getenv('EMAIL_PASSWORD', 'disasterinformationboard')
         email_receiver = email
         subject = "Welcome to Geo-Spatial Visualization for Disaster Monitoring"
 
@@ -31,17 +43,16 @@ def main():
         msg['Subject'] = subject
 
         # Plain text version (optional)
-        text_part = MIMEText("Plain text version of the email", 'plain')  # Corrected constructor call
+        text_part = MIMEText("Plain text version of the email", 'plain')
         msg.attach(text_part)
         
-
         # HTML version with bold formatting and larger headings
         html_part = MIMEText(f"""
         <html>
         <head>
           <style>
             h2 {{
-              font-size: 20px;  /* Adjust as desired for headings */
+              font-size: 20px;
               font-weight: bold;
             }}
           </style>
@@ -80,76 +91,115 @@ def main():
         with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as smtp:
             smtp.login(email_sender, email_password)
             smtp.sendmail(email_sender, email_receiver, msg.as_string())
+        
+        logger.info(f"Welcome email sent to {email}")
+        return True
+    except Exception as e:
+        logger.error(f"Failed to send welcome email: {str(e)}")
+        st.error("Failed to send welcome email. Please try again later.")
+        return False
 
+def main():
+    try:
+        st.title(':green[Welcome to Geospatial Visualization for Disaster Monitoring]')
 
-    if 'username' not in st.session_state:
-        st.session_state.username = ''
-    if 'useremail' not in st.session_state:
-        st.session_state.useremail = ''
+        # Initialize session state variables
+        if 'username' not in st.session_state:
+            st.session_state.username = ''
+        if 'useremail' not in st.session_state:
+            st.session_state.useremail = ''
+        if 'signedout' not in st.session_state:
+            st.session_state.signedout = False
+        if 'signout' not in st.session_state:
+            st.session_state.signout = False
 
-    def f():
-        try:
-            user = auth.get_user_by_email(email)
-            st.success("Login Successful")
+        def login_user(email, password):
+            """Handle user login with error handling."""
+            try:
+                user = auth.get_user_by_email(email)
+                st.success("Login Successful")
+                st.session_state.username = user.uid
+                st.session_state.useremail = user.email
+                st.session_state.signedout = True
+                st.session_state.signout = True
+                logger.info(f"User {email} logged in successfully")
+            except exceptions.InvalidArgumentError:
+                st.error("Invalid email address. Please enter a valid email address.")
+                logger.warning(f"Login attempt with invalid email: {email}")
+            except Exception as e:
+                st.error("Login Failed. Please check your credentials.")
+                logger.error(f"Login failed for {email}: {str(e)}")
 
-            st.session_state.username = user.uid
-            st.session_state.useremail = user.email
-            st.session_state.signedout = True
-            st.session_state.signout = True
+        def signout_user():
+            """Handle user signout."""
+            st.session_state.signout = False
+            st.session_state.signedout = False 
+            st.session_state.username = ''
+            st.session_state.useremail = ''
+            logger.info("User signed out")
 
-        except exceptions.InvalidArgumentError as e:
-            st.error("Invalid email address. Please enter a valid email address.")
-
-        except:
-            st.error("Login Failed")
-
-    def t():
-        st.session_state.signout = False
-        st.session_state.signedout = False 
-        st.session_state.username = ''
-        st.session_state.useremail = ''
-    
-    if 'signedout' not in st.session_state:
-        st.session_state.signedout = False
-    if 'signout' not in st.session_state:
-        st.session_state.signout = False
-
-    if not st.session_state['signedout']:
-        choice = st.selectbox('Login/Signup', ['Login', 'Sign Up'])
-
-        if choice == 'Login':
-            email = st.text_input('Email Address')
-            password = st.text_input('Password', type='password')
-            st.button('Login', on_click=f)
-        else:
-            email = st.text_input('Email Address')
-            password = st.text_input('Password', type='password')
-            username = st.text_input('Username')
+        def create_user(email, password, username):
+            """Handle user creation with error handling."""
+            if len(password) < 6:
+                st.error("Password must be at least 6 characters long.")
+                logger.warning(f"Account creation attempt with short password for {email}")
+                return False
             
-            if st.button('Create my account'):
-                if len(password) < 6:
-                    st.error("Password must be at least 6 characters long.")
-                    return  # Exit the function to prevent user creation with an invalid password
-    
-                try:
-                    # Fetch all users
-                    all_users = auth.list_users()
+            try:
+                # Fetch all users
+                all_users = auth.list_users()
 
-                    # Check if the UID already exists
-                    for user in all_users.users:
-                        if user.uid == username:
-                            st.error("Username already exists. Please choose a different username.")
-                            return
+                # Check if the UID already exists
+                for user in all_users.users:
+                    if user.uid == username:
+                        st.error("Username already exists. Please choose a different username.")
+                        logger.warning(f"Account creation attempt with existing username: {username}")
+                        return False
 
-                    # If the username is unique, proceed with user creation
-                    user = auth.create_user(email=email, password=password, uid=username)
-                    st.success('Account created successfully! Login now to Explore...')
-                    st.balloons()
-                    send_email(email)
-                except exceptions.InvalidArgumentError as e:
-                    st.error("Invalid email address. Please enter a valid email address.")
-    if st.session_state.signout:
-        st.text('Name: ' + st.session_state.username)
-        st.text('Email id: ' + st.session_state.useremail)
-        st.button('Sign out', on_click=t)
+                # If the username is unique, proceed with user creation
+                user = auth.create_user(email=email, password=password, uid=username)
+                st.success('Account created successfully! Login now to Explore...')
+                st.balloons()
+                
+                # Send welcome email
+                if send_email(email):
+                    logger.info(f"New user account created: {email}")
+                    return True
+                return False
+            except exceptions.InvalidArgumentError:
+                st.error("Invalid email address. Please enter a valid email address.")
+                logger.warning(f"Account creation attempt with invalid email: {email}")
+                return False
+            except Exception as e:
+                st.error(f"Account creation failed: {str(e)}")
+                logger.error(f"Account creation failed for {email}: {str(e)}")
+                return False
+
+        # Main UI logic
+        if not st.session_state['signedout']:
+            choice = st.selectbox('Login/Signup', ['Login', 'Sign Up'])
+
+            if choice == 'Login':
+                email = st.text_input('Email Address')
+                password = st.text_input('Password', type='password')
+                st.button('Login', on_click=lambda: login_user(email, password))
+            else:
+                email = st.text_input('Email Address')
+                password = st.text_input('Password', type='password')
+                username = st.text_input('Username')
+                
+                if st.button('Create my account'):
+                    create_user(email, password, username)
+        
+        if st.session_state.signout:
+            st.text('Name: ' + st.session_state.username)
+            st.text('Email id: ' + st.session_state.useremail)
+            st.button('Sign out', on_click=signout_user)
+
+    except Exception as e:
+        logger.error(f"Unexpected error in main function: {str(e)}")
+        st.error("An unexpected error occurred. Please try again later.")
+
+if __name__ == "__main__":
+    main()
 
