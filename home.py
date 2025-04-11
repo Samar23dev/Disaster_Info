@@ -179,7 +179,7 @@ def main():
         folium.LayerControl(collapsed=True).add_to(mymap)
 
         # Display map
-        st_folium(mymap, width='100%', height=620)
+        st_folium(mymap, width='50%', height=500)
 
         # Display filtered data
         with st.expander("Disaster Data Overview"):
