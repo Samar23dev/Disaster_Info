@@ -174,19 +174,31 @@ def main():
         st.subheader("Geographic Distribution of Disasters")
         try:
             map_center = (filtered_df['Latitude'].mean(), filtered_df['Longitude'].mean())
-            mymap = folium.Map(location=map_center, zoom_start=4, fullscreen_control=True)
-            marker_cluster = MarkerCluster().add_to(mymap)
+            mymap = folium.Map(location=map_center, zoom_start=2, tiles='OpenStreetMap')
             
+            # Add markers directly to map without clustering
             for index, row in filtered_df.iterrows():
-                popup_content = f"<a href='{row['url']}' target='_blank'>{row['title']}</a>"
-                tooltip_content = f"{row['disaster_event']}, {row['Location']}"
+                popup_content = f"""
+                    <div style="width: 250px">
+                        <b>{row['disaster_event']}</b><br>
+                        <p>{row['title']}</p>
+                        <small>📍 {row['Location']}</small><br>
+                        <small>🕒 {row['timestamp'].strftime('%Y-%m-%d %H:%M')}</small><br>
+                        <a href="{row['url']}" target="_blank">Read More</a>
+                    </div>
+                """
                 folium.Marker(
                     location=[row['Latitude'], row['Longitude']],
                     popup=folium.Popup(popup_content, max_width=300),
-                    tooltip=tooltip_content
-                ).add_to(marker_cluster)
+                    tooltip=f"{row['disaster_event']} - {row['Location']}",
+                    icon=folium.Icon(color='blue', icon='info-sign')
+                ).add_to(mymap)
             
-            st_folium(mymap, width='100%', height=500)
+            # Add fullscreen button
+            folium.plugins.Fullscreen().add_to(mymap)
+            
+            # Display the map
+            st_folium(mymap, width='100%', height=600)
         except Exception as e:
             logger.error(f"Error generating map: {str(e)}")
             st.warning("Could not generate map. Please try again later.")

@@ -1,0 +1,353 @@
+{
+    "SDRF_information": [
+      {
+        "state": "Andhra Pradesh",
+        "contact_details": {
+          "phone": "+91-9440906404",
+          "email": "apsdrf@gmail.com"
+        },
+        "date_of_raising": "13/11/2016",
+        "organizational_structure_and_strength": "06 coys comprising 12 teams. Each coy has 01 officer and 45 Men.",
+        "deployment": "Deployed at 06 locations"
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "contact_details": {
+          "phone": "+91-7005053611",
+          "email": "dirts@arunpol.nic.in"
+        },
+        "date_of_raising": "06/09/2013",
+        "organizational_structure_and_strength": "01 coy having total strength of 89 persons",
+        "deployment": "Deployed at Itanagar"
+      },
+      {
+        "state": "Assam",
+        "contact_details": {
+          "phone": "+91-361-2237221",
+          "fax": "+91-361-2237010",
+          "email": "asdmaghy@gmail.com"
+        },
+        "date_of_raising": "15/12/2011",
+        "organizational_structure_and_strength": "03 Coys, having total Strength of 337 persons",
+        "deployment": "Approx 10 persons are deployed in all distts."
+      },
+      {
+        "state": "Bihar",
+        "contact_details": {
+          "phone": "+91-6115252028-29",
+          "mobile": "+91-9431470609",
+          "email": "info@bsbma.org"
+        },
+        "date_of_raising": "16/03/2010",
+        "organizational_structure_and_strength": "Total Strength is 690 Persons",
+        "deployment": "Deployed in 10 Districts"
+      },
+      {
+        "state": "Chhattishgarth",
+        "contact_details": {
+          "phone": "+91-771-2512306",
+          "email": "dghomeguard.cg@gmail.com"
+        },
+        "date_of_raising": "17/08/2012",
+        "organizational_structure_and_strength": "There are total of 05 teams consisting of 252 Men",
+        "deployment": "01 team deployed each at Raipur, Bilaspur, Durg, Ambileapur & Jagdalpur."
+      },
+          {
+        "state": "Goa",
+        "sdrf_status": "SDRF yet to be raised"
+      },
+      {
+        "state": "Gujarat",
+        "contact_details": {
+          "phone": "+91-79-23254442",
+          "mobile": "+91-7923254414",
+          "email": "control-pu@gujarat.gov.in"
+        },
+        "date_of_raising": "23/07/2013",
+        "organizational_structure_and_strength": "There are total 11 coys, each coy consists of 132 persons and total Strength 1452",
+        "deployment": "Deployment is done as per requirement."
+      },
+      {
+        "state": "Haryana",
+        "contact_details": {
+          "phone": "+91-172-2711925",
+          "phone2": "+91-124-2269913",
+           "mobile": "+91-9815792222",
+          "email": "fcr@hry.nic.in"
+        },
+        "organizational_structure_and_strength": "There are total of 04 coys, each consists of 200 persons and total Strength is 800 persons",
+        "deployment": "1st Bn of IRB is deployed at Bhondsi, Gurugram."
+      },
+      {
+         "state": "Himachal Pradesh",
+        "contact_details": {
+          "contact_person": "Sh. Arijit Sen Thakur IPS (SP SDRF)",
+          "mobile": "+91-98160-06938",
+          "phone": "+91-177-2626212",
+          "email1": "sp1-sdrf@hp.gov.in",
+          "email2": "sdma-hp@nic.in"
+        },
+        "date_of_raising": "06/01/2020",
+        "organizational_structure_and_strength": "Having 03 coys, with a total strength of 326 persons",
+        "deployment": "01 coys each deployed at Shimla, Mandi and Dharmashala"
+      },
+       {
+        "state": "Jharkhand",
+        "sdrf_status": "SDRF yet to be raised"
+      },
+      {
+        "state": "Karnataka",
+        "details": "Details",
+        "contact_details": {
+          "phone": "+91-80-25570733",
+          "phone2": "+91-80-22971501",
+          "email": "dgp.ksfes@ka.gov.in"
+        },
+        "date_of_raising": "April 2014",
+        "organizational_structure_and_strength": "There are total of 04 coys having total Strength of 170 persons."
+      },
+      {
+        "state": "Kerala",
+        "contact_details": {
+          "phone": "+91-471-2364424",
+          "phone2": "2331345",
+          "mobile": "+91-9447759655",
+          "email1": "seoc.gok@gmail.com",
+          "email2": "keralasdma@gmail.com"
+        },
+        "date_of_raising": "21/01/2012",
+        "organizational_structure_and_strength": "There is 01 SDRF Battalion consisting of 03 groups and there are 02 teams in each group",
+        "deployment": "Stationed at Malapuram."
+      },
+      {
+         "state": "Madhya Pradesh",
+        "contact_details": {
+          "phone": "+91-755-2708062",
+          "mobile": "+91-9406423049",
+          "email": "secyhomep@mp.gov.in"
+        },
+         "date_of_raising": "30/09/2013",
+        "organizational_structure_and_strength": "There are total of 616 persons, comprising of platoons. Each platoon consists of 10 persons.",
+        "deployment": "01 platoon is deployed in each distt"
+      },
+      {
+         "state": "Maharashtra",
+        "contact_details": {
+          "fax": "+91-7104-238032",
+          "mobile": "+91-7507740400",
+          "email": "sdrfgrunagpur@gmail.com"
+        },
+         "date_of_raising": "19/05/2016",
+        "organizational_structure_and_strength": "It has 02 teams, having total strength of 212 persons",
+        "deployment": "01 team each deployed at Nagpur and Dhule"
+      },
+      {
+         "state": "Manipur",
+        "contact_details": {
+          "phone": "+91-385-2450038",
+          "email": "sdrfgrunagpur@gmail.com"
+        },
+         "date_of_raising": "24/06/2014",
+        "organizational_structure_and_strength": "Total strength is 169 persons",
+        "deployment": "It is deployed at Imphal"
+      },
+      {
+         "state": "Meghalaya",
+        "contact_details": {
+          "phone": "+91-364- 2500053",
+          "mobile": "+91-9436303731",
+          "email": "sdmadeptt007@gmail.com"
+        },
+         "date_of_raising": "01/09/2014",
+        "organizational_structure_and_strength": "It has one company, consisting of 60 persons.",
+        "deployment": "35 persons are deployed at Shillong and 25 persons at Tura."
+      },
+      {
+         "state": "Mizoram",
+        "contact_details": {
+          "mobile": "+91-9612901360",
+          "phone": "+91-389-2315205",
+          "fax": "2322745",
+          "email": "jsdmr@gmail.com"
+        },
+         "date_of_raising": "28/08/2014",
+        "organizational_structure_and_strength": "One coy having strength of 102 persons earmarked as SDRF in all Mizoram Armed Police Bns",
+        "deployment": "Stationed at Aizawal"
+      },
+      {
+         "state": "Nagaland",
+        "contact_details": {
+          "phone": "+91-370-2270068",
+          "fax": "2270071",
+          "mobile": "+91-9868275370",
+          "email": "homecommissionernagaland@gmail.com"
+        },
+         "date_of_raising": "26/01/2016",
+        "organizational_structure_and_strength": "There are total of 212 persons",
+        "deployment": "30 persons each deployed at Kohima, Dimapur and Wokha, 24 persons at Mokokchung, 26 persons at Zunheboto and 22 persons at Phek."
+      },
+      {
+         "state": "Odisha",
+        "contact_details": {
+          "phone": "+91-674-2534180",
+          "email": "srcodishagov@gmail.com"
+        },
+         "date_of_raising": "07/02/2001",
+        "organizational_structure_and_strength": "There are total of 1000 persons having 20 units, consisting of 50 persons each",
+        "deployment": "Deployed at 20 places"
+      },
+      {
+         "state": "Punjab",
+        "contact_details": {
+          "phone": "+91-172-2743854",
+          "phone2": "2740904",
+          "email": "fcr@punjab.gov.in"
+        },
+         "date_of_raising": "2020",
+        "organizational_structure_and_strength": "There are total of 600 persons which are divided into 15 teams.",
+        "deployment": "All teams are stationed at Jalandhar."
+      },
+      {
+         "state": "Rajasthan",
+        "contact_details": {
+          "mobile": "+91-9001999970",
+          "phone": "+91-141-2741927",
+          "email1": "adgp.sdrf@rajpolice.gov.in",
+          "email2": "adgpsdrf@gmail.com"
+        },
+         "date_of_raising": "10/07/2012",
+        "organizational_structure_and_strength": "It has 01 Battalion consisting of 08 Coys having total strength of 1120 persons",
+        "deployment": "It has Batlalion HQ at jaipur which has 01 coy and rest 07 coys are deployed in different distts."
+      },
+      {
+         "state": "Sikkim",
+        "contact_details": {
+          "mobile": "+91-8436750990"
+        },
+         "date_of_raising": "19/09/2012",
+        "organizational_structure_and_strength": "It has 04 platoons, having total strength of 122 persons",
+        "deployment": "02 platoons are deployed at East Sikkim , 01 platoon at West Sikkim and 01 platoon at Gangtok."
+      },
+      {
+         "state": "Tamil Nadu",
+        "contact_details": {
+          "contact_person": "V. JEYASHRI, IPS.",
+          "phone": "+91-44-24328392",
+          "mobile": "+91-98654 71172",
+          "email": "marutham28@gmail.com"
+        },
+         "date_of_raising": "22/08/2012",
+        "organizational_structure_and_strength": "There are total of 02 teams, each comprising of 35 persons and total strength is 70 persons.",
+        "deployment": "Stationed at Chennai"
+      },
+      {
+         "state": "Telangana",
+        "sdrf_status": "SDRF yet to be raised"
+      },
+      {
+         "state": "Tripura",
+        "contact_details": {
+          "phone": "+91-381-2413318/357",
+          "fax": "2413318",
+          "mobile": "+91-9436461940",
+          "email": "sarat.kumar.das@gmail.com"
+        },
+         "date_of_raising": "26/02/2020",
+        "organizational_structure_and_strength": "02 teams of 25 persons each are earmarked for disaster response from each of 12 battalions of Tripura State Rifles. Total strength is 600 persons.",
+        "deployment": "Deployed as per requirement"
+      },
+      {
+         "state": "Uttar Pradesh",
+        "contact_details": {
+          "phone": "+91-522-2238200",
+          "fax": "+91-522-2238084",
+          "mobile": "+91-8299010960"
+        },
+         "date_of_raising": "28/11/2016",
+        "organizational_structure_and_strength": "There are total of 03 battalions consisting of 333 persons each and total strength is 999 persons.",
+        "deployment": "01 battalion each deployed at Lucknow, Prayagraj and Gorakhpur."
+      },
+      {
+         "state": "Uttarkhand",
+        "contact_details": {
+          "phone": "+91-135-2410197",
+          "mobile1": "+91-9412057650",
+          "mobile2": "+91-9456309262",
+          "email": "cosdrf-police-uk@nic.in"
+        },
+         "date_of_raising": "24/08/2013",
+        "organizational_structure_and_strength": "There are total of 04 coys having total strength of 386 persons",
+        "deployment": "Deployed in all distts."
+      },
+      {
+         "state": "West Bengal",
+        "contact_details": {
+          "phone": "+91-33-22143674/501003",
+          "fax": "22144005",
+          "mobile": "+91-9410394444",
+          "email": "ps.dmd-wb@nic.in"
+        },
+         "date_of_raising": "24/01/2013",
+        "organizational_structure_and_strength": "It has 01 battalion, having total strength of 544 persons",
+        "deployment": "Stationed at Kolkata"
+      },
+      {
+         "state": "Andaman & Nicobar Islands",
+        "sdrf_status": "SDRF yet to be raised"
+      },
+      {
+         "state": "Chandigarh",
+        "sdrf_status": "SDRF yet to be raised"
+      },
+      {
+         "state": "Dadra & Nagar Haveli and Daman & Diu",
+        "contact_details": {
+          "phone": "+91-260-2630304",
+          "fax": "2641113",
+          "mobile1": "+91-7874148005",
+          "mobile2": "+91-9426779928",
+          "email": "dmc-dnh@nic.in"
+        },
+         "date_of_raising": "26/09/2014",
+        "organizational_structure_and_strength": "Total Strength is 100",
+        "deployment": "50 Persons each deployed at Dadar Nagar Havelli and Daman & Diu."
+      },
+       {
+         "state": "Jammu and Kashmir",
+        "contact_details": {
+          "phone": "+91-194-2455165",
+          "mobile": "+91-9906967840",
+          "email": "ighg@jkpolice.gov.in"
+        },
+         "date_of_raising": "21/02/2012",
+        "organizational_structure_and_strength": "There are total of 02 Battalions, each consisting of 800 persons approx",
+        "deployment": "Approx 20-30 Persons are deployed in each distt"
+      },
+      {
+         "state": "Delhi",
+        "sdrf_status": "SDRF yet to be raised"
+      },
+      {
+         "state": "Ladakh",
+        "contact_details": {
+          "phone": "+91-1982-251169",
+          "mobile": "+91-9469736051",
+          "email": "utdrfleh@gmail.com"
+        },
+         "date_of_raising": "2013",
+        "organizational_structure_and_strength": "There are total of 36 persons.",
+        "deployment": "18 persons each are deployed at Ladakh and Leh"
+      },
+      {
+         "state": "Lakshadweep",
+        "contact_details": {
+          "mobile": "+91-9958566200",
+          "phone": "+91-4896-262258",
+          "email": "lak-sop@nic.in"
+        },
+         "date_of_raising": "07/09/2015",
+        "organizational_structure_and_strength": "There are total of 34 persons.",
+        "deployment": "Stationed at Secretariat"
+      }
+    ]
+  }

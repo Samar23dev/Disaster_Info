@@ -1,0 +1,299 @@
+{
+    "Emergency_Operations_Centers": [
+      {
+        "Ministry/State": "National Emergency Response Centre",
+        "In charge": "Sh. Kamal Kishore, Member, NDMA",
+        "Contact Number": "011-23438252",
+        "Email": "controlroom.ndma@nic.in",
+        "Timings": "24x7"
+      },
+      {
+        "Ministry/State": "Andhra Pradesh",
+        "In charge": "M.V.S. Rama Rao, IAS, Commissioner, Disaster Management",
+        "Contact Number": "0866-2488000",
+        "Email": "commr_dm@ap.gov.in",
+         "Website": "https://www.apsdma.ap.gov.in/",
+        "Timings": "24x7"
+      },
+      {
+        "Ministry/State": "Arunachal Pradesh",
+        "In charge": "Dani Salu, IAS, Secretary (DM)",
+        "Contact Number": "0360-2212445",
+        "Email": "sdma-ar@nic.in",
+         "Website": "https://dma.arunachal.gov.in/",
+        "Timings": "24x7"
+      },
+       {
+        "Ministry/State": "Assam",
+        "In charge": "M.S. Manivannan, IAS, CEO, ASDMA",
+        "Contact Number": "0361-2237010",
+        "Email": "ceoasdma@gmail.com",
+         "Website": "https://asdma.assam.gov.in/",
+        "Timings": "24x7"
+      },
+       {
+        "Ministry/State": "Bihar",
+        "In charge": "Sanjay Kumar Agarwal, IAS, Secretary, Disaster Management Department",
+        "Contact Number": "0612-2294204",
+        "Email": "dmmbihar@gmail.com",
+         "Website": "http://disastermgmt.bih.nic.in/",
+        "Timings": "24x7"
+      },
+       {
+        "Ministry/State": "Chhattisgarh",
+        "In charge": "Taran Prakash Sinha, IAS, Secretary, Revenue & DM Department",
+        "Contact Number": "0771-2511471",
+        "Email": "reldm@nic.in",
+         "Website": "https://revenue.cg.nic.in/",
+        "Timings": "10:00 AM to 05:30 PM"
+      },
+       {
+        "Ministry/State": "Goa",
+        "In charge": "Ramesh Verma, IAS, Secretary (Revenue)",
+        "Contact Number": "0832-2427071",
+        "Email": "dir-fire.goa@nic.in",
+         "Website": "https://www.goadma.gov.in/",
+        "Timings": "09:30 AM to 05:30 PM"
+      },
+       {
+        "Ministry/State": "Gujarat",
+        "In charge": "Pankaj Kumar, IAS, ACS, Revenue Department",
+        "Contact Number": "079-23254442",
+        "Email": "dircell-rev@gujarat.gov.in",
+         "Website": "https://gsdma.gujarat.gov.in/",
+        "Timings": "10:30 AM to 006:00 PM"
+      },
+       {
+        "Ministry/State": "Haryana",
+        "In charge": "T.V.S.N. Prasad, IAS, Financial Commissioner & ACS, Revenue & DM Department",
+        "Contact Number": "0172-2740306",
+        "Email": "dma-haryana@hry.nic.in",
+         "Website": "https://dmaharyana.gov.in/",
+        "Timings": "09:00 AM to 05:00 PM"
+      },
+       {
+        "Ministry/State": "Himachal Pradesh",
+        "In charge": "Devesh Kumar, IAS, Secretary (Revenue)",
+        "Contact Number": "0177-2629853",
+        "Email": "sdma-hp@nic.in",
+         "Website": "https://hpsdma.nic.in/",
+        "Timings": "10:00 AM to 05:00 PM"
+      },
+       {
+        "Ministry/State": "Jharkhand",
+        "In charge": "Amitabh Kaushal, IAS, Secretary, DM",
+        "Contact Number": "0651-2400973",
+        "Email": "ddmjharkhand@gmail.com",
+         "Website": "https://jsdma.jharkhand.gov.in/",
+        "Timings": "10:00 AM to 05:00 PM"
+      },
+       {
+        "Ministry/State": "Karnataka",
+        "In charge": "Dr. T.K. Anil Kumar, IAS, Commissioner, Disaster Management",
+        "Contact Number": "080-22354041",
+        "Email": "mdckarnataka@gmail.com",
+         "Website": "https://ksdma.karnataka.gov.in/",
+        "Timings": "10:00 AM to 05:30 PM"
+      },
+       {
+        "Ministry/State": "Kerala",
+        "In charge": "Shekhar L. Kuriakose, Member Secretary, KSDMA",
+        "Contact Number": "0471-2331345",
+        "Email": "keralasdma@gmail.com",
+         "Website": "https://sdma.kerala.gov.in/",
+        "Timings": "24x7"
+      },
+       {
+        "Ministry/State": "Madhya Pradesh",
+        "In charge": "Manish Rastogi, IAS, Principal Secretary, Revenue Department",
+        "Contact Number": "0755-2556984",
+        "Email": "relief.mp@nic.in",
+         "Website": "https://revenue.mp.gov.in/",
+        "Timings": "10:30 AM to 05:30 PM"
+      },
+       {
+        "Ministry/State": "Maharashtra",
+        "In charge": "Aseem Kumar Gupta, IAS, Principal Secretary",
+        "Contact Number": "022-22027990",
+        "Email": "reliefcomm@maharashtra.gov.in",
+         "Website": "https://www.mahadma.maharashtra.gov.in/",
+        "Timings": "09:45 AM to 05:45 PM"
+      },
+       {
+        "Ministry/State": "Manipur",
+        "In charge": "M.H. Khan, IAS, Secretary (Revenue)",
+        "Contact Number": "0385-2450840",
+        "Email": "dirmgmt-mn@nic.in",
+         "Website": "http://manipur.gov.in/",
+        "Timings": "09:00 AM to 05:30 PM"
+      },
+       {
+        "Ministry/State": "Meghalaya",
+        "In charge": "P. Sampath Kumar, IAS, Principal Secretary, Revenue & DM Department",
+        "Contact Number": "0364-2505030",
+        "Email": "sdma.meg@nic.in",
+         "Website": "https://megsdma.gov.in/",
+        "Timings": "10:00 AM to 05:00 PM"
+      },
+       {
+        "Ministry/State": "Mizoram",
+        "In charge": "H. Lalengmawia, IAS, Secretary, DM&R",
+        "Contact Number": "0389-2322306",
+        "Email": "dmr.mizoram@gmail.com",
+         "Website": "https://dmr.mizoram.gov.in/",
+        "Timings": "10:00 AM to 05:00 PM"
+      },
+       {
+        "Ministry/State": "Nagaland",
+        "In charge": "Abhijit Sinha, IAS, Commissioner & Secretary, DM",
+        "Contact Number": "0370-2270068",
+        "Email": "dmd-nl@nic.in",
+         "Website": "http://dmd.nagaland.gov.in/",
+        "Timings": "09:30 AM to 04:00 PM"
+      },
+       {
+        "Ministry/State": "Odisha",
+        "In charge": "Pradeep Kumar Jena, IAS, Special Relief Commissioner",
+        "Contact Number": "0674-2534177",
+        "Email": "srcodisha@nic.in",
+         "Website": "https://www.odisha.gov.in/",
+        "Timings": "24x7"
+      },
+       {
+        "Ministry/State": "Punjab",
+        "In charge": "Kumar Rahul, IAS, Secretary, DM",
+        "Contact Number": "0172-2740397",
+        "Email": "ddmpb@punjab.gov.in",
+         "Website": "http://www.revenue.punjab.gov.in/",
+        "Timings": "09:00 AM to 05:00 PM"
+      },
+       {
+        "Ministry/State": "Rajasthan",
+        "In charge": "Praveen Gupta, IAS, Secretary, DM",
+        "Contact Number": "0141-2227163",
+        "Email": "dmer-raj@nic.in",
+         "Website": "https://ddm.rajasthan.gov.in/",
+        "Timings": "09:30 AM to 06:00 PM"
+      },
+       {
+        "Ministry/State": "Sikkim",
+        "In charge": "Anil Raj Rai, IAS, Secretary, Land Revenue & DM Department",
+        "Contact Number": "03592-202462",
+        "Email": "secy-lrdm@nic.in",
+         "Website": "http://sikkim.gov.in/",
+        "Timings": "09:30 AM to 04:30 PM"
+      },
+       {
+        "Ministry/State": "Tamil Nadu",
+        "In charge": "K. Phanindra Reddy, IAS, Commissioner of Revenue Admn",
+        "Contact Number": "044-25260088",
+        "Email": "cra.eoc@tn.gov.in",
+         "Website": "https://www.tnsdma.tn.gov.in/",
+        "Timings": "10:00 AM to 05:45 PM"
+      },
+       {
+        "Ministry/State": "Telangana",
+        "In charge": "Rahul Bojja, IAS, Secretary, Revenue Department",
+        "Contact Number": "040-23450624",
+        "Email": "revsec@telangana.gov.in",
+         "Website": "https://tsdma.telangana.gov.in/",
+        "Timings": "10:00 AM to 05:00 PM"
+      },
+       {
+        "Ministry/State": "Tripura",
+        "In charge": "Brijesh Pandey, IAS, Secretary, Revenue",
+        "Contact Number": "0381-2323861",
+        "Email": "rev-tripura@nic.in",
+         "Website": "https://dm.tripura.gov.in/",
+        "Timings": "10:00 AM to 05:30 PM"
+      },
+       {
+        "Ministry/State": "Uttar Pradesh",
+        "In charge": "P. Guruprasad, IAS, Relief Commissioner",
+        "Contact Number": "0522-2238054",
+        "Email": "reliefcom@nic.in",
+         "Website": "http://up.gov.in/",
+        "Timings": "10:00 AM to 06:00 PM"
+      },
+       {
+        "Ministry/State": "Uttarakhand",
+        "In charge": "Ranjit Kumar Sinha, IAS, Secretary, DM",
+        "Contact Number": "0135-2710334",
+        "Email": "ddm-uk@nic.in",
+         "Website": "https://ukdma.uk.gov.in/",
+        "Timings": "10:00 AM to 05:00 PM"
+      },
+       {
+        "Ministry/State": "West Bengal",
+        "In charge": "Javed Khan, IAS, Secretary, DM Department",
+        "Contact Number": "033-22145664",
+        "Email": "dmdwb@gmail.com",
+         "Website": "https://wbddma.gov.in/",
+        "Timings": "10:30 AM to 05:30 PM"
+      },
+       {
+        "Ministry/State": "Andaman & Nicobar Islands",
+        "In charge": "C. Udaya Kumar, IAS, Secretary (DM)",
+        "Contact Number": "03192-238901",
+        "Email": "dm-and@nic.in",
+         "Website": "https://andaman.gov.in/",
+        "Timings": "09:00 AM to 05:30 PM"
+      },
+       {
+        "Ministry/State": "Chandigarh",
+        "In charge": "Purva Garg, IAS, Secretary (DM)",
+        "Contact Number": "0172-2700314",
+        "Email": "sdma-chd@nic.in",
+         "Website": "http://chandigarh.gov.in/",
+        "Timings": "09:00 AM to 05:00 PM"
+      },
+       {
+        "Ministry/State": "Dadra & Nagar Haveli and Daman & Diu",
+        "In charge": "Dr. Sharad Darade, IAS, Secretary (Revenue)",
+        "Contact Number": "0260-2640356",
+        "Email": "ddma-daman-dd@nic.in",
+         "Website": "https://daman.nic.in/",
+        "Timings": "09:30 AM to 006:00 PM"
+      },
+       {
+        "Ministry/State": "Delhi",
+        "In charge": "Dr. K.S. Hosalikar, Scientist 'F', IMD",
+        "Contact Number": "011-24631770",
+        "Email": "nwc.imd@nic.in",
+         "Website": "https://imd.gov.in/",
+        "Timings": "24x7"
+      },
+       {
+        "Ministry/State": "Jammu and Kashmir",
+        "In charge": "Nazim Zia Khan, IAS, Secretary, DM, Relief, Rehabilitation & Reconstruction Department",
+        "Contact Number": "0194-2506268",
+        "Email": "dmd-jk@nic.in",
+         "Website": "http://jammukashmir.nic.in/",
+        "Timings": "10:00 AM to 05:00 PM"
+      },
+       {
+        "Ministry/State": "Ladakh",
+        "In charge": "Saugat Biswas, IAS, Commissioner/Secretary",
+        "Contact Number": "01982-257416",
+        "Email": "dm-ladakh@nic.in",
+         "Website": "https://ladakh.nic.in/",
+        "Timings": "10:00 AM to 05:00 PM"
+      },
+       {
+        "Ministry/State": "Lakshadweep",
+        "In charge": "A. Anbarasu, IAS, Secretary (Revenue)",
+        "Contact Number": "04896-262258",
+        "Email": "dm-lak@nic.in",
+         "Website": "https://lakshadweep.gov.in/",
+        "Timings": "09:30 AM to 05:30 PM"
+      },
+       {
+        "Ministry/State": "Puducherry",
+        "In charge": "Dr. T. Arun, IAS, Secretary (Revenue)",
+        "Contact Number": "0413-2334141",
+        "Email": "rev.pon@nic.in",
+         "Website": "http://dma.puducherry.gov.in/",
+        "Timings": "09:00 AM to 005:30 PM"
+      }
+    ]
+  }

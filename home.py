@@ -1,10 +1,5 @@
 import streamlit as st
 import pandas as pd
-import folium
-from folium.plugins import MarkerCluster
-from streamlit_folium import st_folium
-import plotly.express as px
-from wordcloud import WordCloud
 from datetime import datetime, timedelta, timezone
 from pymongo import MongoClient
 import os
@@ -54,6 +49,26 @@ def get_custom_icon_path(disaster_event):
     }
     return icon_paths.get(disaster_event, 'icons/default.png')
 
+def get_disaster_color(disaster_event):
+    """Get color for disaster event type."""
+    color_map = {
+        "Avalanche": "#8B4513",  # Brown
+        "Blizzard": "#87CEEB",   # Sky Blue
+        "Cyclone": "#4169E1",    # Royal Blue
+        "Drought": "#DAA520",    # Goldenrod
+        "Earthquake": "#FF4500", # Orange Red
+        "Flood": "#1E90FF",      # Dodger Blue
+        "Heatwave": "#FF6347",   # Tomato
+        "Hurricane": "#000080",  # Navy
+        "Landslide": "#A0522D",  # Sienna
+        "Storm": "#4682B4",      # Steel Blue
+        "Tornado": "#4B0082",    # Indigo
+        "Tsunami": "#00CED1",    # Dark Turquoise
+        "Volcano": "#8B0000",    # Dark Red
+        "Wildfire": "#FF8C00",   # Dark Orange
+    }
+    return color_map.get(disaster_event, "#808080")  # Default gray
+
 def main():
     try:
         # MongoDB connection
@@ -86,21 +101,18 @@ def main():
             df['date_only'] = df['timestamp'].dt.strftime('%Y-%m-%d')
             df.drop_duplicates(subset=['date_only', 'disaster_event', 'Location'], inplace=True)
             df.drop(columns=['date_only'], inplace=True)
+            
+            # Add color column for visualization
+            df['color'] = df['disaster_event'].apply(get_disaster_color)
         except Exception as e:
             logger.error(f"Error processing data: {str(e)}")
             st.error("Error processing data. Please try again later.")
             return
 
-        # UI Components
-        st.title("Geospatial Visualization for Disaster Monitoring")
-        selected_events = st.multiselect(
-            "Select Disaster Events",
-            ["All"] + list(df["disaster_event"].unique()),
-            default=["All"]
-        )
-
-        # Sidebar filters
-        st.sidebar.header('Filter Data')
+        # Sidebar date filter
+        st.sidebar.markdown('<div class="card">', unsafe_allow_html=True)
+        st.sidebar.markdown('<h3 style="color: #1E88E5; margin-bottom: 1rem;">Date Filter</h3>', unsafe_allow_html=True)
+        
         start_date_min = datetime.utcnow().date() - timedelta(days=7)
         start_date_past = datetime(2023, 1, 1)
         
@@ -117,101 +129,44 @@ def main():
             min_value=start_date_past,
             max_value=datetime.utcnow().date()
         )
+        st.sidebar.markdown('</div>', unsafe_allow_html=True)
 
-        # Date filtering
-        start_date_utc = datetime.combine(start_date, datetime.min.time()).replace(tzinfo=timezone.utc)
-        end_date_utc = datetime.combine(end_date, datetime.max.time()).replace(tzinfo=timezone.utc)
-
-        # Filter dataframe
-        if "All" in selected_events:
-            filtered_df = df[(df['timestamp'] >= start_date_utc) & (df['timestamp'] <= end_date_utc)]
-        else:
-            filtered_df = df[
-                (df['timestamp'] >= start_date_utc) &
-                (df['timestamp'] <= end_date_utc) &
-                (df['disaster_event'].isin(selected_events))
-            ]
-
-        if filtered_df.empty:
-            st.subheader(":green[No Disaster data available after filtering based on the condition]")
-            return
-
-        # Map creation
-        map_center = (filtered_df['Latitude'].mean(), filtered_df['Longitude'].mean())
-        mymap = folium.Map(location=map_center, zoom_start=4, fullscreen_control=True)
-        marker_cluster = MarkerCluster().add_to(mymap)
-
-        # Add markers
-        for index, row in filtered_df.iterrows():
-            try:
-                custom_icon_path = get_custom_icon_path(row['disaster_event'])
-                custom_icon = folium.CustomIcon(
-                    icon_image=custom_icon_path,
-                    icon_size=(35, 35),
-                    icon_anchor=(15, 30),
-                    popup_anchor=(0, -25)
-                )
-                popup_content = f"<a href='{row['url']}' target='_blank'>{row['title']}</a>"
-                tooltip_content = f"{row['disaster_event']}, {row['Location']}"
-                folium.Marker(
-                    location=[row['Latitude'], row['Longitude']],
-                    popup=folium.Popup(popup_content, max_width=300),
-                    icon=custom_icon,
-                    tooltip=tooltip_content
-                ).add_to(marker_cluster)
-            except Exception as e:
-                logger.error(f"Error adding marker for row {index}: {str(e)}")
-                continue
-
-        # Map styles
-        base_map_styles = {
-            'Terrain': 'https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png',
-            'Satellite': 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
-            'OpenStreetMap': 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-            'Stamen Terrain': 'https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg'
-        }
-
-        # Add base map styles
-        for name, url in base_map_styles.items():
-            folium.TileLayer(url, attr=f"© {name}", name=name).add_to(mymap)
-
-        # Add layer control
-        folium.LayerControl(collapsed=True).add_to(mymap)
-
-        # Display map
-        st_folium(mymap, width='50%', height=500)
-
-        # Display filtered data
-        with st.expander("Disaster Data Overview"):
-            expander_title = f"### Disaster Data for {'All Events' if 'All' in selected_events else ', '.join(selected_events)}"
-            st.markdown(expander_title, unsafe_allow_html=True)
-            columns_to_display = ['title', 'disaster_event', 'timestamp', 'source', 'url', 'Location']
-            st.write(filtered_df[columns_to_display])
-
-        # Recent events marquee
-        df_filtered = df[df['disaster_event'].isin(["Earthquake", "Flood", "Cyclone", "Volcano"])]
+        # Recent events in sidebar
+        st.sidebar.markdown('<div class="card">', unsafe_allow_html=True)
+        st.sidebar.markdown('<h3 style="color: #1E88E5; margin-bottom: 1rem;">Recent Key Events</h3>', unsafe_allow_html=True)
+        
+        # Filter recent events
+        recent_events = df[df['disaster_event'].isin(["Earthquake", "Flood", "Cyclone", "Volcano"])]
         seven_days_ago = pd.Timestamp(datetime.utcnow() - timedelta(days=5), tz="UTC")
-        filtered_recent_events = df_filtered[df_filtered['timestamp'] >= seven_days_ago]
-        filtered_recent_events_sorted = filtered_recent_events.sort_values(by='timestamp', ascending=False)
+        recent_events = recent_events[recent_events['timestamp'] >= seven_days_ago]
+        recent_events = recent_events.sort_values(by='timestamp', ascending=False)
 
         # Create marquee content
         marquee_content = ""
-        for index, row in filtered_recent_events_sorted.iterrows():
-            marquee_content += f"<a href='{row['url']}' target='_blank'>{row['title']}</a> <br><br>"
+        for _, row in recent_events.iterrows():
+            marquee_content += f"""
+            <div style="margin-bottom: 15px; padding: 10px; border-left: 4px solid {row['color']}; background-color: #f8f9fa;">
+                <div style="font-weight: bold; color: {row['color']}; margin-bottom: 5px;">{row['disaster_event']}</div>
+                <a href="{row['url']}" target="_blank" style="text-decoration: none; color: #333;">{row['title']}</a>
+                <div style="font-size: 0.8em; color: #666; margin-top: 5px;">{row['Location']} - {row['timestamp'].strftime('%Y-%m-%d')}</div>
+            </div>
+            """
 
         # Marquee HTML
         marquee_html = f"""
-            <h1>Key Events</h1>
             <div class="marquee-container" onmouseover="stopMarquee()" onmouseout="startMarquee()">
                 <div class="marquee-content">{marquee_content}</div>
             </div>
             <style>
                 .marquee-container {{
-                    height: 100%;
+                    height: 300px;
                     overflow: hidden;
+                    border-radius: 5px;
+                    background-color: white;
                 }}
                 .marquee-content {{
                     animation: marquee 40s linear infinite;
+                    padding: 10px;
                 }}
                 @keyframes marquee {{
                     0%   {{ transform: translateY(10%); }}
@@ -230,9 +185,65 @@ def main():
                 }}
             </script>
         """
-
-        # Display marquee
         st.sidebar.markdown(marquee_html, unsafe_allow_html=True)
+        st.sidebar.markdown('</div>', unsafe_allow_html=True)
+
+        # Date filtering
+        start_date_utc = datetime.combine(start_date, datetime.min.time()).replace(tzinfo=timezone.utc)
+        end_date_utc = datetime.combine(end_date, datetime.max.time()).replace(tzinfo=timezone.utc)
+        filtered_df = df[(df['timestamp'] >= start_date_utc) & (df['timestamp'] <= end_date_utc)]
+
+        # Display header
+        st.markdown('<div class="card">', unsafe_allow_html=True)
+        st.markdown('<h1 style="color: #1E88E5; text-align: center; margin-bottom: 1rem;">Global Disaster News Feed</h1>', unsafe_allow_html=True)
+        st.markdown('</div>', unsafe_allow_html=True)
+
+        # Display news feed with improved styling
+        st.markdown('<div class="card">', unsafe_allow_html=True)
+        
+        # Add download button
+        if not filtered_df.empty:
+            csv = filtered_df[['title', 'disaster_event', 'timestamp', 'source', 'url', 'Location']].to_csv(index=False)
+            st.download_button(
+                label="Download Data as CSV",
+                data=csv,
+                file_name="disaster_data.csv",
+                mime="text/csv",
+                help="Click to download the current filtered data as CSV",
+            )
+
+        # Create news feed with improved styling
+        for _, row in filtered_df.iterrows():
+            st.markdown(f"""
+                <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 15px; margin-bottom: 15px; background-color: white;">
+                    <div style="display: flex; align-items: start; gap: 15px;">
+                        <div style="min-width: 80px; text-align: center;">
+                            <img src="{get_custom_icon_path(row['disaster_event'])}" style="width: 40px; height: 40px;">
+                            <div style="color: {row['color']}; font-weight: bold; font-size: 0.9em; margin-top: 5px;">
+                                {row['disaster_event']}
+                            </div>
+                        </div>
+                        <div style="flex-grow: 1;">
+                            <h3 style="color: #333; margin: 0 0 10px 0; font-size: 1.1em;">{row['title']}</h3>
+                            <div style="display: flex; justify-content: space-between; align-items: center; color: #666; font-size: 0.9em;">
+                                <div>
+                                    <span style="margin-right: 15px;">📍 {row['Location']}</span>
+                                    <span style="margin-right: 15px;">📰 {row['source']}</span>
+                                    <span>🕒 {row['timestamp'].strftime('%Y-%m-%d %H:%M')}</span>
+                                </div>
+                                <a href="{row['url']}" target="_blank" 
+                                   style="background-color: {row['color']}; color: white; 
+                                          padding: 5px 15px; text-decoration: none; 
+                                          border-radius: 5px; font-size: 0.9em;">
+                                    Read More
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            """, unsafe_allow_html=True)
+        
+        st.markdown('</div>', unsafe_allow_html=True)
 
     except Exception as e:
         logger.error(f"Unexpected error in main function: {str(e)}")
