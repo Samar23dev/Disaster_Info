@@ -1,6 +1,10 @@
-/firebase-credentials.json
-__pycache__/
-*.py[cod]
-*$py.class
-*.cpython-*.pyc
-.env
+   /firebase-credentials.json
+   __pycache__/
+   *.py[cod]
+   *$py.class
+   *.log
+   .env
+   *.pyc
+   *.pyo
+   precausion.cpython-312.pyc
+   insight.cpython-312.pyc
