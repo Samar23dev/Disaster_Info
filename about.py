@@ -8,46 +8,48 @@ logger = logging.getLogger(__name__)
 def main():
     """Display information about the application."""
     try:
-        st.header("Geo-Spatial Visualization for Disaster Monitoring")
+        st.title("🌍 Geo-Spatial Visualization for Disaster Monitoring")
         st.write(
             """
-            Geo-Spatial Visualization for Disaster Monitoring is a web application to monitor and visualize disasters in real-time through the analysis of news articles. By extracting valuable information from news sources, the project aims to provide a comprehensive overview of ongoing and past disaster events. 
+            Welcome to the **Geo-Spatial Visualization for Disaster Monitoring** application! This web application allows you to monitor and visualize disasters in real-time through the analysis of news articles. By extracting valuable information from various news sources, we aim to provide a comprehensive overview of ongoing and past disaster events.
             """
         )
 
-        st.subheader("Features")
+        st.subheader("✨ Features")
         st.markdown("""
-        1. Interactive Map Visualization: View the geographical distribution of disaster events on an interactive map powered by Folium.
-        2. Filtering Options: Filter disaster events based on event type and date range using Streamlit sidebar widgets.
-        3. Insights and Analytics: Gain insights into disaster events through various interactive visualizations including charts, word clouds, and event counts over time.
-        4. Key Events Marquee: Display a scrolling marquee in the sidebar showcasing recent key events with clickable links to more information.
-        5. Dynamic Updates: The application dynamically updates visualizations and data based on user-selected filters.
+        - **Interactive Map Visualization**: View the geographical distribution of disaster events on an interactive map powered by Folium.
+        - **Filtering Options**: Filter disaster events based on event type and date range using intuitive sidebar widgets.
+        - **Insights and Analytics**: Gain insights into disaster events through various interactive visualizations, including charts, word clouds, and event counts over time.
+        - **Key Events Marquee**: Stay updated with a scrolling marquee in the sidebar showcasing recent key events with clickable links for more information.
+        - **Dynamic Updates**: The application dynamically updates visualizations and data based on user-selected filters.
         """)
 
-        st.subheader("Data Sources")
+        st.subheader("📊 Data Sources")
         st.write(
             """
-            The project primarily collects data from NewsAPI, a service providing access to various news articles.
-            After preprocessing, the data is stored in MongoDB with the database name GeoNews. 
-            Additional data sources may be integrated to enhance the coverage and accuracy of the information.
+            The project primarily collects data from **NewsAPI**, a service providing access to various news articles. After preprocessing, the data is stored in **MongoDB** with the database name **GeoNews**. Additional data sources may be integrated to enhance the coverage and accuracy of the information.
             """
         )
 
-        st.subheader("Technologies Used")
+        st.subheader("🛠️ Technologies Used")
+        st.markdown("""
+        - **Python**: The programming language used for data processing and visualization.
+        - **Streamlit**: The framework for building interactive web applications.
+        - **Pandas**: A library for data manipulation and analysis.
+        - **Folium**: A library for creating interactive maps.
+        - **Plotly**: A library for generating interactive plots and charts.
+        - **MongoDB**: The database for storing and querying geospatial data.
+        """)
+
+        st.subheader("👥 Contributors")
         st.write(
             """
-            1. **Python**: Programming language for data processing and visualization.
-            2. **Streamlit**: Framework for building interactive web applications.
-            3. **Pandas**: Library for data manipulation and analysis.
-            4. **Folium**: Library for creating interactive maps.
-            5. **Plotly**: Library for generating interactive plots and charts.
-            6. **MongoDB**: Database for storing and querying geospatial data.
-            """
-        )
+            This project was developed by **Samar Mittal** and **Anay Mahajan**. We collaborated to create a comprehensive tool for monitoring and visualizing disaster events.
+            """)
 
-        st.subheader("GitHub Repository")
-        st.write("[Link to GitHub](https://github.com/ARYANRVIMPADAPU/GeoNews)")
-        
+        st.subheader("🔗 GitHub Repository")
+        st.write("[Explore the GitHub Repository](https://github.com/Samar23dev/Disaster_Info)")
+
         logger.info("About page displayed successfully")
     except Exception as e:
         logger.error(f"Error displaying about page: {str(e)}")

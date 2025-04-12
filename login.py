@@ -31,8 +31,8 @@ except Exception as e:
 def send_email(email):
     """Send welcome email to new user with error handling."""
     try:
-        email_sender = os.getenv('EMAIL_SENDER', 'samarmittal59@gmail.com')
-        email_password = os.getenv('EMAIL_PASSWORD', 'disasterinformationboard')
+        email_sender = os.getenv('EMAIL_SENDER')
+        email_password = os.getenv('EMAIL_PASSWORD')
         email_receiver = email
         subject = "Welcome to Geo-Spatial Visualization for Disaster Monitoring"
 

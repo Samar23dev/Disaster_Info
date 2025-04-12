@@ -26,7 +26,7 @@ st.markdown("""
         text-align: center;
         margin-bottom: 1rem;
         padding-bottom: 0.5rem;
-        border-bottom: 2px solid #1E88E5;
+        border-bottom: 1px solid #1E88E5;
     }
     
     /* Subtitle styling */
@@ -152,13 +152,14 @@ def main():
         # Add a header with logo
         col1, col2, col3 = st.columns([1, 2, 1])
         with col2:
+            st.markdown('<h1 class="main-title"> </h1>', unsafe_allow_html=True)
             st.markdown('<h1 class="main-title">Disaster Information System</h1>', unsafe_allow_html=True)
-            st.markdown('<p class="subtitle">Real-time monitoring and visualization of global disasters</p>', unsafe_allow_html=True)
+            # st.markdown('<p class="subtitle">Real-time monitoring and visualization of global disasters</p>', unsafe_allow_html=True)
         
         # Set up the navigation menu with improved styling
         selected = option_menu(
             menu_title=None,
-            options=["Home", "Alerts", "Insight", "Weather", "About", "Precausion", "Login"],
+            options=["Home", "Alerts", "Insight", "Weather", "About", "Precausion", "Login/SignUp"],
             icons=["house", "bell", "globe", "cloud-sun", "info", "7-circle", "key"],
             orientation="horizontal",
             default_index=0,  # Set Home as default
@@ -174,7 +175,7 @@ def main():
         module_map = {
             "Home": "home",
             "Alerts": "alerts",
-            "Login": "login",
+            "Login/SignUp": "login",
             "About": "about",
             "Insight": "insight",
             "Precausion": "precausion",

@@ -33,14 +33,14 @@ def main():
             st.markdown('<div class="card">', unsafe_allow_html=True)
             st.markdown('<h3 style="color: #1E88E5; margin-bottom: 1rem;">Global Weather Map</h3>', unsafe_allow_html=True)
             
-            # Windy map iframe with simplified controls
+            # Windy map iframe with temperature as the default overlay
             windy_html = f"""
-            <div style="width: 100%; height: 600px; border-radius: 10px; overflow: hidden;">
+            <div style="width: 100%; height: 800px; border-radius: 10px; overflow: hidden;">
                 <iframe
                     width="100%"
                     height="100%"
                     frameborder="0"
-                    src="https://embed.windy.com/embed2.html?lat=20.593684&lon=78.962880&zoom=5&level=surface&overlay=wind&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=satellite&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1&overlay=rain&overlay=wind&overlay=temp&overlay=clouds&overlay=pressure&overlay=waves"
+                    src="https://embed.windy.com/embed2.html?lat=20.593684&lon=78.962880&zoom=5&level=surface&overlay=temp&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=satellite&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1&overlay=rain&overlay=wind&overlay=clouds&overlay=pressure&overlay=waves"
                     style="border-radius: 10px;"
                 ></iframe>
             </div>

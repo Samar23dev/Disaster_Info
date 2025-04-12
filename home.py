@@ -47,7 +47,7 @@ def get_custom_icon_path(disaster_event):
         "Volcano": "icons/volcano.png",
         "Wildfire": "icons/wildfire.png",
     }
-    return icon_paths.get(disaster_event, 'icons/default.png')
+    return icon_paths.get(disaster_event, 'icons/default.png')  # Default icon if not found
 
 def get_disaster_color(disaster_event):
     """Get color for disaster event type."""
@@ -198,6 +198,10 @@ def main():
         st.markdown('<h1 style="color: #1E88E5; text-align: center; margin-bottom: 1rem;">Global Disaster News Feed</h1>', unsafe_allow_html=True)
         st.markdown('</div>', unsafe_allow_html=True)
 
+        # Initialize session state for pagination
+        if 'news_count' not in st.session_state:
+            st.session_state.news_count = 20  # Start with 20 news items
+
         # Display news feed with improved styling
         st.markdown('<div class="card">', unsafe_allow_html=True)
         
@@ -213,12 +217,12 @@ def main():
             )
 
         # Create news feed with improved styling
-        for _, row in filtered_df.iterrows():
+        for _, row in filtered_df.head(st.session_state.news_count).iterrows():
             st.markdown(f"""
                 <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 15px; margin-bottom: 15px; background-color: white;">
-                    <div style="display: flex; align-items: start; gap: 15px;">
+                    <div style="display: flex; align-items: center; gap: 15px;">
                         <div style="min-width: 80px; text-align: center;">
-                            <img src="{get_custom_icon_path(row['disaster_event'])}" style="width: 40px; height: 40px;">
+                            <img src="{get_custom_icon_path(row['disaster_event'])}" style="width: 40px; height: 40px; vertical-align: middle;">
                             <div style="color: {row['color']}; font-weight: bold; font-size: 0.9em; margin-top: 5px;">
                                 {row['disaster_event']}
                             </div>
@@ -243,6 +247,10 @@ def main():
                 </div>
             """, unsafe_allow_html=True)
         
+        # Load More button
+        if st.button("Load More"):
+            st.session_state.news_count += 20  # Increase the count by 20
+
         st.markdown('</div>', unsafe_allow_html=True)
 
     except Exception as e:

@@ -39,7 +39,7 @@ except importlib.metadata.PackageNotFoundError:
     raise
 
 # API Keys and Configuration
-NEWSAPI_KEY = os.getenv('NEWSAPI_KEY', '9026d49691d14f95bb9320730158b797')
+NEWSAPI_KEY = os.getenv('NEWSAPI_KEY')
 NEWSAPI_ENDPOINT = 'https://newsapi.org/v2/everything'
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
 MONGODB_URI = os.getenv('MONGODB_URI', "mongodb+srv://samarmittal59:Qwerty%40123@cluster0.raeompg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -89,7 +89,7 @@ def fetch_live_data(keyword):
             'language': 'en',
             'sortBy': 'relevancy'
         }
-        
+
         response = requests.get(NEWSAPI_ENDPOINT, params=params, timeout=30)
         response.raise_for_status()
         return response.json().get('articles', [])
@@ -276,7 +276,7 @@ def create_location(row):
         return row['Country']
     return np.nan
 
-def main(test_mode=False, max_test_batches=3):
+def main():
     try:
         logger.info("Starting data collection process")
         all_live_data = []
@@ -291,7 +291,7 @@ def main(test_mode=False, max_test_batches=3):
         if not all_live_data:
             logger.warning("No articles collected")
             return
-            
+        
         logger.info(f"Total articles collected: {len(all_live_data)}")
         
         # Pre-filter articles using NLP and keyword matching
@@ -301,26 +301,14 @@ def main(test_mode=False, max_test_batches=3):
         if not pre_filtered_articles:
             logger.warning("No potentially relevant articles found after pre-filtering")
             return
-            
+        
         # Process pre-filtered articles in batches
-        batch_size = 10  # Reduced batch size to avoid timeouts
+        batch_size = 10  # Adjust as needed
         processed_articles = []
         
-        # Calculate total batches
-        total_batches = (len(pre_filtered_articles) + batch_size - 1) // batch_size
-        
-        # If in test mode, limit the number of batches
-        if test_mode:
-            logger.info(f"TEST MODE: Processing only {max_test_batches} batches out of {total_batches} total batches")
-            total_batches = min(max_test_batches, total_batches)
-        
         for i in range(0, len(pre_filtered_articles), batch_size):
-            current_batch = (i // batch_size) + 1
-            if current_batch > total_batches:
-                break
-                
             batch = pre_filtered_articles[i:i + batch_size]
-            logger.info(f"Processing batch {current_batch} of {total_batches}")
+            logger.info(f"Processing batch {i // batch_size + 1} of {len(pre_filtered_articles) // batch_size + 1}")
             processed_batch = process_articles_batch(batch)
             processed_articles.extend(processed_batch)
             
@@ -330,7 +318,7 @@ def main(test_mode=False, max_test_batches=3):
         if not processed_articles:
             logger.warning("No disaster articles found after Gemini processing")
             return
-            
+        
         # Create DataFrame and process data
         df = pd.DataFrame(processed_articles)
         logger.info(f"Final data collection: {len(df)} articles")
@@ -381,13 +369,12 @@ def main(test_mode=False, max_test_batches=3):
             logger.error(f"Error inserting data into MongoDB: {str(e)}")
         finally:
             client.close()
-            
-        logger.info("Data collection process completed successfully")
         
+        logger.info("Data collection process completed successfully")
+    
     except Exception as e:
         logger.error(f"Fatal error in main process: {str(e)}")
         raise
 
 if __name__ == "__main__":
-    # Run in test mode with 3 batches
-    main(test_mode=True, max_test_batches=300)
+    main()
