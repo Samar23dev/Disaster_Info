@@ -1,0 +1,13 @@
+2025-04-13 22:33:51,746 - INFO - Using google-generativeai version: 0.8.4
+2025-04-13 22:33:53,863 - INFO - Gemini API configured and tested successfully
+2025-04-13 22:33:54,870 - INFO - spaCy model loaded successfully
+2025-04-13 22:33:54,912 - INFO - Starting data collection process
+2025-04-13 22:33:54,912 - INFO - Processing keyword: earthquake
+2025-04-13 22:33:55,322 - ERROR - Error fetching data for keyword earthquake: 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=earthquake&from=2025-04-08&to=2025-04-13&language=en&sortBy=relevancy
+2025-04-13 22:33:55,322 - INFO - Processing keyword: flood
+2025-04-13 22:33:56,452 - ERROR - Error fetching data for keyword flood: 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=flood&from=2025-04-08&to=2025-04-13&language=en&sortBy=relevancy
+2025-04-13 22:33:56,452 - INFO - Processing keyword: tsunami
+2025-04-13 22:33:57,547 - ERROR - Error fetching data for keyword tsunami: 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=tsunami&from=2025-04-08&to=2025-04-13&language=en&sortBy=relevancy
+2025-04-13 22:33:57,563 - INFO - Processing keyword: hurricane
+2025-04-13 22:33:58,622 - ERROR - Error fetching data for keyword hurricane: 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=hurricane&from=2025-04-08&to=2025-04-13&language=en&sortBy=relevancy
+2025-04-13 22:33:58,622 - INFO - Processing keyword: wildfire

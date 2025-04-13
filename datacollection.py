@@ -356,6 +356,11 @@ def main():
         df.to_excel(excel_filename, index=False)
         logger.info(f"Processed data saved to {excel_filename}: {len(df)} valid entries")
         
+        # Save to JSON
+        json_filename = f'disaster_data_{timestamp}.json'
+        df.to_json(json_filename, orient='records', date_format='iso')
+        logger.info(f"Processed data saved to {json_filename}: {len(df)} valid entries")
+        
         # Save to MongoDB
         client = MongoClient(MONGODB_URI, server_api=ServerApi('1'))
         db = client["newsfetcher"]

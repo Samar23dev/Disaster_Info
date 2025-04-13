@@ -15,7 +15,7 @@ def main():
     try:
         # Add a header with improved styling
         st.markdown('<div class="card">', unsafe_allow_html=True)
-        st.markdown('<h2 style="color: #1E88E5; margin-bottom: 1rem;">Weather Monitoring</h2>', unsafe_allow_html=True)
+        st.markdown('<h2 style="color: #1E88E5;">Weather Monitoring</h2>', unsafe_allow_html=True)
         st.markdown('<p class="subtitle">Real-time weather data and forecasts</p>', unsafe_allow_html=True)
         st.markdown('</div>', unsafe_allow_html=True)
 
@@ -31,7 +31,7 @@ def main():
         with col1:
             # Windy map container
             st.markdown('<div class="card">', unsafe_allow_html=True)
-            st.markdown('<h3 style="color: #1E88E5; margin-bottom: 1rem;">Global Weather Map</h3>', unsafe_allow_html=True)
+            st.markdown('<h3 style="color: #1E88E5;">Global Weather Map</h3>', unsafe_allow_html=True)
             
             # Windy map iframe with temperature as the default overlay
             windy_html = f"""
@@ -51,7 +51,7 @@ def main():
         with col2:
             # Weather alerts section
             st.markdown('<div class="card">', unsafe_allow_html=True)
-            st.markdown('<h3 style="color: #1E88E5; margin-bottom: 1rem;">Weather Alerts</h3>', unsafe_allow_html=True)
+            st.markdown('<h3 style="color: #1E88E5;">Weather Alerts</h3>', unsafe_allow_html=True)
             
             alerts = [
                 {"type": "Storm", "location": "Pacific Ocean", "severity": "High"},

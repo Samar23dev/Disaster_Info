@@ -70,7 +70,7 @@ def send_email(email):
             <li><b>Key Events Marquee:</b> Stay informed about recent key events with our scrolling marquee in the sidebar, complete with clickable links for more information.</li>
             <li><b>Dynamic Updates:</b> Our application dynamically updates visualizations and data in real-time based on user-selected filters, ensuring you always have access to the latest information.</li>
           </ol>
-          Explore our GitHub Repository for more details: <a href="https://github.com/ARYANRVIMPADAPU/GeoNews">Link to GitHub</a>
+          Explore our GitHub Repository for more details: <a href="https://github.com/Samar23dev/Disaster_Info">Link to GitHub</a>
 
           <p>If you have any questions, feedback, or suggestions, please don't hesitate to reach out to us. We're here to support you every step of the way.</p>
 
