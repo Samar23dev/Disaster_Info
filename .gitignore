@@ -1,13 +1,12 @@
-   /firebase-credentials.json
-   __pycache__/
-   *.py[cod]
-   *$py.class
-   *.log
-   .env
-   *.pyc
-   *.pyo
-   precausion.cpython-312.pyc
-   insight.cpython-312.pyc
-   datacollection.cpython-312.pyc
-   tempdatacollect.cpython-312.pyc
- 
+firebase-credentials.json
+.__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.env
+*.pyc
+*.pyo
+precausion.cpython-312.pyc
+insight.cpython-312.pyc
+datacollection.cpython-312.pyc
+tempdatacollect.cpython-312.pyc
