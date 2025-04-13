@@ -44,7 +44,7 @@ def main():
         st.subheader("👥 Contributors")
         st.write(
             """
-            This project was developed by **Samar Mittal** and **Anay Mahajan**. We collaborated to create a comprehensive tool for monitoring and visualizing disaster events.
+            This project was developed by **Samar Mittal**, a student at **IIIT Pune**, and **Anay Mahajan**. We collaborated to create a comprehensive tool for monitoring and visualizing disaster events.
             """)
 
         st.subheader("🔗 GitHub Repository")

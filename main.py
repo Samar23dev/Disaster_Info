@@ -190,7 +190,7 @@ def main():
         # Add a footer
         st.markdown("""
         <div class="footer">
-            <p>© 2023 Disaster Information System | <a href="https://github.com/yourusername/disaster-info" target="_blank">GitHub</a></p>
+            <p>©Geospatial Visualizer and Disaster News Extractor | <a href="https://github.com/Samar23dev/Disaster_Info" target="_blank">GitHub</a></p>
         </div>
         """, unsafe_allow_html=True)
 

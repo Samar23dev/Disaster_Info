@@ -203,6 +203,8 @@ def main():
                     logger.error(f"Error saving subscription: {str(e)}")
                     st.error("Failed to save subscription. Please try again later.")
 
+        st.write("[Explore the GitHub Repository](https://github.com/Samar23dev/Disaster_Info)")
+
     except Exception as e:
         logger.error(f"Unexpected error in main function: {str(e)}")
         st.error("An unexpected error occurred. Please try again later.")
