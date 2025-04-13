@@ -79,6 +79,23 @@ def main():
             "End date",
             datetime.utcnow().date()
         )
+        
+        # Add disaster type filter
+        all_disaster_types = sorted(df['disaster_event'].unique().tolist())
+        
+        # Add "All" option to the disaster types
+        disaster_types_with_all = ["All"] + all_disaster_types
+        
+        selected_disaster_types = st.sidebar.multiselect(
+            "Disaster Types",
+            options=disaster_types_with_all,
+            default=["All"],
+            help="Select disaster types to display in the news feed. Choose 'All' to see all disaster types."
+        )
+        
+        # If "All" is selected, use all disaster types
+        if "All" in selected_disaster_types:
+            selected_disaster_types = all_disaster_types
 
         # Convert dates to UTC timestamps for comparison
         start_date_utc = pd.Timestamp(start_date).tz_localize('UTC')
@@ -128,30 +145,17 @@ def main():
         # Main content
         st.title("Global Disaster News Feed")
 
-        # Add a color legend for disaster types
-        st.markdown("""
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; padding: 10px; background-color: #f8f9f9; border-radius: 5px;">
-            <div style="font-weight: bold; margin-right: 10px;">Disaster Types:</div>
-        """, unsafe_allow_html=True)
-        
-        # Get unique disaster types from the filtered data
-        # unique_disasters = df['disaster_event'].unique()
-        # for disaster in sorted(unique_disasters):
-        #     color = get_disaster_color(disaster)
-        #     st.markdown(f"""
-        #         <div style="display: inline-flex; align-items: center; margin-right: 15px; margin-bottom: 5px;">
-        #             <div style="width: 15px; height: 15px; background-color: {color}; border-radius: 3px; margin-right: 5px;"></div>
-        #             <span>{disaster}</span>
-        #         </div>
-        #     """, unsafe_allow_html=True)
-        
-        # st.markdown("</div>", unsafe_allow_html=True)
-
         # Filter data by date
         filtered_df = df[
             (df['timestamp'] >= start_date_utc) &
             (df['timestamp'] <= end_date_utc)
         ]
+        
+        # Filter by selected disaster types
+        if selected_disaster_types:
+            filtered_df = filtered_df[filtered_df['disaster_event'].isin(selected_disaster_types)]
+            if filtered_df.empty:
+                st.info(f"No disaster events found for the selected types: {', '.join(selected_disaster_types)}")
 
         # Download button
         if not filtered_df.empty:
