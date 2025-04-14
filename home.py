@@ -72,6 +72,7 @@ def main():
             processed_doc['disaster_event'] = str(doc.get('disaster_event', ''))
             processed_doc['url'] = str(doc.get('url', ''))
             processed_doc['Location'] = str(doc.get('Location', ''))
+            processed_doc['urlToImage'] = str(doc.get('urlToImage', ''))
             
             # Handle numeric fields
             try:
@@ -208,13 +209,26 @@ def main():
             with st.container():
                 st.markdown(f"""
                     <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 15px; margin-bottom: 15px; background-color: #f9f9f9; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-                        <div style="display: flex; align-items: center; gap: 15px;">
-                            <div style="min-width: 80px; text-align: center; background-color: {row['color']}; color: white; padding: 8px; border-radius: 5px;">
-                                <strong>{row['disaster_event']}</strong>
-                            </div>
+                        <div style="display: flex; gap: 15px;">
                             <div style="flex-grow: 1;">
-                                <h4 style="color: #333; margin: 0 0 10px 0;">{row['title']}</h4>
-                                <div style="display: flex; justify-content: space-between; align-items: center; color: #666; font-size: 0.9em;">
+                                <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
+                                    <div style="min-width: 80px; text-align: center; background-color: {row['color']}; color: white; padding: 8px; border-radius: 5px;">
+                                        <strong>{row['disaster_event']}</strong>
+                                    </div>
+                                    <h4 style="color: #333; margin: 0;">{row['title']}</h4>
+                                </div>
+                                """, unsafe_allow_html=True)
+                
+                # Display image if available
+                if pd.notna(row.get('urlToImage')) and row['urlToImage'].strip() != '':
+                    st.markdown(f"""
+                        <div style="margin: 10px 0;">
+                            <img src="{row['urlToImage']}" style="max-width: 100%; height: auto; border-radius: 5px;">
+                        </div>
+                        """, unsafe_allow_html=True)
+                
+                st.markdown(f"""
+                                <div style="display: flex; justify-content: space-between; align-items: center; color: #666; font-size: 0.9em; margin-top: 10px;">
                                     <div>
                                         <span style="margin-right: 15px;">📍 {row['Location']}</span>
                                         <span style="margin-right: 15px;">📰 {row['source']}</span>
