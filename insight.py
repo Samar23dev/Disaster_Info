@@ -111,50 +111,53 @@ def main():
         if filtered_df.empty:
             st.subheader(":green[No Disaster data available after filtering based on the condition]")
             return
-
+        
         # Disaster event distribution
+        st.subheader("Top Affected Locations")
+        top_locations = filtered_df['Location'].value_counts().nlargest(10).reset_index()
+        top_locations.columns = ['Location', 'Count']
+        fig = px.bar(top_locations, x='Location', y='Count', title='Top 10 Affected Locations')
+        st.plotly_chart(fig, use_container_width=True)
+
         st.subheader("Disaster Event Distribution")
         event_counts = filtered_df['disaster_event'].value_counts().reset_index()
         event_counts.columns = ['Disaster Event', 'Count']
+                        
+        event_location_counts = filtered_df.groupby(['disaster_event', 'Location']).size().reset_index(name='count')
+
+                    # Plot the donut chart using Plotly Express
+        fig_donut = px.sunburst(
+                        event_location_counts,
+                        path=['disaster_event', 'Location'],
+                        values='count',
+                        title='Distribution of Disaster Events by Country',
+                        width=800,
+                        height=600)
+        st.plotly_chart(fig_donut, use_container_width=True)
+
         
-        fig = px.bar(
-            event_counts, 
-            x='Disaster Event', 
-            y='Count',
-            title="Distribution of Disaster Events",
-            color='Disaster Event',
-            labels={'Count': 'Number of Events', 'Disaster Event': 'Type of Disaster'}
-        )
-        st.plotly_chart(fig, use_container_width=True)
-        
-        # Location distribution
-        st.subheader("Location Distribution")
-        location_counts = filtered_df['Location'].value_counts().head(10).reset_index()
-        location_counts.columns = ['Location', 'Count']
-        
-        fig = px.bar(
-            location_counts, 
-            x='Location', 
-            y='Count',
-            title="Top 10 Locations Affected by Disasters",
-            color='Count',
-            labels={'Count': 'Number of Events', 'Location': 'Location'}
-        )
-        st.plotly_chart(fig, use_container_width=True)
-        
-        # Time series analysis
+        st.markdown("<h3 style='font-size: 20px;'>Disaster Events Distribution Over Time</h3>", unsafe_allow_html=True)
+        event_counts = filtered_df.groupby([filtered_df['timestamp'].dt.date, 'disaster_event']).size().reset_index(name='count')
+
+
         st.subheader("Disaster Events Over Time")
         daily_counts = filtered_df.groupby(filtered_df['timestamp'].dt.date).size().reset_index()
         daily_counts.columns = ['Date', 'Count']
-        
-        fig = px.line(
-            daily_counts, 
-            x='Date', 
-            y='Count',
-            title="Daily Disaster Events",
-            labels={'Count': 'Number of Events', 'Date': 'Date'}
-        )
+            
+        fig = px.area(
+                daily_counts, 
+                x='Date', 
+                y='Count',
+                title="Daily Disaster Events",
+                labels={'Count': 'Number of Events', 'Date': 'Date'}
+            )
         st.plotly_chart(fig, use_container_width=True)
+        
+
+        # Disaster event distribution
+       
+            
+        # Time series analysis
         
         # Word cloud
         st.subheader("Word Cloud of Disaster Titles")
@@ -215,4 +218,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
 

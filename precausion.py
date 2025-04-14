@@ -1,32 +1,75 @@
 import streamlit as st
 import logging
+import json
+import pandas as pd
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+logger = logging.getLogger("precausion")
+
+# Minimal CSS for essential styling
+st.markdown("""
+<style>
+    .header {background-color: #0072B5; color: white; padding: 1rem; border-radius: 5px; text-align: center; margin-bottom: 1rem;}
+    .contact-card {border-left: 3px solid #0072B5; padding: 10px; margin-bottom: 8px;}
+</style>
+""", unsafe_allow_html=True)
 
 def main():
-    """Display safety protocols for disaster prevention."""
+    # Header
+    st.markdown('<div class="header"><h1>🛡️ Emergency Operations Dashboard</h1><p>Quick access to emergency contact details and safety protocols across India</p></div>', unsafe_allow_html=True)
+    
     try:
-        # Simple header with minimal styling
-        st.title("Safety Protocols for Disaster Prevention")
-        st.markdown("Learn how to prepare and stay safe during different types of disasters")
+        # Load data
+        with open("assets/emergency.json", "r") as f:
+            data = json.load(f)
         
-        # Search functionality
-        search_query = st.text_input("Search for a specific disaster type", "", key="disaster_search")
+        centers = data.get("Emergency_Operations_Centers", [])
+        df = pd.DataFrame(centers)
         
-        # Define disaster categories
-        disaster_categories = {
-            "Natural Disasters": ["Earthquake", "Flood", "Hurricane", "Tornado", "Tsunami", "Volcano"],
-            "Weather Events": ["Blizzard", "Cyclone", "Heatwave", "Drought"],
-            "Geological Events": ["Avalanche", "Landslide"]
-        }
+        # Sidebar filter
+        st.sidebar.header("🔍 Filter")
+        state = st.sidebar.selectbox("Select a State/Ministry", ["All"] + sorted(df["Ministry/State"].unique()))
         
-        # Create tabs for different categories
-        tabs = st.tabs(list(disaster_categories.keys()))
+        # Quick emergency numbers
+        st.sidebar.header("🚨 Emergency Numbers")
+        st.sidebar.info("**National Emergency:** 112\n\n**Ambulance:** 108\n\n**Fire:** 101\n\n**Women Helpline:** 181")
         
-        # Disaster data
-        disaster_data = {
+        # Filter data based on selection
+        if state != "All":
+            filtered_df = df[df["Ministry/State"] == state]
+        else:
+            filtered_df = df
+        
+        # Create tabs for better organization
+        tab1, tab2 = st.tabs(["📞 Emergency Contacts", "🧰 Safety Protocols"])
+        
+        with tab1:
+            st.subheader(f"Emergency Contact Directory {f'for {state}' if state != 'All' else ''}")
+            
+            # Display contacts in a simple card format
+            cols = st.columns(3)
+            for i, row in filtered_df.iterrows():
+                with cols[i % 3]:
+                    st.markdown(f"""
+                    <div class="contact-card">
+                        <h4>{row["Ministry/State"]}</h4>
+                        <p><b>In charge:</b> {row["In charge"]}</p>
+                        <p><b>Contact:</b> {row["Contact Number"]}</p>
+                        <p><b>Email:</b> {row["Email"]}</p>
+                        <p><b>Timings:</b> {row["Timings"]}</p>
+                    </div>
+                    """, unsafe_allow_html=True)
+            
+            # Also show as a table for easy reference
+            with st.expander("View as Table"):
+                st.dataframe(filtered_df, use_container_width=True, hide_index=True)
+        
+        with tab2:
+            st.subheader("Safety Protocols for Disaster Prevention")
+            
+            # Simplified disaster data
+            disasters = {
             "Avalanche": """
             - Avoid areas prone to avalanches during times of high risk.
             - Carry avalanche safety gear such as transceivers, probes, and shovels.
@@ -101,27 +144,29 @@ def main():
             """
         }
         
-        # Display disasters in tabs
-        for i, (category, disasters) in enumerate(disaster_categories.items()):
-            with tabs[i]:
-                # Filter disasters based on search query
-                filtered_disasters = [d for d in disasters if search_query.lower() in d.lower()]
-                
-                if not filtered_disasters:
-                    st.info(f"No disasters found matching '{search_query}' in {category}.")
+            
+            # Display protocols in columns
+            col1, col2 = st.columns(2)
+            
+            for i, (disaster, protocol) in enumerate(disasters.items()):
+                if i % 2 == 0:
+                    with col1:
+                        with st.expander(f"🔹 {disaster}"):
+                            st.write(protocol)
                 else:
-                    # Display each disaster in a simple container
-                    for disaster in filtered_disasters:
-                        if disaster in disaster_data:
-                            with st.container():
-                                st.subheader(disaster)
-                                st.markdown(disaster_data[disaster])
-                                st.divider()
+                    with col2:
+                        with st.expander(f"🔹 {disaster}"):
+                            st.write(protocol)
         
-        logger.info("Precaution page displayed successfully")
+        # Footer
+        st.markdown("---")
+        st.caption("For more information, visit the official National Disaster Management Authority website. In case of emergency, contact the appropriate authorities immediately.")
+        
+        logger.info("Dashboard displayed successfully")
+    
     except Exception as e:
-        logger.error(f"Error displaying precaution page: {str(e)}")
-        st.error("An error occurred while loading the precaution page. Please try again later.")
+        logger.error(f"Error loading data: {str(e)}")
+        st.error(f"⚠️ Failed to load emergency data. Please check the data file.")
 
 if __name__ == "__main__":
     main()
