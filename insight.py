@@ -51,7 +51,40 @@ def main():
         
         # Convert MongoDB cursor to DataFrame with error handling
         try:
-            df = pd.DataFrame(list(collection.find()))
+            cursor = collection.find()
+            data = []
+            for doc in cursor:
+                processed_doc = {}
+                
+                # Handle source field
+                if isinstance(doc.get('source'), dict):
+                    processed_doc['source'] = doc['source'].get('name', 'Unknown')
+                else:
+                    processed_doc['source'] = str(doc.get('source', 'Unknown'))
+                
+                # Handle basic fields
+                processed_doc['title'] = str(doc.get('title', ''))
+                processed_doc['disaster_event'] = str(doc.get('disaster_event', ''))
+                processed_doc['url'] = str(doc.get('url', ''))
+                processed_doc['Location'] = str(doc.get('Location', ''))
+                
+                # Handle numeric fields
+                try:
+                    processed_doc['Latitude'] = float(doc.get('Latitude', 0))
+                    processed_doc['Longitude'] = float(doc.get('Longitude', 0))
+                except (TypeError, ValueError):
+                    processed_doc['Latitude'] = 0.0
+                    processed_doc['Longitude'] = 0.0
+                
+                # Handle timestamp
+                try:
+                    processed_doc['timestamp'] = pd.to_datetime(doc.get('timestamp'), format='%Y-%m-%dT%H:%M:%SZ', utc=True)
+                except (TypeError, ValueError):
+                    processed_doc['timestamp'] = pd.Timestamp.now(tz='UTC')
+                
+                data.append(processed_doc)
+            
+            df = pd.DataFrame(data)
             if df.empty:
                 st.warning("No data available in the database.")
                 return
@@ -63,7 +96,6 @@ def main():
         # Data cleaning and preprocessing
         try:
             df.drop_duplicates(subset='title', inplace=True)
-            df['timestamp'] = pd.to_datetime(df['timestamp'], errors='coerce')
             df = df.dropna(subset=['Latitude', 'Longitude'])
             df = df[~df['url'].str.lower().str.contains('politics|yahoo|sports', na=False)]
             df = df[~df['title'].str.lower().str.contains('tool|angry', na=False)]

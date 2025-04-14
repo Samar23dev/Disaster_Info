@@ -1,0 +1,4035 @@
+[
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "UK charities launch Myanmar Earthquake Appeal",
+        "description": "More than 3,000 people have died and thousands have been displaced in Myanmar.",
+        "url": "https:\/\/www.bbc.com\/news\/articles\/cd6jv46g59po",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/b849\/live\/b83e4af0-0fdb-11f0-8db5-3f4abea6b85e.jpg",
+        "content": "The UK's Disasters Emergency Committee (DEC) is launching an appeal to help the thousands of people injured and displaced as a result of last week's powerful earthquake which struck Myanmar and the w\u2026 [+2976 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "UK"
+        ],
+        "Country": "UK",
+        "Region": "",
+        "City": "",
+        "Location": "UK",
+        "Latitude": 6.3110548,
+        "Longitude": 20.5447525,
+        "timestamp": "2025-04-03T01:21:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Moment pagoda collapses in Myanmar after earthquake",
+        "description": "The top of Myanmar's Shwe Sar Yan Pagoda, south-east of Mandalay, collapsed following an earthquake.",
+        "url": "https:\/\/www.bbc.com\/news\/videos\/c6252gnlnjgo",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/8afe\/live\/74385c50-0bcc-11f0-ac9f-c37d6fd89579.jpg",
+        "content": "The top of Myanmar's Shwe Sar Yan Pagoda, to the south-east of Mandalay, has collapsed following a huge earthquake.\r\nOnlookers can be heard screaming and shouting as part of the building crashed to t\u2026 [+194 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-28T12:06:03Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Watch: Earthquake turns Bangkok rooftop pool into waterfall",
+        "description": "A 7.7 magnitude earthquake rocked the Thai capital on Friday, causing buildings to sway.",
+        "url": "https:\/\/www.bbc.com\/news\/videos\/c20d0nxr2lmo",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/388e\/live\/57d890e0-0ba7-11f0-ac9f-c37d6fd89579.jpg",
+        "content": "A strong 7.7 magnitude earthquake rocked the Thai capital on Friday, causing buildings to sway and cascade water from rooftop pools onto the streets below.\r\nThe earthquake is believed to be relativel\u2026 [+195 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Bangkok"
+        ],
+        "Country": "Bangkok",
+        "Region": "",
+        "City": "",
+        "Location": "Bangkok",
+        "Latitude": 13.7524938,
+        "Longitude": 100.4935089,
+        "timestamp": "2025-03-28T07:44:45Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "King sends message of condolence after Myanmar earthquake",
+        "description": "Charles says he and the Queen were shocked and saddened by the disaster, which has claimed at least 1,000 lives.",
+        "url": "https:\/\/www.bbc.com\/news\/articles\/cgm1m0j4k9go",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/4ab9\/live\/f1eb5d80-0ca0-11f0-ac9f-c37d6fd89579.jpg",
+        "content": "King Charles III has sent his condolences to the people of Myanmar after Friday's deadly earthquake.\r\nIn a message on social media, King Charles spoke of the shock and sadness he and the Queen felt a\u2026 [+1860 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-29T13:32:21Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MacRumors"
+        },
+        "author": "Joe Rossignol",
+        "title": "Apple Donating to Myanmar and Thailand Earthquake Relief Efforts",
+        "description": "Apple CEO Tim Cook today said Apple will be donating an undisclosed amount towards earthquake relief efforts in Myanmar and Thailand.\n\n\n\n\n\n\"Our hearts go out to all those in Myanmar and Thailand affected by the devastating earthquake,\" said Cook, in a social \u2026",
+        "url": "https:\/\/www.macrumors.com\/2025\/03\/30\/apple-donating-myanmar-thailand-earthquake-relief\/",
+        "urlToImage": "https:\/\/images.macrumors.com\/t\/xTqx7SVxa-PPAaK3b6_9jpCtHMo=\/1600x\/article-new\/2025\/03\/Apple-Logo-Red.jpg",
+        "content": "Apple CEO Tim Cook today said Apple will be donating an undisclosed amount towards earthquake relief efforts in Myanmar and Thailand.\r\n\"Our hearts go out to all those in Myanmar and Thailand affected\u2026 [+160 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "Thailand",
+        "City": "",
+        "Location": "Thailand",
+        "Latitude": 14.8971921,
+        "Longitude": 100.83273,
+        "timestamp": "2025-03-30T17:22:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "NPR Staff",
+        "title": "Photos: See the aftermath of the earthquake in Myanmar and Thailand",
+        "description": "The magnitude 7.7 earthquake struck at midday with the epicenter not far from the city of Mandalay.",
+        "url": "https:\/\/www.npr.org\/2025\/03\/29\/g-s1-57186\/photos-see-the-aftermath-of-the-earthquake-in-myanmar-and-thailand",
+        "urlToImage": "https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/6098x3430+0+317\/resize\/1400\/quality\/100\/format\/jpeg\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F17%2Fbb39be2f4197883bfccfc91822ae%2Fgettyimages-2206806947.jpg",
+        "content": "Editor's note: Images may contain graphic content.\r\nRescue workers pulled more bodies from the rubble in Myanmar today after a powerful earthquake hit yesterday.\r\nThe magnitude 7.7 earthquake struck \u2026 [+485 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar",
+            "Thailand"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-29T16:51:15Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "Medical supplies in great need as aid flows into Myanmar after earthquake",
+        "description": "Emergency aid has streamed into Southeast Asia in the two days since a massive earthquake struck Myanmar and Thailand.",
+        "url": "https:\/\/www.npr.org\/2025\/03\/30\/g-s1-57213\/medical-supplies-in-great-need-as-aid-flows-into-myanmar-after-earthquake",
+        "urlToImage": "https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/2891x1626+0+68\/resize\/1400\/quality\/100\/format\/jpeg\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2F7e%2Fe73f46524d7cbf7d29d75ae8af4a%2Fap25088239141988.jpg",
+        "content": "BANGKOK Emergency aid has streamed into Southeast Asia in the two days since a massive earthquake struck Myanmar and Thailand. Relief efforts are focused on Myanmar, where the estimated death toll ro\u2026 [+4712 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-30T11:00:49Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "Myanmar's military declares a ceasefire as earthquake deaths pass 3,000",
+        "description": "The surprise announcement by the unelected government said the halt in fighting would run until April 22 to show compassion for people affected by last week's quake.",
+        "url": "https:\/\/www.npr.org\/2025\/04\/03\/nx-s1-5350471\/myanmar-ceasefire-earthquake",
+        "urlToImage": "https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/3985x2242+0+208\/resize\/1400\/quality\/100\/format\/jpeg\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2F01%2F6bb9649647fb9c9a8448fa68f4c6%2Fap25092271993741.jpg",
+        "content": "BANGKOK Myanmar's ruling military declared a temporary ceasefire in the country's civil war Wednesday to facilitate relief efforts following a 7.7 magnitude earthquake that has killed more than 3,000\u2026 [+6850 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "Bangkok",
+        "City": "",
+        "Location": "Bangkok",
+        "Latitude": 13.7524938,
+        "Longitude": 100.4935089,
+        "timestamp": "2025-04-03T04:57:41Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "Myanmar's earthquake death toll jumps to more than 1,000 as more bodies are recovered",
+        "description": "The death toll from a powerful 7.7 magnitude earthquake in Myanmar jumped to more than 1,000 on Saturday as more bodies were pulled from the rubble of the scores of buildings that collapsed.",
+        "url": "https:\/\/www.npr.org\/2025\/03\/29\/g-s1-57121\/myanmar-earthquake-death-toll-jumps",
+        "urlToImage": "https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/1280x720+0+67\/resize\/1400\/quality\/100\/format\/jpeg\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F52%2Fe21b183949dc859b7bea22fd3d33%2Fap25088210104835.jpg",
+        "content": "BANGKOK The death toll from a powerful 7.7 magnitude earthquake in Myanmar jumped to more than 1,000 on Saturday as more bodies were pulled from the rubble of the scores of buildings that collapsed w\u2026 [+5729 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-29T07:03:41Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KTLA Los Angeles"
+        },
+        "author": "Lily Dallow",
+        "title": "Magnitude 3.2 earthquake hits coastal Los Angeles County area",
+        "description": "An earthquake with a preliminary magnitude of 3.2 rattled the coastal Los Angeles County area Sunday. According to the U.S. Geological Survey, the quake...",
+        "url": "https:\/\/ktla.com\/news\/earthquakes\/california-latest-earthquake\/",
+        "urlToImage": "https:\/\/media.zenfs.com\/en\/ktla_articles_362\/d90c6713e814c89123112d8640667049",
+        "content": "An\u00a0earthquake\u00a0with a preliminary magnitude of 3.2 rattled the coastal Los Angeles County area Sunday.\r\nAccording to the\u00a0U.S. Geological Survey, the quake struck at 8:27 p.m. The epicenter was about 2\u2026 [+1570 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Los Angeles County"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-31T03:47:51Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Jon Haworth",
+        "title": "7.7 magnitude earthquake rocks Southeast Asia",
+        "description": "An earthquake with a 7.7 magnitude has rocked Southeast Asia on Friday, according to the United States Geological Survey.",
+        "url": "https:\/\/abcnews.go.com\/International\/77-magnitude-earthquake-rocks-southeast-asia\/story?id=120247883",
+        "urlToImage": "https:\/\/s.abcnews.com\/images\/General\/Breaking-News-banner-abc-ps-181024_hpMain_16x9_992.jpg?w=1600",
+        "content": "LONDON -- An earthquake with a 7.7 magnitude has rocked Southeast Asia on Friday, according to the United States Geological Survey.\r\nUSGS is reporting the epicenter of the quake was in Mandalay, Myan\u2026 [+296 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Southeast Asia"
+        ],
+        "Country": "Myanmar",
+        "Region": "Thailand",
+        "City": "",
+        "Location": "Thailand",
+        "Latitude": 14.8971921,
+        "Longitude": 100.83273,
+        "timestamp": "2025-03-28T07:17:09Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Meredith Deliso",
+        "title": "PHOTOS: See the destruction in Myanmar, Thailand from 7.7 magnitude earthquake",
+        "description": "Even Bangkok, some 600 miles from the epicenter, saw damage from the powerful earthquake.",
+        "url": "https:\/\/abcnews.go.com\/International\/myanmar-thailand-earthquake-photos\/story?id=120260363",
+        "urlToImage": "https:\/\/i.abcnewsfe.com\/a\/5a02c2dd-2cb2-4e54-9a85-d354b7094b47\/earthquake-bangkok-gty-jef-250328_1743173168940_hpMain_16x9.jpg?w=1600",
+        "content": "A powerful 7.7 magnitude earthquake impacted much of Southeast Asia on Friday, with mounting casualties and leveled buildings from Myanmar to Thailand.\r\nEven Bangkok, some 600 miles from the epicente\u2026 [+342 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar",
+            "Thailand"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-28T16:19:09Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Morgan Winsor, David Brennan",
+        "title": "Myanmar earthquake death toll tops 3,000 with hundreds still missing",
+        "description": "The death toll from last week's 7.7 magnitude earthquake in Myanmar rose to 3,085 people as of Thursday morning, according to the country's military government.",
+        "url": "https:\/\/abcnews.go.com\/International\/myanmar-earthquake-death-toll-tops-3000-hundreds-missing\/story?id=120441511",
+        "urlToImage": "https:\/\/i.abcnewsfe.com\/a\/fe4632c1-c166-4f85-82e4-65f63eb3a31f\/Maynmar-damage-250403_1743668994720_hpMain_16x9.jpg?w=1600",
+        "content": "LONDON -- The death toll from last week's 7.7 magnitude earthquake in Myanmar rose to 3,085 people as of Thursday morning, according to an update released by the country's military government.\r\nAnoth\u2026 [+1346 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-03T08:42:52Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Mark Osborne, Jon Haworth",
+        "title": "Myanmar earthquake live updates: Deadly 7.7 magnitude quake collapses skyscrapers",
+        "description": "There have been multiple deaths and dozens are missing in Myanmar and Thailand.",
+        "url": "https:\/\/abcnews.go.com\/International\/live-updates\/myanmar-thailand-bangkok-earthquake\/?id=120257120",
+        "urlToImage": "https:\/\/i.abcnewsfe.com\/a\/96749156-a800-4e8b-bc4a-ab710893fe40\/earthquake-5-epa-gmh-250328_1743166284258_hpMain_16x9.jpg?w=1600",
+        "content": "Marisa Abel, a journalist based in New York, who is vacationing in Bangkok, told ABC News she just got to her hotel, and was napping, when the 7.7 magnitude earthquake hit.\r\n\"I woke up, everything wa\u2026 [+552 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "US",
+        "City": "China",
+        "Location": "China",
+        "Latitude": 35.0000663,
+        "Longitude": 104.999955,
+        "timestamp": "2025-03-28T13:57:18Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Myanmar fighting continues despite post-earthquake ceasefires",
+        "description": "The UN received reports that Myanmar's military had conducted attacks, while the military accused rebels of the same.",
+        "url": "https:\/\/www.bbc.com\/news\/articles\/cp31wk21zveo",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/398e\/live\/f6638430-12ab-11f0-8637-6f1afd34d406.jpg",
+        "content": "Fighting has been reported in Myanmar despite the military junta and a rebel group alliance announcing temporary ceasefires to support earthquake relief.\r\nAs of Friday, the military had carried out a\u2026 [+2394 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-07T11:52:03Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Meredith Deliso",
+        "title": "Tsunami threat for Papua New Guinea after 6.9 magnitude earthquake",
+        "description": "A tsunami warning has been issued for Papua New Guinea after a strong 6.9 magnitude earthquake struck the Pacific island nation.",
+        "url": "https:\/\/abcnews.go.com\/International\/tsunami-threat-papua-new-guinea-after-earthquake\/story?id=120504520",
+        "urlToImage": "https:\/\/i.abcnewsfe.com\/a\/ffe77fff-d4da-437c-940f-b8817f31a0ae\/papua-gty-er-250404_1743803476030_hpMain_16x9.jpg?w=1600",
+        "content": "A tsunami warning has been issued for Papua New Guinea after a strong 6.9 magnitude earthquake struck the Pacific island nation, according to the U.S. Tsunami Warning Center.\r\nThe earthquake was cent\u2026 [+568 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Tsunami",
+            "Papua New Guinea"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-04T22:04:15Z"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "DAVID RISING and JINTAMAS SAKSORNCHAI \/ AP",
+        "title": "Bangkok High-Rise Collapses After Massive Earthquake Rocks Thailand and Myanmar",
+        "description": "At least two people have been found dead and an unknown number remain buried in the rubble of a high-rise building under construction that collapsed in Bangkok.",
+        "url": "https:\/\/time.com\/7272441\/earthquake-thailand-myanmar-bangkok-building-collapse-death-toll\/",
+        "urlToImage": "https:\/\/api.time.com\/wp-content\/uploads\/2025\/03\/bangkok-earthquake.jpg?quality=85&w=1024&h=628&crop=1",
+        "content": "BANGKOK A 7.7 magnitude earthquake rocked Thailand and neighboring Myanmar midday on Friday, killing at least three people in Bangkok and burying dozens when a high-rise building under construction c\u2026 [+6500 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar",
+            "Thailand"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-28T10:15:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "What caused the Myanmar earthquake - and why did it cause a building in Bangkok to collapse?",
+        "description": "The size of the earthquake and the length of the fault line it occurred on contributed to the devastation.",
+        "url": "https:\/\/www.bbc.com\/news\/articles\/c8d4dn18nzgo",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/cce5\/live\/2f16e100-0c9e-11f0-ac9f-c37d6fd89579.jpg",
+        "content": "Esme StallardClimate and science reporter, BBC News\r\nMoment Bangkok high-rise collapses following Myanmar earthquake\r\nA major earthquake in Myanmar on Friday has caused more than 1,000 deaths and led\u2026 [+6484 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar",
+            "Bangkok"
+        ],
+        "Country": "Bangkok",
+        "Region": "",
+        "City": "",
+        "Location": "Bangkok",
+        "Latitude": 13.7524938,
+        "Longitude": 100.4935089,
+        "timestamp": "2025-03-29T13:00:40Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "'Nothing is left' - Myanmar's capital reels from earthquake",
+        "description": "The BBC is in Myanmar's capital Nay Pyi Taw to see the destruction caused by the devastating earthquake.",
+        "url": "https:\/\/www.bbc.com\/news\/videos\/cz6dx5lxjn0o",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/a6d0\/live\/df6d9480-0df3-11f0-b234-07dc7691c360.jpg",
+        "content": "The BBC is in Myanmar's capital Nay Pyi Taw to see the destruction caused by a powerful earthquake that struck on Friday. \r\nIt hit central Myanmar, near the city of Mandalay, more than 200km (125 mil\u2026 [+292 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-31T06:54:04Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "State of emergency declared in Myanmar after huge earthquake",
+        "description": "The quake hit central Myanmar with strong tremors felt as far as south-west China and Thailand.",
+        "url": "https:\/\/www.bbc.com\/news\/articles\/c07z7kg5784o",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/38a0\/live\/1c793cb0-0bbc-11f0-9ca8-c5035ea95420.jpg",
+        "content": "A huge 7.7 magnitude earthquake has hit central Myanmar, according to the United States Geological Survey (USGS).\r\nThe epicentre was 16km (10 miles) north-west of the city of Sagaing, at a depth of 1\u2026 [+1601 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-28T10:17:56Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Myanmar earthquake: Moment rescuers pull woman alive from rubble",
+        "description": "Rescuers in Myanmar were cheered as they carried 30-year-old Phyu Lay Khaing away on a stretcher.",
+        "url": "https:\/\/www.bbc.com\/news\/videos\/cewkwe9z4g9o",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/c88b\/live\/580994a0-0ca7-11f0-ba12-8d27eb561761.jpg",
+        "content": "Rescuers in Myanmar pulled a woman alive from the debris of a collapsed apartment block in Mandalay, more than a day after she was trapped. \r\nAfter several hours of painstaking work, 30-year-old Phyu\u2026 [+366 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "Thailand",
+        "City": "",
+        "Location": "Thailand",
+        "Latitude": 14.8971921,
+        "Longitude": 100.83273,
+        "timestamp": "2025-03-29T14:44:22Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "How the scale of Myanmar's loss is clearer one week after the quake",
+        "description": "More than 3,000 people have been confirmed dead after last week's earthquake and the toll is expected to rise.",
+        "url": "https:\/\/www.bbc.com\/news\/videos\/cp8j3w0566wo",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/c5a5\/live\/719e5b00-1173-11f0-b234-07dc7691c360.jpg",
+        "content": "More than 3,000 people were killed by last week's 7.7 magnitude earthquake, Myanmar's military junta has said. Hundreds more people are missing and the toll is expected to rise. \r\nRescuers are still \u2026 [+319 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-04T16:47:56Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Scientific American"
+        },
+        "author": "Robin George Andrews",
+        "title": "What Caused the Magnitude 7.7 Myanmar and Thailand Earthquake?",
+        "description": "A magnitude 7.7 earthquake in Myanmar caused widespread shaking and likely considerable damage because of a lack of buildings built to withstand temblors",
+        "url": "https:\/\/www.scientificamerican.com\/article\/what-caused-the-magnitude-7-7-myanmar-and-thailand-earthquake\/",
+        "urlToImage": "https:\/\/static.scientificamerican.com\/dam\/m\/5af902cf2062cdcf\/original\/person-exiting-damaged-building.jpg?m=1743184747.036&w=1200",
+        "content": "On March 28, at around midday local time, tens of millions of people in Southeast Asia felt the earth below their feet violently rupture. A magnitude 7.7 earthquake, centered just 12 miles away from \u2026 [+5245 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar",
+            "Thailand"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-28T18:30:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Usgs.gov"
+        },
+        "author": "Brian F. Atwater, Satoko Musumi-Rokkaku, Kenji Satake, Yoshinobu Tsuji, Kazue Ueda, David K. Yamaguchi",
+        "title": "Orphan tsunami of 1700\u2013Japanese clues to a parent earthquake in America (2015)",
+        "description": "A puzzling tsunami entered Japanese history in January 1700. Samurai, merchants, and villagers wrote of minor flooding and damage. Some noted that no parent earthquake had been felt; they were wondering what had set off the waves. They had no way knowing that\u2026",
+        "url": "https:\/\/pubs.usgs.gov\/publication\/pp1707",
+        "urlToImage": null,
+        "content": "Skip to main contentAn official website of the United States government\r\nHeres how you know\r\nHeres how you know\r\nOfficial websites use .govA .gov website belongs to an official government organizatio\u2026 [+1220 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "America",
+            "Orphan"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-28T06:23:06Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (Charles Martin)",
+        "title": "Apple donates to relief efforts after Myanmar-Thailand earthquake",
+        "description": "Apple CEO Tim Cook took to X.com to announce that the company would be making donations to relief efforts following a 7.7 magnitude earthquake affecting Myanmar and Thailand.Apple CEO Tim Cook - Image Credit: Apple\"Our hearts go out to all those in Myanmar an\u2026",
+        "url": "https:\/\/appleinsider.com\/articles\/25\/03\/30\/apple-donates-to-relief-efforts-after-myanmar-thailand-earthquake",
+        "urlToImage": "https:\/\/photos5.appleinsider.com\/gallery\/63152-131237-44031-85622-Tim-Cook-xl-xl.jpg",
+        "content": "Apple CEO Tim Cook took to X.com to announce that the company would be making donations to relief efforts following a 7.7 magnitude earthquake affecting Myanmar and Thailand.\r\n\"Our hearts go out to a\u2026 [+1778 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "Bangkok",
+        "City": "",
+        "Location": "Bangkok",
+        "Latitude": 13.7524938,
+        "Longitude": 100.4935089,
+        "timestamp": "2025-03-30T20:13:21Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Inside Mandalay: BBC visits makeshift hospital treating earthquake victims in Myanmar",
+        "description": "The BBC\u2019s Yogita Limaye is the first foreign journalist to enter the country since the disaster struck.",
+        "url": "https:\/\/www.bbc.com\/news\/videos\/cze13p74z4ko",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/4237\/live\/58916100-0fc2-11f0-b234-07dc7691c360.jpg",
+        "content": "The ruling military junta in Myanmar say the death toll after last week's devastating earthquake now stands at almost 2,900 people. \r\nThe actual death toll is feared to be much higher, with many peop\u2026 [+473 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-02T13:02:32Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Max Goldbart",
+        "title": "Dramatic Pictures Emerge From Earthquake In Thailand & Myanmar As Hundreds Feared Dead",
+        "description": "The eyes of the world\u2019s news media are trained on Thailand and Myanmar, where a devastating 7.7 magnitude earthquake has left hundreds feared dead. The...",
+        "url": "https:\/\/deadline.com\/2025\/03\/thailand-myanmar-earthquake-dramatic-images-hundreds-feared-dead-1236353283\/",
+        "urlToImage": "https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/Aoe.hBgZISyKLR9FReU0YA--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-\/https:\/\/media.zenfs.com\/en\/deadline.com\/1869d1ed1343e7a65987019d28c9e123",
+        "content": "The eyes of the worlds news media are trained on Thailand and Myanmar, where a devastating 7.7 magnitude earthquake has left hundreds feared dead.\r\nThe United States Geological survey reported that t\u2026 [+1561 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "Thailand",
+        "City": "",
+        "Location": "Thailand",
+        "Latitude": 14.8971921,
+        "Longitude": 100.83273,
+        "timestamp": "2025-03-28T11:20:25Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Powerful earthquake strikes Myanmar",
+        "description": "This is a breaking news story, more details to follow.",
+        "url": "https:\/\/www.aljazeera.com\/news\/2025\/3\/28\/powerful-earthquake-strikes-myanmar",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2020\/09\/breaking-news%402x.png?resize=1200%2C630",
+        "content": "A magnitude 7.7 and 6.4 earthquakes have struck Myanmar, according to the United States Geological Survey (USGS), with reports of strong tremors felt in Thailand and elsewhere in the region.\r\nThe fir\u2026 [+674 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-28T06:40:44Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TMZ"
+        },
+        "author": "TMZ Staff",
+        "title": "7.7-Magnitude Earthquake Devastates Myanmar and Thailand, on Video",
+        "description": "At least 20 people are suspected dead after a massive 7.7-magnitude earthquake struck Myanmar and Thailand on Friday, devastating buildings across Southeast Asia. Stunning videos capture the quake shaking buildings and roadways, and sending a crane\u2026",
+        "url": "https:\/\/www.tmz.com\/2025\/03\/28\/earthquake-myanmar-thailand\/",
+        "urlToImage": "https:\/\/imagez.tmz.com\/image\/bc\/16by9\/2025\/03\/28\/bc8608d6e3a9468eaa8d99cb571ed28d_xl.jpg",
+        "content": "At least 20 people are suspected dead after a massive 7.7-magnitude earthquake struck Myanmar and Thailand on Friday, devastating buildings across Southeast Asia.\r\nStunning videos capture the quake s\u2026 [+1195 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar",
+            "Thailand"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-28T13:46:31Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TMZ"
+        },
+        "author": "TMZ Staff",
+        "title": "Terrifying Video Shows Man Crossing Broken Skybridge in Bangkok Earthquake",
+        "description": "Stunning video shows a Korean man hurdling across a broken skybridge 50 stories in the air to save his family during the 7.7 magnitude earthquake that hit Myanmar and Thailand last week. Watch the wild video ... the brave man leaps across the\u2026",
+        "url": "https:\/\/www.tmz.com\/2025\/04\/02\/man-crosses-broken-skybridge-bangkok-earthquake-video\/",
+        "urlToImage": "https:\/\/imagez.tmz.com\/image\/ba\/16by9\/2025\/04\/02\/bac7551f4c5a4594bd85d3a69e69f07e_xl.jpg",
+        "content": "Stunning video shows a Korean man hurdling across a broken skybridge 50 stories in the air to save his family during the 7.7 magnitude earthquake that hit Myanmar and Thailand last week.\r\nWatch the w\u2026 [+1204 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Bangkok"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-02T13:37:06Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Myanmar-Thailand earthquake death toll passes 700",
+        "description": "Myanmar's military rulers say at least 694 people killed following earthquake that also killed 10 people in Thailand.",
+        "url": "https:\/\/www.aljazeera.com\/news\/2025\/3\/29\/myanmar-thailand-earthquake-death-toll-passes-700",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/03\/AP25087448979683-1743220896.jpg?resize=1920%2C1440",
+        "content": "The death toll from a huge earthquake that hit Myanmar and Thailand has passed 700, as rescuers dug through the rubble of collapsed buildings in a desperate search for survivors.\r\nAt least 694 people\u2026 [+384 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar",
+            "Thailand"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-29T04:08:00Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": null,
+        "title": "Conditions worsen for Myanmar earthquake survivors",
+        "description": "Frustration rise among Myanmar's earthquake survivors as they face shortages of clean water, food, medicine and shelter.",
+        "url": "https:\/\/www.aljazeera.com\/program\/newsfeed\/2025\/4\/2\/conditions-worsen-for-myanmar-earthquake-survivors",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/04\/clean-1743598339.jpg?resize=1800%2C1063",
+        "content": "NewsFeed\r\nFrustration is rising among many of Myanmars earthquake survivors as they face shortages of clean water, food, medicine, and shelter.",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "Thailand",
+        "City": "",
+        "Location": "Thailand",
+        "Latitude": 14.8971921,
+        "Longitude": 100.83273,
+        "timestamp": "2025-04-02T12:52:44Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Foreign aid rushed to quake-hit Myanmar as more than 1,600 killed",
+        "description": "Rescue teams and supplies arrive to help the impoverished country cope with the deadly earthquake.",
+        "url": "https:\/\/www.aljazeera.com\/news\/2025\/3\/30\/foreign-aid-rushed-to-quake-hit-myanmar-as-more-than-1600-killed",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/03\/reuters-741594892_222797-1743319962.jpg?resize=1920%2C1440",
+        "content": "Foreign rescue teams and supplies have arrived in Myanmar to help the impoverished country cope with a magnitude 7.7 earthquake that killed more than 1,600 people and left thousands wounded.\r\nThe dea\u2026 [+3462 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-03-30T10:22:22Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": null,
+        "title": "\u2018Desperate conditions\u2019 at hospital near Myanmar\u2019s quake epicentre",
+        "description": "Al Jazeera's Tony Cheng has been at a hospital near the epicentre of Myanmar\u2019s earthquake.",
+        "url": "https:\/\/www.aljazeera.com\/program\/newsfeed\/2025\/4\/2\/desperate-conditions-at-hospital-near-myanmars-quake-epicentre",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/04\/YT-1743595715.jpg?resize=1800%2C1063",
+        "content": "NewsFeed\r\nAl Jazeeras Tony Cheng has been at a hospital near the epicentre of Myanmars earthquake where he says conditions are desperate.",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-02T12:08:49Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": null,
+        "title": "Video: Video shows trapped survivors calling for help after Myanmar quake",
+        "description": "New video shows trapped survivors of the Myanmar earthquake calling for help from under rubble of a destroyed building.",
+        "url": "https:\/\/www.aljazeera.com\/video\/newsfeed\/2025\/4\/1\/video-video-shows-trapped-survivors-calling-for-help-after-myanmar-quake",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/04\/image-1743512106.jpg?resize=1920%2C1080&quality=80",
+        "content": "NewsFeed\r\nNew video shows trapped survivors of the Myanmar earthquake calling for help from under the rubble of a destroyed building, before rescuers were able to get them out. A minutes silence has \u2026 [+41 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-01T12:55:36Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Myanmar earthquake death toll nears 2,900 as rescue efforts continue",
+        "description": "A man has been pulled alive from the ruins of a hotel in the capital, Naypyidaw, days after the magnitude 7.7 quake.",
+        "url": "https:\/\/www.aljazeera.com\/news\/2025\/4\/2\/myanmar-quake-death-toll-nears-2900-as-rescue-efforts-continue",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/04\/AP25092309992961-1743585079.jpg?resize=1920%2C1440",
+        "content": "The death toll from last weeks earthquake in Myanmar has risen to 2,886, according to state television, as rescue efforts continue amid an ongoing civil war.\r\nMRTV said 4,639 people were injured and \u2026 [+2833 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-02T09:33:21Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Myanmar earthquake death toll climbs as hope fades for survivors",
+        "description": "Myanmar quake leaves nearly 2,900 dead and thousands homeless as relief efforts face challenges amid ongoing conflict.",
+        "url": "https:\/\/www.aljazeera.com\/gallery\/2025\/4\/2\/myanmar-quake-death-toll-climbs-as-hope-fades-for-survivors",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/04\/AFP__20250402__38R67AJ__v1__HighRes__MyanmarThailandEarthquake-1743576283.jpg?resize=1920%2C1440",
+        "content": "Rescuers pulled a man alive from the rubble five days after Myanmars devastating earthquake, as calls grew for the military government to allow more aid in and halt attacks on rebels.\r\nThe shallow ma\u2026 [+753 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Missouri",
+        "Region": "",
+        "City": "",
+        "Location": "Missouri",
+        "Latitude": 38.7604815,
+        "Longitude": -92.5617875,
+        "timestamp": "2025-04-02T09:42:00Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Myanmar earthquake kills over 1,600 and leaves countless buried",
+        "description": "The magnitude 7.7 quake that struck central Myanmar has destroyed thousands of homes.",
+        "url": "https:\/\/www.aljazeera.com\/gallery\/2025\/3\/30\/myanmar-earthquake-kills-over-1600-and-leaves-countless-buried",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/03\/afp-1130346947_284033-1743319903.jpg?resize=1920%2C1440",
+        "content": "The smell of decaying bodies permeates the streets of Myanmars second-largest city as volunteers work frantically by hand to clear rubble in the hope of finding people still alive, two days after a m\u2026 [+1706 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Kentucky",
+        "Region": "",
+        "City": "",
+        "Location": "Kentucky",
+        "Latitude": 37.5726028,
+        "Longitude": -85.1551411,
+        "timestamp": "2025-03-30T11:19:07Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "What caused the powerful Myanmar and Thailand earthquake?",
+        "description": "Myanmar\u2019s location between two tectonic plates - the India and Eurasia plates \u2013 places it at particular risk of quakes.",
+        "url": "https:\/\/www.aljazeera.com\/features\/2025\/3\/28\/why-is-myanmar-so-prone-to-earthquakes",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/03\/2025-03-28T130953Z_575651988_RC2CMDASYEKW_RTRMADP_3_MYANMAR-QUAKE-1743186812.jpg?resize=1920%2C1440",
+        "content": "Myanmar has been hit by a magnitude 7.7 earthquake, which also affected neighbouring Thailand, its tremors felt as far afield as Cambodia and India.\r\nMuch of the devastation caused by Fridays quake a\u2026 [+4387 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar",
+            "Thailand"
+        ],
+        "Country": "Texas",
+        "Region": "Ohio",
+        "City": "",
+        "Location": "Ohio",
+        "Latitude": 40.2253569,
+        "Longitude": -82.6881395,
+        "timestamp": "2025-03-28T21:05:17Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Hundreds of Muslims feared dead in Myanmar earthquake, mosques destroyed",
+        "description": "More than 50 mosques across the country sustained damage when the magnitude 7.7 quake struck.",
+        "url": "https:\/\/www.aljazeera.com\/news\/2025\/3\/29\/myanmar-quake-muslims-feared-dead-destroyed-mosques",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/03\/2025-03-28T130953Z_575651988_RC2CMDASYEKW_RTRMADP_3_MYANMAR-QUAKE-1743185678.jpg?resize=1920%2C1440",
+        "content": "Hundreds of Muslim worshippers are feared to be among the more than 1,600 people who died in a powerful earthquake which struck central Myanmar when they had gathered at mosques for prayers during Ra\u2026 [+4049 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Midwest",
+        "Region": "U.S.",
+        "City": "South",
+        "Location": "South",
+        "Latitude": 18.2612839,
+        "Longitude": -73.8444985,
+        "timestamp": "2025-03-29T16:23:27Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Devastating Myanmar earthquake seen as omen of military regime\u2019s demise",
+        "description": "Many view the earthquake as a sign that Myanmar's military regime and its chief Min Aung Hlaing are nearing an end.",
+        "url": "https:\/\/www.aljazeera.com\/news\/2025\/4\/1\/devastating-myanmar-earthquake-seen-as-omen-of-military-regimes-demise",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/04\/AFP__20250331__38JH8NQ__v2__HighRes__TopshotMyanmarThailandQuake-1743506460.jpg?resize=1920%2C1440",
+        "content": "Mandalay, Myanmar Two years ago, as Cyclone Mocha whipped towards the western coast of Myanmar, packing wind speeds of some 280 kilometres per hour (175mph) and threatening disaster, the countrys mil\u2026 [+7449 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Ohio River",
+        "Region": "",
+        "City": "",
+        "Location": "Ohio River",
+        "Latitude": 38.8197972,
+        "Longitude": -84.2289889,
+        "timestamp": "2025-04-01T12:30:21Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "UN slams Myanmar\u2019s ruling military for breaching truce amid quake recovery",
+        "description": "Army carried out some 120 attacks after earthquake, with more than half of them after declaration of ceasefire, UN says.",
+        "url": "https:\/\/www.aljazeera.com\/news\/2025\/4\/11\/un-denounces-myanmar-military-government-attacks-despite-post-quake-truce",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/04\/2025-04-04T061934Z_631270138_RC2PQDA8HQVE_RTRMADP_3_MYANMAR-QUAKE-1744362149.jpg?resize=1920%2C1440",
+        "content": "The United Nations rights office has denounced Myanmars governing military for breaching the temporary truce in the civil war that was declared by warring sides last month following a deadly earthqua\u2026 [+2377 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Midwest",
+        "Region": "South",
+        "City": "",
+        "Location": "South",
+        "Latitude": 18.2612839,
+        "Longitude": -73.8444985,
+        "timestamp": "2025-04-11T09:46:50Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Boredpanda.com"
+        },
+        "author": "Lei RV",
+        "title": "Horrifying Scenes Of Myanmar\u2019s Massive Earthquake Caught On Camera",
+        "description": "Rescuers are searching for 81 people trapped in the rubble of a collapsed building in Bangkok.\nThe post Horrifying Scenes Of Myanmar\u2019s Massive Earthquake Caught On Camera first appeared on Bored Panda.",
+        "url": "https:\/\/www.boredpanda.com\/massive-earthquake-hit-myanmar\/",
+        "urlToImage": "https:\/\/www.boredpanda.com\/blog\/wp-content\/uploads\/2025\/03\/fb_image_67e6a4a560286.png",
+        "content": "A magnitude-7.7 earthquake centered in Myanmar rocked Southeast Asia on Friday (March 28), causing multiple casualties and extensive damage. Rescuers in Bangkok, the capital and largest city of neigh\u2026 [+10130 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Kentucky",
+        "Region": "",
+        "City": "",
+        "Location": "Kentucky",
+        "Latitude": 37.5726028,
+        "Longitude": -85.1551411,
+        "timestamp": "2025-03-28T13:55:12Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "At least 16 dead in flooding and tornadoes as storms slash from Texas to Ohio",
+        "description": "Another round of torrential rain and flash flooding was coming for parts of the South and Midwest. Areas are already waterlogged by days of severe storms that also spawned some deadly tornadoes.",
+        "url": "https:\/\/www.npr.org\/2025\/04\/05\/nx-s1-5353424\/storms-flooding-midwest-south",
+        "urlToImage": "https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/7438x4184+0+651\/resize\/1400\/quality\/100\/format\/jpeg\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2Faf%2F49de9e38444b8127741f353c75d7%2Fap25095591840102.jpg",
+        "content": "DYERSBURG, Tennessee Another round of torrential rain and flash flooding came Saturday for parts of the South and Midwest already heavily waterlogged by days of severe storms that also spawned deadly\u2026 [+4717 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Texas",
+            "Ohio"
+        ],
+        "Country": "Kentucky",
+        "Region": "",
+        "City": "",
+        "Location": "Kentucky",
+        "Latitude": 37.5726028,
+        "Longitude": -85.1551411,
+        "timestamp": "2025-04-05T15:17:23Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Foxweather.com"
+        },
+        "author": "Hayley Vawter",
+        "title": "Drone video shows flooded Ohio River creeping toward Cincinnati Reds' stadium",
+        "description": "The Ohio River is slowly receding in Cincinnati after cresting Monday night at more than 60 feet high, which broke a seven-year record.",
+        "url": "https:\/\/www.foxweather.com\/extreme-weather\/ohio-river-flooding-cincinnati-drone-video",
+        "urlToImage": "https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/d4hO7lQFxbyA51sJSOm4Ug--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NTY-\/https:\/\/media.zenfs.com\/en\/fox_weather_articles_483\/79b79c5dc070af6abb00ca917c603d2a",
+        "content": "CINCINNATI The Ohio River is slowly receding in Cincinnati after cresting Monday night at more than 60 feet high, which broke a seven-year record.\r\nDrone video taken by the Hamilton County Sheriff's \u2026 [+1722 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Ohio River"
+        ],
+        "Country": "US",
+        "Region": "",
+        "City": "",
+        "Location": "US",
+        "Latitude": 39.7837304,
+        "Longitude": -100.445882,
+        "timestamp": "2025-04-09T17:49:26Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "More torrential rain and flash flooding are expected in waterlogged South and Midwest",
+        "description": "Another round of torrential rain and flash flooding was coming Saturday for parts of the South and Midwest already heavily waterlogged by days of severe storms that also spawned some deadly tornadoes.",
+        "url": "https:\/\/www.npr.org\/2025\/04\/05\/nx-s1-5353424\/storms-flooding-expected-midwest-south",
+        "urlToImage": "https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/7721x4343+0+312\/resize\/1400\/quality\/100\/format\/jpeg\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F7f%2Ff889468549afa107889e2cc754d0%2Fap25094601306152.jpg",
+        "content": "HOPKINSVILLE, Ky. Another round of torrential rain and flash flooding was coming Saturday for parts of the South and Midwest already heavily waterlogged by days of severe storms that also spawned som\u2026 [+4461 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Midwest",
+            "South"
+        ],
+        "Country": "US",
+        "Region": "",
+        "City": "",
+        "Location": "US",
+        "Latitude": 39.7837304,
+        "Longitude": -100.445882,
+        "timestamp": "2025-04-05T15:17:23Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Cincinnati Enquirer"
+        },
+        "author": "Haadiza Ogwude, Cincinnati Enquirer",
+        "title": "When will the Ohio River crest? See levels for area rivers, flooding impacts",
+        "description": "Here's what the rivers are at locally, and what high water and floods could mean for the homes, businesses and residents there.",
+        "url": "https:\/\/www.cincinnati.com\/story\/weather\/2025\/04\/07\/ohio-river-forecast-cincinnati-crest-flooding-falmouth-aurora-new-richmond\/82970940007\/",
+        "urlToImage": "https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/noXyUPZ2XD7jgtjrf41FIA--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzE-\/https:\/\/media.zenfs.com\/en\/the_enquirer_natl_articles_358\/2863c894e92a4957cbffac188b539159",
+        "content": "After nearly a week of high winds, tornadoes, torrential rains, river levels are rising.\r\nThe National Weather Service and the U.S. Geological Survey monitor the water levels of five area rivers and \u2026 [+6210 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Ohio River"
+        ],
+        "Country": "South",
+        "Region": "Midwest",
+        "City": "",
+        "Location": "Midwest",
+        "Latitude": 43.411391,
+        "Longitude": -106.280075,
+        "timestamp": "2025-04-07T12:43:18Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Watch: Deadly storm system brings flooding to US South and Midwest",
+        "description": "Severe weather hit parts of the US as forecasters warned that swollen rivers pose a danger even after the rain stops.",
+        "url": "https:\/\/www.bbc.com\/news\/videos\/cwy6n46e20zo",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/1c38\/live\/55207280-13ba-11f0-ac9f-c37d6fd89579.jpg",
+        "content": "High winds and heavy rain battered the US South and Midwest with multiple states expected to reach a \"major flood stage,\" affecting roads, bridges and other critical infrastructure. Forecasters warne\u2026 [+94 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "US",
+            "Midwest",
+            "South"
+        ],
+        "Country": "Kentucky",
+        "Region": "",
+        "City": "",
+        "Location": "Kentucky",
+        "Latitude": 37.5726028,
+        "Longitude": -85.1551411,
+        "timestamp": "2025-04-07T14:46:55Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KARK"
+        },
+        "author": "Chris Counts",
+        "title": "Central Arkansas highways, interstates affected by flooding",
+        "description": "High water has become a rising problem across roadways following severe weather in central Arkansas.",
+        "url": "https:\/\/www.kark.com\/severe-weather-coverage\/central-arkansas-highways-interstates-affected-by-flooding\/",
+        "urlToImage": "https:\/\/media.zenfs.com\/en\/kark_articles_339\/b413ff9b2f24af40c2d69042e58944d8",
+        "content": "CENTRAL ARKANSAS, Ark. High water has become a rising problem across roadways following severe weather in central Arkansas.\r\nAccording to ARDOT, one area of concern is on Interstate 57 in Jacksonvill\u2026 [+1081 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Central Arkansas"
+        ],
+        "Country": "Bangladesh",
+        "Region": "",
+        "City": "",
+        "Location": "Bangladesh",
+        "Latitude": 24.4769288,
+        "Longitude": 90.2934413,
+        "timestamp": "2025-04-06T15:35:05Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Foxweather.com"
+        },
+        "author": "Angeli Gabriel",
+        "title": "Drone videos show parts of Kentucky towns disappear under floodwaters",
+        "description": "Parts of the southwestern Kentucky town of Hopkinsville became submerged on Friday, after heavy rains from a stalled storm system drenched the region.",
+        "url": "https:\/\/www.foxweather.com\/extreme-weather\/drone-video-hopkinsville-kentucky-flooding",
+        "urlToImage": "https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/.BV_mVOsIB8zQpr0jLW0yA--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-\/https:\/\/media.zenfs.com\/en\/fox_weather_articles_483\/cd2f9dc59f7796e3bf8a0d43f60e8b7e",
+        "content": "HOPKINSVILLE, Ky. Parts of the southwestern Kentucky town of Hopkinsville became submerged on Friday, after heavy rains from a stalled storm system drenched the region.\r\nMore than 8 inches of rain fe\u2026 [+1688 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Kentucky"
+        ],
+        "Country": "South Australia",
+        "Region": "",
+        "City": "",
+        "Location": "South Australia",
+        "Latitude": -30.5343665,
+        "Longitude": 135.6301212,
+        "timestamp": "2025-04-06T00:44:50Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Weather Channel"
+        },
+        "author": "The Weather Channel",
+        "title": "Floods Send Dock Crashing Into Bridge On The Kentucky River",
+        "description": "Residents of Frankfort, Kentucky, were under a curfew Sunday night as flooding worsened in the state\u2019s capital. The Kentucky river was expected to crest at a...",
+        "url": "https:\/\/weather.com\/news\/weather\/video\/dock-crashes-into-kentucky-river-bridge-amid-floods",
+        "urlToImage": "https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/4pckE.60FjAc5yKAVd9xCQ--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-\/https:\/\/media.zenfs.com\/en\/the_weather_channel_videos_110\/187abc507192249573dabb446597a460",
+        "content": "Residents of Frankfort, Kentucky, were under a curfew Sunday night as flooding worsened in the states capital. The Kentucky river was expected to crest at a nearly record level early Monday, so neigh\u2026 [+166 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "The Kentucky River"
+        ],
+        "Country": "Tonga",
+        "Region": "",
+        "City": "",
+        "Location": "Tonga",
+        "Latitude": -19.9160819,
+        "Longitude": -175.202642,
+        "timestamp": "2025-04-07T10:58:16Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Flooding sweeps away 9-year-old as storms slam central US",
+        "description": "High winds and heavy rain were expected to continue into Sunday, delaying clean-up efforts.",
+        "url": "https:\/\/www.bbc.com\/news\/articles\/c2ewg7mmzjjo",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/f61b\/live\/63d518d0-1257-11f0-9155-95dec91291cd.jpg",
+        "content": "A 9-year-old boy in Kentucky was swept away by flood waters on Friday, one of at least nine people to die in a series of dramatic storms that continue to pummel the US. \r\nHigh winds and heavy rain co\u2026 [+2399 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "US"
+        ],
+        "Country": "Tsunami",
+        "Region": "Tonga",
+        "City": "",
+        "Location": "Tonga",
+        "Latitude": -19.9160819,
+        "Longitude": -175.202642,
+        "timestamp": "2025-04-05T20:17:54Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Emily Shapiro, Kenton Gewecke, Daniel Peck, Daniel Manzo",
+        "title": "7 killed as devastating storm pounds central US with more rain, tornado threats",
+        "description": "\u200b\u200bA four-day, once-in-a-generation weather event is pounding the middle of the U.S. with destructive tornadoes and life-threatening flooding.",
+        "url": "https:\/\/abcnews.go.com\/US\/generation-storm-turns-deadly-expect-tornadoes-dangerous-flooding\/story?id=120444215",
+        "urlToImage": "https:\/\/i.abcnewsfe.com\/a\/f4b581fb-1018-4f01-b0b2-324c0924d880\/weather-tenn-01-ap-jef-250404_1743769217661_hpMain_16x9.jpg?w=1600",
+        "content": "A four-day, once-in-a-generation weather event is pounding the middle of the U.S. with destructive tornadoes and life-threatening flooding.\r\nFriday marks day three of the devastating storm. Here's wh\u2026 [+3203 chars]",
+        "disaster_event": "Storm",
+        "location_ner": [
+            "US"
+        ],
+        "Country": "Tonga",
+        "Region": "",
+        "City": "",
+        "Location": "Tonga",
+        "Latitude": -19.9160819,
+        "Longitude": -175.202642,
+        "timestamp": "2025-04-04T12:47:14Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Joe Hernandez",
+        "title": "Severe storms and floods batter South and Midwest, as death toll rises to at least 18",
+        "description": "Severe storms continued to pound parts of the South and Midwest, as a punishing and slow-moving storm system unleashed life-threatening flash floods and powerful tornadoes from Mississippi to Kentucky.",
+        "url": "https:\/\/www.npr.org\/2025\/04\/06\/nx-s1-5354182\/severe-storms-and-floods-batter-south-and-midwest-as-death-toll-rises-to-at-least-18",
+        "urlToImage": "https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/6000x3375+0+0\/resize\/1400\/quality\/100\/format\/jpeg\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faa%2F48%2Fc06f4dbc46869da6da4e75fb9e5d%2Fap25096601583040.jpg",
+        "content": "Severe storms continued to pound parts of the South and Midwest on Sunday, as a punishing and slow-moving storm system unleashed life-threatening flash floods and powerful tornadoes from Mississippi \u2026 [+2992 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Midwest",
+            "South"
+        ],
+        "Country": "Tsunami",
+        "Region": "the South Pacific",
+        "City": "Tonga",
+        "Location": "Tonga",
+        "Latitude": -19.9160819,
+        "Longitude": -175.202642,
+        "timestamp": "2025-04-06T18:06:33Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Courier Journal"
+        },
+        "author": "Killian Baarlaer, Louisville Courier Journal",
+        "title": "Severe storms, lingering rain to bring flooding threats to Louisville starting Wednesday",
+        "description": "Severe storms are expected to impact Kentucky Wednesday, followed by lingering rain that could bring widespread flooding, forecasters say.",
+        "url": "https:\/\/www.courier-journal.com\/story\/weather\/local\/2025\/04\/01\/louisville-weather-severe-storms-wednesday-major-flooding-possible\/82760829007\/",
+        "urlToImage": "https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/hn_4baGogQSuGQd2TV8SaA--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjU-\/https:\/\/media.zenfs.com\/en\/the-courier-journal\/6738d3912ccd7704c409313d4c85445e",
+        "content": "Severe storms starting Wednesday evening and repeated rain showers lingering into the weekend are expected to pummel Kentucky with possible tornadoes, damaging winds and widespread flooding, accordin\u2026 [+2807 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Louisville"
+        ],
+        "Country": "Earth",
+        "Region": "Tonga",
+        "City": "",
+        "Location": "Tonga",
+        "Latitude": -19.9160819,
+        "Longitude": -175.202642,
+        "timestamp": "2025-04-01T20:02:43Z"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "JEFF MARTIN \/ AP",
+        "title": "Forecasters Warn of Deadly Floods, Strong Tornadoes in Parts of the Midwest and South",
+        "description": "As severe thunderstorms threatened to hit parts of the Midwest and South on Wednesday, forecasters warned of flash flooding and tornadoes.",
+        "url": "https:\/\/time.com\/7273697\/weather-warning-tornadoes-floods-us-midwest-south\/",
+        "urlToImage": "https:\/\/api.time.com\/wp-content\/uploads\/2025\/04\/AP25091580301712.jpg?quality=85&w=1200&h=628&crop=1",
+        "content": "As severe thunderstorms threatened to hit parts of the Midwest and South on Wednesday, forecasters warned of potentially deadly flash flooding, strong tornadoes and baseball-sized hail.\r\nAt least one\u2026 [+3831 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "South",
+            "Midwest"
+        ],
+        "Country": "Pacific island",
+        "Region": "Tsunami",
+        "City": "Tonga",
+        "Location": "Tonga",
+        "Latitude": -19.9160819,
+        "Longitude": -175.202642,
+        "timestamp": "2025-04-02T12:31:00Z"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "ANDREW DeMILLO \/ AP",
+        "title": "What to Know About the Severe Storms and Flash Flooding Devastating Parts of the U.S.",
+        "description": "Tornadoes and flooding have killed\u00a0more than a dozen people in parts of the South and Midwest.",
+        "url": "https:\/\/time.com\/7275281\/us-weather-severe-storms-flash-flooding-midwest-south\/",
+        "urlToImage": "https:\/\/api.time.com\/wp-content\/uploads\/2025\/04\/AP25093582414893.jpg?quality=85&w=1200&h=628&crop=1",
+        "content": "LITTLE ROCK, Ark. Parts of the South and Midwest, still reeling from violent storms, tornadoes and flooding that have killed more than a dozen people, face new flooding and tornado warnings that fore\u2026 [+3902 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "U.S."
+        ],
+        "Country": "Papua New Guinea",
+        "Region": "",
+        "City": "",
+        "Location": "Papua New Guinea",
+        "Latitude": -5.6816069,
+        "Longitude": 144.2489081,
+        "timestamp": "2025-04-06T13:56:54Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Foxweather.com"
+        },
+        "author": "Emilee Speck",
+        "title": "Famous bourbon distillery assessing damage as flooding ravages Kentucky's capital",
+        "description": "America's oldest continuously operating distillery is temporarily closed because of major flooding in Kentucky this week, caused by days of heavy downpours...",
+        "url": "https:\/\/www.foxweather.com\/weather-news\/buffalo-trace-distillery-kentucky-river-flooding",
+        "urlToImage": "https:\/\/media.zenfs.com\/en\/fox_weather_articles_483\/ce7d830b83162333b8642768427cba41",
+        "content": "FRANKFORT, Ky. America's oldest continuously operating distillery is temporarily closed because of major flooding in Kentucky this week, caused by days of heavy downpours that have caused the Kentuck\u2026 [+2696 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Kentucky"
+        ],
+        "Country": "Tsunami",
+        "Region": "South Pacific",
+        "City": "Tonga",
+        "Location": "Tonga",
+        "Latitude": -19.9160819,
+        "Longitude": -175.202642,
+        "timestamp": "2025-04-07T20:31:50Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Phys.Org"
+        },
+        "author": "Massachusetts Institute of Technology",
+        "title": "Hundred-year storm tides to hit Bangladesh every decade as climate change intensifies, scientists report",
+        "description": "Tropical cyclones are hurricanes that brew over the tropical ocean and can travel over land, inundating coastal regions. The most extreme cyclones can generate devastating storm tides\u2014seawater that is heightened by the tides and swells onto land, causing cata\u2026",
+        "url": "https:\/\/phys.org\/news\/2025-04-year-storm-tides-bangladesh-decade.html",
+        "urlToImage": "https:\/\/scx2.b-cdn.net\/gfx\/news\/hires\/2025\/tidal-wave.jpg",
+        "content": "Tropical cyclones are hurricanes that brew over the tropical ocean and can travel over land, inundating coastal regions. The most extreme cyclones can generate devastating storm tidesseawater that is\u2026 [+7798 chars]",
+        "disaster_event": "Storm",
+        "location_ner": [
+            "Bangladesh"
+        ],
+        "Country": "North Carolina",
+        "Region": "",
+        "City": "",
+        "Location": "North Carolina",
+        "Latitude": 35.6729639,
+        "Longitude": -79.0392919,
+        "timestamp": "2025-04-11T15:05:53Z"
+    },
+    {
+        "source": {
+            "id": "abc-news-au",
+            "name": "ABC News (AU)"
+        },
+        "author": "Daniel Keane, Selina Green, and Arj Ganesan",
+        "title": "Flooding has created an 'inland tsunami' in remote South Australia",
+        "description": "While communities around Adelaide cope with drought, another part of South Australia is dealing with a \"historic\" flood event. Here's what we know.",
+        "url": "https:\/\/www.abc.net.au\/news\/2025-04-10\/outback-flooding-deluges-cooper-creek-with-water-inundation\/105154796",
+        "urlToImage": "https:\/\/live-production.wcms.abc-cdn.net.au\/8ad118af113dd6a077b0dd95ff35fe06?impolicy=wcms_watermark_news&cropH=1836&cropW=3264&xPos=0&yPos=306&width=862&height=485&imformat=generic",
+        "content": "The contrasts in Australia's weather patterns often take the form of ironies and there's an especially stark one currently on show.\r\nWhile South Australia's south is so desperate for rain that one of\u2026 [+7276 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "South Australia"
+        ],
+        "Country": "South Korea",
+        "Region": "",
+        "City": "",
+        "Location": "South Korea",
+        "Latitude": 36.638392,
+        "Longitude": 127.6961188,
+        "timestamp": "2025-04-09T20:32:21Z"
+    },
+    {
+        "source": {
+            "id": "abc-news-au",
+            "name": "ABC News (AU)"
+        },
+        "author": "Thomas Morgan and Maddy Morwood",
+        "title": "Breaking: Magnitude-7.1 earthquake hits Tonga, tsunami threat issued",
+        "description": "The US Tsunami Warning Centre says waves are possible within 300 kilometres of the epicentre, which struck approximately 100 kilometres off the coast of Tonga.",
+        "url": "https:\/\/www.abc.net.au\/news\/2025-03-31\/magnitude-7-earthquake-hits-tonga-tsunami-threat-issued\/105114840",
+        "urlToImage": "https:\/\/live-production.wcms.abc-cdn.net.au\/b9a5cf82d345f4121ba437e1a6894ca9?impolicy=wcms_watermark_news&cropH=480&cropW=853&xPos=0&yPos=62&width=862&height=485&imformat=generic",
+        "content": "A magnitude-7.1 earthquake has hit near Tonga, prompting a tsunami warning for the Pacific island country.\r\nGeoscience Australia said the quake struck about 100 kilometres north-east of Tonga.\r\nThe U\u2026 [+490 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Tonga"
+        ],
+        "Country": "South Korea",
+        "Region": "",
+        "City": "",
+        "Location": "South Korea",
+        "Latitude": 36.638392,
+        "Longitude": 127.6961188,
+        "timestamp": "2025-03-30T13:18:21Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Japan Today"
+        },
+        "author": null,
+        "title": "Tsunami warning lifted after M7 earthquake near Tonga in the South Pacific",
+        "description": "A strong 7.0 magnitude earthquake hit near Tonga, prompting an initial tsunami warning that was later lifted for the Pacific island country. The U.S. Geological Survey said the quake hit at a depth of 29 kilometers and was centered about 100 kilometers northe\u2026",
+        "url": "https:\/\/japantoday.com\/category\/world\/tsunami-warning-lifted-after-7.0-earthquake-near-tonga-in-the-south-pacific",
+        "urlToImage": null,
+        "content": "A strong 7.0 magnitude earthquake hit near Tonga, prompting an initial tsunami warning that was later lifted for the Pacific island country.\r\nThe U.S. Geological Survey said the quake hit at a depth \u2026 [+1922 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Tsunami",
+            "the South Pacific",
+            "Tonga"
+        ],
+        "Country": "South Korea",
+        "Region": "",
+        "City": "",
+        "Location": "South Korea",
+        "Latitude": 36.638392,
+        "Longitude": 127.6961188,
+        "timestamp": "2025-03-30T21:35:52Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Live Science"
+        },
+        "author": "Harry Baker",
+        "title": "'Shining anus' volcano in Tonga coughs up cloud of smoke during recent eruption \u2014 Earth from space",
+        "description": "A 2022 satellite photo shows smoke rising from a caldera on Tofua, highlighting the \"looming threat\" of the volcanic island.",
+        "url": "https:\/\/www.livescience.com\/planet-earth\/volcanos\/shining-anus-volcano-in-tonga-coughs-up-cloud-of-smoke-during-recent-eruption-earth-from-space",
+        "urlToImage": "https:\/\/cdn.mos.cms.futurecdn.net\/bbU4DLeUYUiqEN6oMpei4b-1200-80.jpg",
+        "content": "Where is it? Tofua, Ha'apai, Tonga [-19.73996943, -175.072336]\r\nWhat's in the photo? Smoke coming from a volcanic cone near the island's summit\r\nWhich satellite took the photo? Landsat 9\r\nWhen was it\u2026 [+3623 chars]",
+        "disaster_event": "Volcano",
+        "location_ner": [
+            "Earth",
+            "Tonga"
+        ],
+        "Country": "South Carolina",
+        "Region": "",
+        "City": "",
+        "Location": "South Carolina",
+        "Latitude": 33.6874388,
+        "Longitude": -80.4363743,
+        "timestamp": "2025-03-25T08:00:00Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "Tsunami warning issued after 7.1 magnitude earthquake hits near country of Tonga",
+        "description": "A strong 7.1 magnitude earthquake hit near Tonga, prompting a tsunami warning for the Pacific island country",
+        "url": "https:\/\/abcnews.go.com\/International\/wireStory\/tsunami-warning-issued-after-strong-71-magnitude-earthquake-120310011",
+        "urlToImage": "https:\/\/s.abcnews.com\/images\/US\/abc_news_default_2000x2000_update_16x9_992.jpg",
+        "content": "TOKYO -- A strong 7.1 magnitude earthquake hit near Tonga, prompting a tsunami warning for the Pacific island country. \r\nThe U.S. Geological Survey said the temblor hit about 100 kilometers (62 miles\u2026 [+533 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Tsunami",
+            "Tonga"
+        ],
+        "Country": "Coastal Texas",
+        "Region": "",
+        "City": "",
+        "Location": "Coastal Texas",
+        "Latitude": 29.5131169933,
+        "Longitude": -98.6293684952,
+        "timestamp": "2025-03-30T13:07:47Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "Tsunami warning issued after strong 7.1 magnitude earthquake hits near Pacific island country of Tonga",
+        "description": "Tsunami warning issued after strong 7.1 magnitude earthquake hits near Pacific island country of Tonga",
+        "url": "https:\/\/abcnews.go.com\/US\/wireStory\/tsunami-warning-issued-after-strong-71-magnitude-earthquake-120309929",
+        "urlToImage": "https:\/\/s.abcnews.com\/images\/US\/abc_news_default_2000x2000_update_16x9_992.jpg",
+        "content": "Tsunami warning issued after strong 7.1 magnitude earthquake hits near Pacific island country of Tonga\r\nTOKYO -- Tsunami warning issued after strong 7.1 magnitude earthquake hits near Pacific island \u2026 [+16 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Pacific island",
+            "Tsunami",
+            "Tonga"
+        ],
+        "Country": "Los Angeles",
+        "Region": "",
+        "City": "",
+        "Location": "Los Angeles",
+        "Latitude": 34.0536909,
+        "Longitude": -118.242766,
+        "timestamp": "2025-03-30T12:45:59Z"
+    },
+    {
+        "source": {
+            "id": "the-jerusalem-post",
+            "name": "The Jerusalem Post"
+        },
+        "author": "BY REUTERS",
+        "title": "Magnitude 7.1 earthquake strikes off Papua New Guinea, EMSC says",
+        "description": "An earthquake of magnitude 7.1 struck off the coast of the New Britain region in Papua New Guinea, the Europea",
+        "url": "https:\/\/www.jpost.com\/breaking-news\/article-848927",
+        "urlToImage": "https:\/\/images.jpost.com\/image\/upload\/f_auto,fl_lossy\/c_fill,g_faces:center,h_407,w_690\/534687",
+        "content": "An earthquake of magnitude 7.1 struck off the coast of the New Britain region in Papua New Guinea, the European-Mediterranean Seismological Centre (EMSC) said on Saturday.\r\nThe quake was at a depth o\u2026 [+97 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Papua New Guinea"
+        ],
+        "Country": "South Korea",
+        "Region": "",
+        "City": "",
+        "Location": "South Korea",
+        "Latitude": 36.638392,
+        "Longitude": 127.6961188,
+        "timestamp": "2025-04-04T21:28:15Z"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "AP",
+        "title": "Tsunami warning lifted after 7.1 earthquake near Tonga in South Pacific",
+        "description": "A powerful 7.1 magnitude earthquake struck near Tonga, leading to a temporary tsunami warning. The initial quake was followed by a 6.1 magnitude aftershock. Despite the alert and activation of tsunami sirens, there were no immediate reports of damage, and res\u2026",
+        "url": "https:\/\/timesofindia.indiatimes.com\/world\/rest-of-world\/tsunami-warning-lifted-after-7-1-earthquake-near-tonga-in-south-pacific\/articleshow\/119764654.cms",
+        "urlToImage": "https:\/\/static.toiimg.com\/thumb\/msid-119764654,width-1070,height-580,imgsize-879236,resizemode-75,overlay-toi_sw,pt-32,y_pad-40\/photo.jpg",
+        "content": "Kareena Kapoor Khan has a saree for every occasion, including Eid",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Tsunami",
+            "South Pacific",
+            "Tonga"
+        ],
+        "Country": "California",
+        "Region": "",
+        "City": "",
+        "Location": "California",
+        "Latitude": 36.7014631,
+        "Longitude": -118.755997,
+        "timestamp": "2025-03-30T16:46:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Isaac Schultz",
+        "title": "The Numbers Are in: Hurricane Helene Deadliest in U.S. Since Katrina",
+        "description": "Hurricane Helene, which slammed into Florida's Big Bend in late September, caused the deaths of nearly 250 people\u2014a number only dwarfed by the infamous 2005 storm.",
+        "url": "https:\/\/gizmodo.com\/the-numbers-are-in-hurricane-helene-deadliest-in-u-s-since-katrina-2000580256",
+        "urlToImage": "https:\/\/gizmodo.com\/app\/uploads\/2024\/11\/hurricane-helene-goes-satellite.jpg",
+        "content": "A report published this week by the National Hurricane Center revealed the brutal impact of Hurricane Helene, which hit the American Southeast in late September 2024. The center reports that Hurrican\u2026 [+2641 chars]",
+        "disaster_event": "Hurricane",
+        "location_ner": [
+            "U.S."
+        ],
+        "Country": "Thailand",
+        "Region": "",
+        "City": "",
+        "Location": "Thailand",
+        "Latitude": 14.8971921,
+        "Longitude": 100.83273,
+        "timestamp": "2025-03-25T15:45:45Z"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "ASSOCIATED PRESS",
+        "title": "North and South Carolina Wildfires Fueled by Drought, Wind, and Fallen Trees From Hurricane Helene",
+        "description": "\u201cThe weather over the next few days remains concerning,\u201d the forestry commission said, amid ongoing evacuation orders in the Carolinas.",
+        "url": "https:\/\/time.com\/7271734\/north-south-carolina-wildfires-cause-drought-wind-fallen-trees-hurricane-helene\/",
+        "urlToImage": "https:\/\/api.time.com\/wp-content\/uploads\/2025\/03\/AP25083684418468.jpg?quality=85&w=1120&h=628&crop=1",
+        "content": "Dry conditions, wind and trees downed by Hurricane Helene fueled wildfires in North Carolina and South Carolina, where evacuation orders were in effect Tuesday.\r\nMany people in the area are still get\u2026 [+3495 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "North and South Carolina"
+        ],
+        "Country": "Clinton County",
+        "Region": "",
+        "City": "",
+        "Location": "Clinton County",
+        "Latitude": 41.2711458,
+        "Longitude": -77.6984481,
+        "timestamp": "2025-03-26T12:59:34Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "WATCH: High waves cause damage on Sydney waterfront",
+        "description": "Sydney beachfront properties were flooded and coastal infrastructure was damaged after a large swell combined with a king tide to batter the Australian shore.",
+        "url": "https:\/\/abcnews.go.com\/International\/video\/120404178",
+        "urlToImage": "https:\/\/i.abcnewsfe.com\/a\/1b91d02b-067f-4171-8c15-a5489325fead\/250402_abc_social_sydney_waterfront_hpMain_16x9.jpg?w=992",
+        "content": "<ul><li>Randy Fine projected to win Florida special election: AP\r\n<\/li><li>High-stakes Wisconsin state Supreme Court election\r\n<\/li><li>Sen. Cory Booker breaks Senate record with marathon 24-hour spe\u2026 [+4403 chars]",
+        "disaster_event": "Storm",
+        "location_ner": [
+            "Sydney"
+        ],
+        "Country": "Tennessee",
+        "Region": "Selmer",
+        "City": "",
+        "Location": "Selmer",
+        "Latitude": 35.1700744,
+        "Longitude": -88.5923645,
+        "timestamp": "2025-04-02T10:57:09Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "newsweek.com",
+        "title": "North, South Carolina Wildfire Map Shows Fires Compared to States' Biggest",
+        "description": "Firefighters are having a challenging time trying to contain the ongoing wildfires in North and South Carolina amid excessive fuel availability from Hurricane Helene debris.\nEven as the flames spread, the fires are much smaller than the worst wildfires in bot\u2026",
+        "url": "https:\/\/biztoc.com\/x\/ff7d53a17b2ac746",
+        "urlToImage": "https:\/\/biztoc.com\/cdn\/ff7d53a17b2ac746_s.webp",
+        "content": "Firefighters are having a challenging time trying to contain the ongoing wildfires in North and South Carolina amid excessive fuel availability from Hurricane Helene debris.Even as the flames spread,\u2026 [+145 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "North, South Carolina"
+        ],
+        "Country": "U.S.",
+        "Region": "",
+        "City": "",
+        "Location": "U.S.",
+        "Latitude": 39.7837304,
+        "Longitude": -100.445882,
+        "timestamp": "2025-03-25T17:23:21Z"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Marlene Lenthang",
+        "title": "Wildfires continue to rage in the Carolinas as hundreds are evacuated from homes",
+        "description": "Another day of fire danger is forecast throughout the Carolinas as wildfires continue to rage due to wind, low humidity, and a tinderbox of dry, downed timber left in the wake of Hurricane Helene.",
+        "url": "https:\/\/www.nbcnews.com\/weather\/wildfires\/wildfires-continue-rage-carolinas-rcna198328",
+        "urlToImage": "https:\/\/media-cldnry.s-nbcnews.com\/image\/upload\/t_nbcnews-fp-1200-630,f_auto,q_auto:best\/rockcms\/2025-03\/250327-wildfire-ch-0914-497ede.jpg",
+        "content": "Another day of fire danger is forecast throughout the Carolinas as wildfires continue to rage due to wind, low humidity, and a tinderbox of dry, downed timber left in the wake of Hurricane Helene. \r\n\u2026 [+4458 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "Carolinas"
+        ],
+        "Country": "MIDWEST",
+        "Region": "",
+        "City": "",
+        "Location": "MIDWEST",
+        "Latitude": 43.411391,
+        "Longitude": -106.280075,
+        "timestamp": "2025-03-27T13:54:41Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "FOX Weather",
+        "title": "Wildfires scorch nearly 15,000 acres in Carolinas as states of emergency broadened, evacuations mandated",
+        "description": "The fight against destructive\u00a0wildfires\u00a0tearing through\u00a0North Carolina\u00a0and\u00a0South Carolina\u00a0is being significantly hampered by Hurricane\u00a0Helene\u2019s\u00a0lingering devastation, officials revealed.\u2026",
+        "url": "https:\/\/nypost.com\/2025\/03\/27\/us-news\/wildfires-scorch-nearly-15000-acres-in-carolinas-as-states-of-emergency-broadened-evacuations-mandated\/",
+        "urlToImage": "https:\/\/nypost.com\/wp-content\/uploads\/sites\/2\/2025\/03\/101193263.jpg?quality=75&strip=all&w=1024",
+        "content": "The fight against destructive\u00a0wildfires\u00a0tearing through\u00a0North Carolina\u00a0and\u00a0South Carolina\u00a0is being significantly hampered by Hurricane\u00a0Helene\u2019s\u00a0lingering devastation, officials revealed, calling the \u2026 [+4356 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "Carolinas"
+        ],
+        "Country": "US",
+        "Region": "",
+        "City": "",
+        "Location": "US",
+        "Latitude": 39.7837304,
+        "Longitude": -100.445882,
+        "timestamp": "2025-03-27T14:06:29Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fark.com"
+        },
+        "author": null,
+        "title": "Kingston went missing from his home in Louisiana after a hurricane 5 years ago & recently turned up 300 miles away on the porch of a frat house in Mississippi, but thanks to their efforts he was reunited with his family in time for Woofday Wetnose Wednesday (w\/video) [Woofday]",
+        "description": "Kingston went missing from his home in Louisiana after a hurricane 5 years ago & recently turned up 300 miles away on the porch of a frat house in Mississippi, but thanks to their efforts he was reunited with his family in time for Woofday Wetnose Wednesday (\u2026",
+        "url": "https:\/\/www.fark.com\/comments\/13626304\/Kingston-went-missing-from-his-home-in-Louisiana-after-a-hurricane-5-years-ago-recently-turned-up-300-miles-away-on-porch-of-a-frat-house-in-Mississippi-but-thanks-to-their-efforts-he-was-reunited-with-his-family-in-time-for-Woofday-Wetnose-Wednesday-wvideo",
+        "urlToImage": "https:\/\/img.fark.net\/images\/2013\/site\/farkLogo2Big.gif",
+        "content": "<li>Links are submitted by members of the Fark community.\r\n<\/li><li>When community members submit a link, they also write a custom headline for the story.\r\n<\/li><li>Other Farkers comment on the links\u2026 [+177 chars]",
+        "disaster_event": "Hurricane",
+        "location_ner": [
+            "Mississippi",
+            "Louisiana"
+        ],
+        "Country": "Lake City",
+        "Region": "Arkansas",
+        "City": "",
+        "Location": "Arkansas",
+        "Latitude": 35.2048883,
+        "Longitude": -92.4479108,
+        "timestamp": "2025-04-09T13:00:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Man tending grave probed for starting South Korea fires",
+        "description": "Police say a man performing an ancestral rite may have accidentally sparked the deadly wildfire.",
+        "url": "https:\/\/www.bbc.com\/news\/articles\/c4g3e35y3qqo",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/cdef\/live\/c2dec910-0d3a-11f0-b1c8-05eb2b6add27.jpg",
+        "content": "The wildfire destroyed national treasures like Goun Temple, a Unesco World Heritage Site\r\nA 56-year-old man is being investigated in South Korea on suspicion of starting a deadly wildfire that killed\u2026 [+1663 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "South Korea"
+        ],
+        "Country": "US",
+        "Region": "",
+        "City": "",
+        "Location": "US",
+        "Latitude": 39.7837304,
+        "Longitude": -100.445882,
+        "timestamp": "2025-03-30T07:42:48Z"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "KIM TONG-HYUNG and HYUNG-JIN KIM \/ AP",
+        "title": "Wildfires Ravage Southern South Korea, Killing 24",
+        "description": "Wind-driven\u00a0wildfires\u00a0that were among the country\u2019s worst ever have destroyed more than 200 structures and forced 27,000 people to evacuate.",
+        "url": "https:\/\/time.com\/7271661\/south-korea-wildfires-deaths-damage-uiseong-wind-evacuations\/",
+        "urlToImage": "https:\/\/api.time.com\/wp-content\/uploads\/2025\/03\/wildfires-south-korea.jpg?quality=85&w=1024&h=628&crop=1",
+        "content": "SEOUL, South Korea Wind-driven wildfires that were among South Koreas worst ever were ravaging the countrys southern regions, killing 24 people, destroying more than 200 structures and forcing 27,000\u2026 [+3368 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "South Korea"
+        ],
+        "Country": "WA",
+        "Region": "",
+        "City": "",
+        "Location": "WA",
+        "Latitude": -25.2303005,
+        "Longitude": 121.0187246,
+        "timestamp": "2025-03-26T07:55:00Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "At least 18 dead as \u2018unprecedented\u2019 wildfires rage across South Korea",
+        "description": "South Korea's forest service said thousands of fighters are tackling at least five active wildfire nationwide.",
+        "url": "https:\/\/www.aljazeera.com\/news\/2025\/3\/26\/at-least-eighteen-dead-as-unprecedented-wildfires-rage-across-south-korea",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/03\/2025-03-25T035607Z_977550944_RC21KDA353X6_RTRMADP_3_SOUTHKOREA-FIRE-1742954455.jpg?resize=1920%2C1440",
+        "content": "At least 18 people have been killed and almost 20 injured as wildfires rage in multiple areas across South Koreas southeastern region where thousands of firefighters and soldiers are struggling to co\u2026 [+2971 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "South Korea"
+        ],
+        "Country": "Queensland",
+        "Region": "",
+        "City": "",
+        "Location": "Queensland",
+        "Latitude": -22.1646782,
+        "Longitude": 144.5844903,
+        "timestamp": "2025-03-26T02:39:46Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Archinect"
+        },
+        "author": "Niall Patrick Walsh",
+        "title": "SCI-Arc launches task force to support California wildfire recovery",
+        "description": "In the aftermath of the destructive wildfires in Altadena and Pacific Palisades, the Southern California Institute of Architecture (SCI-Arc) has announced the establishment of its Resilient Futures Task Force, an initiative aimed at assisting affected communi\u2026",
+        "url": "https:\/\/archinect.com\/news\/article\/150474214\/sci-arc-launches-task-force-to-support-california-wildfire-recovery",
+        "urlToImage": "https:\/\/archinect.gumlet.io\/uploads\/f2\/f2dcdf3831f867bdc15834ee44d75add.jpg?fit=crop&auto=compress%2Cformat&enlarge=true&crop=faces&w=1200&h=707",
+        "content": "In the aftermath of the destructive wildfires in Altadena and Pacific Palisades, the Southern California Institute of Architecture (SCI-Arc) has announced the establishment of its Resilient Futures T\u2026 [+2349 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "California"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-09T12:00:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Michael Molitch-Hou, Contributor, \n Michael Molitch-Hou, Contributor\n https:\/\/www.forbes.com\/sites\/michaelmolitch-hou\/",
+        "title": "Why Construction 3D Printing Is Gaining Ground In Post-Wildfire LA",
+        "description": "In a time when wildfires are growing in frequency and intensity\u2014driven by climate change and extreme heat\u2014Zareiyan sees AC as a timely solution.",
+        "url": "https:\/\/www.forbes.com\/sites\/michaelmolitch-hou\/2025\/04\/04\/why-construction-3d-printing-is-gaining-ground-in-post-wildfire-la\/",
+        "urlToImage": "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/67efef273d2e6c9023db9448\/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "content": "When wildfires sweep through communities, they leave devastation in their wakedestroying homes, displacing families, and posing long-term challenges for recovery. In Los Angeles alone, recent fires d\u2026 [+7896 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "LA"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-04T14:41:10Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "South Korea says wildfires worst in its history, death toll rises to 26",
+        "description": "Firefighters are struggling to contain the wildfires, which continue to grow rapidly in size, fuelled by strong winds.",
+        "url": "https:\/\/www.aljazeera.com\/news\/2025\/3\/27\/south-korea-says-wildfires-worst-in-its-history-death-toll-rises-to-26",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/03\/AFP__20250326__37ZF982__v2__HighRes__TopshotSkoreaFire-1743054489.jpg?resize=1920%2C1440",
+        "content": "South Korean authorities have declared ongoing wildfires the worst to ever hit the country, as the death toll rose again and the affected area doubled in size.\r\nThe wildfires which began late on Frid\u2026 [+2634 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "South Korea"
+        ],
+        "Country": "West Coast",
+        "Region": "",
+        "City": "",
+        "Location": "West Coast",
+        "Latitude": -42.5638896,
+        "Longitude": 171.4523340044,
+        "timestamp": "2025-03-27T06:41:15Z"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "The Associated Press",
+        "title": "South Carolina wildfire keeps growing as firefighters protect homes",
+        "description": "A large wildfire in the South Carolina mountains has doubled in size on each of the last three days.",
+        "url": "https:\/\/www.nbcnews.com\/news\/us-news\/south-carolina-wildfire-growing-rcna198732",
+        "urlToImage": "https:\/\/media-cldnry.s-nbcnews.com\/image\/upload\/t_nbcnews-fp-1200-630,f_auto,q_auto:best\/rockcms\/2025-03\/250329-south-carolina-ch-1601-f855bc.jpg",
+        "content": "A large wildfire in the South Carolina mountains has doubled in size on each of the last three days. But fire crews have been able to keep the blaze away from structures.\r\nFirefighters battling the T\u2026 [+3188 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "South Carolina"
+        ],
+        "Country": "Iceland",
+        "Region": "",
+        "City": "",
+        "Location": "Iceland",
+        "Latitude": 64.9841821,
+        "Longitude": -18.1059013,
+        "timestamp": "2025-03-29T20:08:45Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Myrtle Beach Sun News"
+        },
+        "author": "Terri  Richardson",
+        "title": "Large wildfire off US 501 in Myrtle Beach area closes several roads, fire officials say",
+        "description": "Horry County Fire Rescue responded to a wildfire in the Carolina Forest area. This is the second large wildfire that has occurred in the area.",
+        "url": "https:\/\/www.myrtlebeachonline.com\/news\/local\/article303039534.html",
+        "urlToImage": "https:\/\/media.zenfs.com\/en\/myrtle_beach_sun_news_mcclatchy_articles_833\/b83249cae4bfdd62f2b498e67998a124",
+        "content": "A large wildfire off U.S. 501 on Friday has closed several roads as Horry County Fire Rescue works to extinguish the blaze.\r\nThe fire agency reported on its social media account about the 7-acre fire\u2026 [+1389 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "US",
+            "Myrtle Beach"
+        ],
+        "Country": "Hawaii",
+        "Region": "",
+        "City": "",
+        "Location": "Hawaii",
+        "Latitude": 19.5938015,
+        "Longitude": -155.4283700972,
+        "timestamp": "2025-03-28T22:09:07Z"
+    },
+    {
+        "source": {
+            "id": "cbc-news",
+            "name": "CBC News"
+        },
+        "author": null,
+        "title": "Helicopter pilot fighting blaze among 24 killed in South Korea wildfires",
+        "description": "The death toll in the wildfires raging across South Korea's southeastern region rose to 24 and the pilot of a firefighting helicopter was killed when the aircraft crashed on Wednesday, as the country battles some of its worst forest fires in decades.",
+        "url": "https:\/\/www.cbc.ca\/news\/world\/south-korea-wildfires-1.7493533",
+        "urlToImage": "https:\/\/i.cbc.ca\/1.7493553.1742984415!\/fileImage\/httpImage\/image.jpg_gen\/derivatives\/16x9_1180\/south-korea-wildfires.jpg?im=Resize%3D620",
+        "content": "The death toll in the wildfires raging across South Korea's southeastern region rose to 24, and the pilot of a firefighting helicopter was killed when the aircraft crashed on Wednesday, as the countr\u2026 [+3165 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "South Korea"
+        ],
+        "Country": "Philippines",
+        "Region": "",
+        "City": "",
+        "Location": "Philippines",
+        "Latitude": 12.7503486,
+        "Longitude": 122.7312101,
+        "timestamp": "2025-03-26T11:58:59Z"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": null,
+        "title": "Los Angeles-area residents crowdsource wildfire contamination data",
+        "description": "Some people whose homes survived the Eaton wildfire in January are struggling to convince their insurers to test their properties for safety.",
+        "url": "https:\/\/www.cbsnews.com\/news\/los-angeles-wildfires-insurance-smoke-damage-crowdsourcing\/",
+        "urlToImage": "https:\/\/assets2.cbsnewsstatic.com\/hub\/i\/r\/2025\/03\/28\/b239007b-8ac6-44b1-8bae-cffc1feeb28b\/thumbnail\/1200x630\/8308710326a932388223f628e983e4dd\/matthew-craig-show-n-tell-clean.jpg?v=653dd6912cdd8596c9bfea812c355f95",
+        "content": "All sense of survivors' guilt was fleeting for those residents whose homes remained standing after wildfires ripped through the Los Angeles area three months ago. \r\nMany worried that smoke from the E\u2026 [+7169 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "Los Angeles"
+        ],
+        "Country": "Iceland",
+        "Region": "",
+        "City": "",
+        "Location": "Iceland",
+        "Latitude": 64.9841821,
+        "Longitude": -18.1059013,
+        "timestamp": "2025-04-11T22:10:04Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Death toll rises to 28 in weeklong South Korea wildfires",
+        "description": "Five out of 11 big fires have been contained after rainfall improves firefighting conditions.",
+        "url": "https:\/\/www.aljazeera.com\/news\/2025\/3\/28\/south-korean-wildfires-kill-at-least-28-but-conditions-improving",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/03\/12921126-1742954840.jpg?resize=1920%2C1440",
+        "content": "Wildfires sweeping through South Korea since last Friday have killed at least 28 people, injured dozens more and charred about 48,000 hectares (118,000 acres) of forest, according to local news agenc\u2026 [+2043 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "South Korea"
+        ],
+        "Country": "Philippines",
+        "Region": "",
+        "City": "",
+        "Location": "Philippines",
+        "Latitude": 12.7503486,
+        "Longitude": 122.7312101,
+        "timestamp": "2025-03-28T08:15:15Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Wildfires kill 19 and displace thousands in South Korea",
+        "description": "Days of wildfires have destroyed more than 200 buildings and forced 27,000 people to evacuate.",
+        "url": "https:\/\/www.aljazeera.com\/gallery\/2025\/3\/26\/wildfires-kill-19-and-displace-thousands-in-south-korea",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/03\/2025-03-25T074037Z_1348346788_RC27KDAA336K_RTRMADP_3_SOUTHKOREA-FIRE-1742968242.jpg?resize=1920%2C1440",
+        "content": "Wildfires driven by strong winds have devastated parts of South Koreas southern regions, killing at least 19 people, destroying more than 200 structures, and forcing 27,000 people to evacuate.\r\nA hel\u2026 [+2305 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "South Korea"
+        ],
+        "Country": "Hawaii",
+        "Region": "",
+        "City": "",
+        "Location": "Hawaii",
+        "Latitude": 19.5938015,
+        "Longitude": -155.4283700972,
+        "timestamp": "2025-03-26T07:04:22Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "International Business Times"
+        },
+        "author": "Sara HUSSEIN",
+        "title": "'It's Gone': Conservation Science In Thailand's Burning Forest",
+        "description": "Scientist Inna Birchenko began to cry as she described the smouldering protected forest in Thailand where she was collecting samples from local trees shrouded in wildfire smoke.",
+        "url": "https:\/\/www.ibtimes.com\/its-gone-conservation-science-thailands-burning-forest-3768795",
+        "urlToImage": "https:\/\/d.ibtimes.com\/en\/full\/4591623\/infographic-map-showing-active-fires-hotspots-detected-around-umphang-wildlife-sanctuary-between.jpg",
+        "content": "Scientist Inna Birchenko began to cry as she described the smouldering protected forest in Thailand where she was collecting samples from local trees shrouded in wildfire smoke.\r\n\"This beautiful, div\u2026 [+6888 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "Thailand"
+        ],
+        "Country": "Iceland",
+        "Region": "",
+        "City": "",
+        "Location": "Iceland",
+        "Latitude": 64.9841821,
+        "Longitude": -18.1059013,
+        "timestamp": "2025-04-04T03:51:23Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "WATCH: Large tornado touches down in Arkansas amid extreme weather outbreak",
+        "description": "A large and extremely dangerous tornado was spotted during a tornado emergency in Lake City, Arkansas, on Wednesday as a so-called \"once-in-a-generation\" storm hit parts of the South and Midwest.",
+        "url": "https:\/\/abcnews.go.com\/US\/video\/large-tornado-touches-arkansas-amid-extreme-weather-outbreak-120437263",
+        "urlToImage": "https:\/\/i.abcnewsfe.com\/a\/acb8b923-54d7-4ad1-b952-42e28d8c947f\/250402_abc_social_ARKANSAS_TORNADO_hpMain_16x9.jpg?w=992",
+        "content": "<ul><li>What could Trump's sweeping tariffs mean for Americans?\r\n<\/li><li>Trump orders sweeping new tariffs, scope of which hasnt been seen since 1900s\r\n<\/li><li>Sources: Musks days at WH could be nu\u2026 [+4539 chars]",
+        "disaster_event": "Tornado",
+        "location_ner": [
+            "Arkansas"
+        ],
+        "Country": "Philippines",
+        "Region": "",
+        "City": "",
+        "Location": "Philippines",
+        "Latitude": 12.7503486,
+        "Longitude": 122.7312101,
+        "timestamp": "2025-04-03T03:00:59Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Kevin Williams",
+        "title": "6 most costly tornadoes to hit the U.S.",
+        "description": "As tornado season ramps up in the U.S., here's a look at which ones have been the costliest in history",
+        "url": "https:\/\/qz.com\/six-costliest-tornadoes-in-the-united-states-1851772158",
+        "urlToImage": "https:\/\/i.kinja-img.com\/image\/upload\/c_fill,h_675,pg_1,q_80,w_1200\/bdba45c62f8f8b561a727e4ef17103b5.jpg",
+        "content": "Damage: $1,550,000,000 (adjusted for inflation: $1,841,183,000)\r\nThis tornado that hit Dallas on October 19, 2019, proved that destructive tornadoes dont just happen in the spring.\r\nAccording to the \u2026 [+487 chars]",
+        "disaster_event": "Tornado",
+        "location_ner": [
+            "U.S."
+        ],
+        "Country": "OpenAI",
+        "Region": "",
+        "City": "",
+        "Location": "OpenAI",
+        "Latitude": 37.7622102,
+        "Longitude": -122.4104396,
+        "timestamp": "2025-03-25T16:50:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Weather Channel"
+        },
+        "author": "The Weather Channel",
+        "title": "NIGHT OF TWISTERS DEVELOPING IN MIDWEST, SOUTH... MORE",
+        "description": "Supercell thunderstorms could produce multiple long-lived EF3 or stronger tornadoes today in the mid-Mississippi and lower Ohio valleys. Tornadoes, destructive straight-line winds and damaging hail will also impact a much larger area of the Midwest and South.",
+        "url": "https:\/\/weather.com\/storms\/tornado\/news\/2025-03-31-severe-storm-outbreak-tornadoes-damaging-winds-hail-major-flood",
+        "urlToImage": "https:\/\/s.w-x.co\/severewedamupdate.jpg",
+        "content": "Millions Across Midwest, South Face Dangerous Weather Conditions \r\nA tornado outbreak is expected through tonight in parts of the Midwest and South, prompting a rare \"high\" risk severe weather outloo\u2026 [+4680 chars]",
+        "disaster_event": "Tornado",
+        "location_ner": [
+            "MIDWEST"
+        ],
+        "Country": "West Kelowna",
+        "Region": "",
+        "City": "",
+        "Location": "West Kelowna",
+        "Latitude": 49.8585784,
+        "Longitude": -119.582876,
+        "timestamp": "2025-04-03T00:49:37Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Poynter"
+        },
+        "author": "Loreben Tuquero",
+        "title": "NOAA firings came just before a US tornado outbreak. Did public warning systems still work?",
+        "description": "After severe storms swept across the U.S. in mid March, killing more than 40 people, social media posts blamed the Trump administration\u2019s recent firings for weakening emergency communication systems. \u201cCatastrophic [\u2026]\nThe post NOAA firings came just before a \u2026",
+        "url": "https:\/\/www.poynter.org\/fact-checking\/2025\/noaa-weather-alerts-tornadoes-doge-cuts\/",
+        "urlToImage": "https:\/\/www.poynter.org\/wp-content\/uploads\/2025\/03\/AP25075554906879.jpg",
+        "content": "After severe storms swept across the U.S. in mid March, killing more than 40 people, social media posts blamed the Trump administrations recent firings for weakening emergency communication systems.\r\u2026 [+8254 chars]",
+        "disaster_event": "Tornado",
+        "location_ner": [
+            "US"
+        ],
+        "Country": "Anjaw",
+        "Region": "",
+        "City": "",
+        "Location": "Anjaw",
+        "Latitude": 28.1114301,
+        "Longitude": 96.826999634,
+        "timestamp": "2025-03-27T10:30:07Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "pbs.org",
+        "title": "Deadly storms rip through the South and Midwest",
+        "description": "Dozens of tornado and severe thunderstorm warnings were issued Wednesday and early Thursday from Texas to West Virginia as storms hit those and other states.",
+        "url": "https:\/\/biztoc.com\/x\/5428537cbd3125b1",
+        "urlToImage": "https:\/\/biztoc.com\/cdn\/928\/og.png",
+        "content": "Dozens of tornado and severe thunderstorm warnings were issued Wednesday and early Thursday from Texas to West Virginia as storms hit those and other states.\r\nThis story appeared on pbs.org, 2025-04-\u2026 [+11 chars]",
+        "disaster_event": "Storm",
+        "location_ner": [
+            "Midwest",
+            "South"
+        ],
+        "Country": "Centre",
+        "Region": "Cortalim",
+        "City": "",
+        "Location": "Cortalim",
+        "Latitude": 15.3969664,
+        "Longitude": 73.916837,
+        "timestamp": "2025-04-03T16:44:08Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "FOX Weather",
+        "title": "Violent tornado causes catastrophic damage near Lake City, Arkansas",
+        "description": "A powerful tornado touched down in northeastern Arkansas on Wednesday, prompting the issuance of an urgent\u00a0Tornado Emergency.",
+        "url": "https:\/\/nypost.com\/2025\/04\/03\/us-news\/violent-tornado-causes-damage-near-lake-city-arkansas\/",
+        "urlToImage": "https:\/\/nypost.com\/wp-content\/uploads\/sites\/2\/2025\/04\/torando-damage-comp.jpg?quality=75&strip=all&1743671707&w=1024",
+        "content": "A powerful tornado touched down in northeastern Arkansas on Wednesday, prompting the issuance of an urgent\u00a0Tornado Emergency\u00a0as the supercell passed through communities such as Lake City and Blythevi\u2026 [+3234 chars]",
+        "disaster_event": "Tornado",
+        "location_ner": [
+            "Lake City",
+            "Arkansas"
+        ],
+        "Country": "Mundakkai",
+        "Region": "",
+        "City": "",
+        "Location": "Mundakkai",
+        "Latitude": 11.47017105,
+        "Longitude": 76.150676115,
+        "timestamp": "2025-04-03T13:43:23Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Foxweather.com"
+        },
+        "author": "Andrew Wulfeck",
+        "title": "Watch: Violent tornado causes damage near Lake City, Arkansas",
+        "description": "A powerful tornado touched down in northeastern Arkansas on Wednesday, prompting the issuance of an urgent Tornado Emergency as the supercell passed through ...",
+        "url": "https:\/\/www.foxweather.com\/extreme-weather\/lake-city-arkansas-tornado-april-2-2025",
+        "urlToImage": "https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/gprAW.YZdecQNwDxy1bsyg--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-\/https:\/\/media.zenfs.com\/en\/fox_weather_articles_483\/6ec4258eb7cb34083ae0b641363dcbcb",
+        "content": "BAY, Ark. A powerful tornado touched down in northeastern Arkansas on Wednesday, prompting the issuance of an urgent Tornado Emergency as the supercell passed through communities such as Lake City an\u2026 [+2648 chars]",
+        "disaster_event": "Tornado",
+        "location_ner": [
+            "Lake City",
+            "Arkansas"
+        ],
+        "Country": "North Little Rock",
+        "Region": "",
+        "City": "",
+        "Location": "North Little Rock",
+        "Latitude": 34.769536,
+        "Longitude": -92.2670941,
+        "timestamp": "2025-04-03T00:47:51Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Joplin Globe"
+        },
+        "author": "John Hacker, The Joplin Globe, Mo.",
+        "title": "Tornado carves path through central Vernon County on Wednesday",
+        "description": "NEVADA, Mo. \u2014 A tornado cut a path of destruction through central Vernon County early Wednesday. Vernon County Sheriff Mike Buehler said it appeared to have ...",
+        "url": "https:\/\/www.joplinglobe.com\/news\/tornado-carves-path-through-central-vernon-county-on-wednesday\/article_f4d16196-cfc8-4894-9b87-7fb8fbbe939e.html",
+        "urlToImage": "https:\/\/s.yimg.com\/cv\/apiv2\/social\/images\/yahoo_default_logo-1200x1200.png",
+        "content": "NEVADA, Mo. A tornado cut a path of destruction through central Vernon County early Wednesday.\r\nVernon County Sheriff Mike Buehler said it appeared to have touched down near Bronough and Moundville s\u2026 [+3725 chars]",
+        "disaster_event": "Tornado",
+        "location_ner": [
+            "Vernon County"
+        ],
+        "Country": "Saline River",
+        "Region": "Arkansas",
+        "City": "Benton",
+        "Location": "Benton",
+        "Latitude": 42.0599693,
+        "Longitude": -92.0776319,
+        "timestamp": "2025-04-02T22:48:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Watch: Tornadoes cause damage across the US",
+        "description": "More than 13 million Americans were under tornado watch on Wednesday evening, as destructive storms struck across the Midwest and South.",
+        "url": "https:\/\/www.bbc.com\/news\/videos\/c74nl7z3782o",
+        "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/c70d\/live\/bdf30800-104e-11f0-ac9f-c37d6fd89579.jpg",
+        "content": "Dozens of destructive tornadoes touched down as severe weather lashed the Midwest and South on Wednesday evening. \r\nMore than 13 million Americans were under tornado watch, the National Weather Servi\u2026 [+204 chars]",
+        "disaster_event": "Tornado",
+        "location_ner": [
+            "US"
+        ],
+        "Country": "Northeast",
+        "Region": "Great Lakes",
+        "City": "",
+        "Location": "Great Lakes",
+        "Latitude": 42.3093241,
+        "Longitude": -87.8496551,
+        "timestamp": "2025-04-03T06:17:13Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "International Business Times"
+        },
+        "author": "Vidhya Ck",
+        "title": "Severe Weather, Power Outages And Tornado Threat Affect Millions Across US",
+        "description": "Tornado watches and warnings were issued for parts of Tennessee, Arkansas, Kentucky, and Mississippi as the low-pressure system moved east-northeast, according to the National Weather Service.",
+        "url": "https:\/\/www.ibtimes.com\/severe-weather-power-outages-tornado-threat-affect-millions-across-us-3768293",
+        "urlToImage": "https:\/\/d.ibtimes.com\/en\/full\/4527065\/tornado-rips-through-iowa-town.jpg",
+        "content": "Severe thunderstorms, large hail, destructive wind gusts, and the threat of strong tornadoes were expected to impact up to 73 million people across the Mississippi, Ohio, and Tennessee Valleys on Sun\u2026 [+3284 chars]",
+        "disaster_event": "Tornado",
+        "location_ner": [
+            "US"
+        ],
+        "Country": "US",
+        "Region": "Florida",
+        "City": "",
+        "Location": "Florida",
+        "Latitude": 27.7567667,
+        "Longitude": -81.4639835,
+        "timestamp": "2025-03-31T09:52:13Z"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": null,
+        "title": "Severe storms in South and Midwest turn deadly",
+        "description": "Violent storms cut through a wide swath of the South and Midwest, spawning tornadoes and killing at least two people, knocking down power lines and trees and ripping roofs off homes.",
+        "url": "https:\/\/www.cbsnews.com\/news\/severe-storms-south-midwest-deadly\/",
+        "urlToImage": "https:\/\/assets3.cbsnewsstatic.com\/hub\/i\/r\/2025\/04\/03\/93da0a28-1394-4ea7-8e73-2c212db09d88\/thumbnail\/1200x630\/a3da3b54262d25816f48576df81458e3\/ap25092834576751.jpg?v=7613930c2bdb7d1bf55be910a9b022f2",
+        "content": "Violent storms cut through a wide swath of the South and Midwest, spawning tornadoes and killing at least two people, knocking down power lines and trees and ripping roofs off homes. \r\nDozens of torn\u2026 [+6237 chars]",
+        "disaster_event": "Storm",
+        "location_ner": [
+            "Midwest",
+            "South"
+        ],
+        "Country": "Tennessee",
+        "Region": "",
+        "City": "",
+        "Location": "Tennessee",
+        "Latitude": 35.7730076,
+        "Longitude": -86.2820081,
+        "timestamp": "2025-04-03T11:34:00Z"
+    },
+    {
+        "source": {
+            "id": "newsweek",
+            "name": "Newsweek"
+        },
+        "author": "Jenna deJong",
+        "title": "Netflix Documentary Explores Joplin Tornado, Deadliest in Recent US History",
+        "description": "A new documentary, \"The Twister: Caught in the Storm,\" explores the tornado that hit Joplin, Missouri in 2011, which reshaped how tornado warnings are issued.",
+        "url": "https:\/\/www.newsweek.com\/joplin-tornado-netflix-documentary-caught-storm-deadly-2053307",
+        "urlToImage": "https:\/\/d.newsweek.com\/en\/full\/2618261\/2011-joplin-tornado.jpg",
+        "content": "Netflix's latest documentary The Twister: Caught in the Storm, turns a powerful lens on the 2011 tornado that devastated Joplin, Missouri\u2014revisiting the deadliest tornado in modern American history. \u2026 [+5807 chars]",
+        "disaster_event": "Tornado",
+        "location_ner": [
+            "US"
+        ],
+        "Country": "Alaska",
+        "Region": "",
+        "City": "",
+        "Location": "Alaska",
+        "Latitude": 64.4459613,
+        "Longitude": -149.680909,
+        "timestamp": "2025-04-01T08:56:54Z"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Marlene Lenthang, Kathryn Prociv",
+        "title": "South and Midwest brace for more historic rain and severe flooding in deadly multi-day storm system",
+        "description": "A deadly multiday storm system that has unleashed tornadoes and heavy rainfall will continue to batter the Midwest and the mid-South on Friday, in what forecasters describe as a \"catastrophic and potentially historic flash flood event.\"",
+        "url": "https:\/\/www.nbcnews.com\/weather\/storms\/south-midwest-brace-historic-rain-severe-flooding-deadly-multi-day-sto-rcna199668",
+        "urlToImage": "https:\/\/media-cldnry.s-nbcnews.com\/image\/upload\/t_nbcnews-fp-1200-630,f_auto,q_auto:best\/rockcms\/2025-04\/250404-storm-tennessee-mn-0845-4ccf57.jpg",
+        "content": "A deadly multiday storm system that has unleashed tornadoes and heavy rainfall will continue to batter the Midwest and the mid-South on Friday, in what forecasters describe as a \"catastrophic and pot\u2026 [+4569 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Midwest",
+            "South"
+        ],
+        "Country": "Alaska",
+        "Region": "",
+        "City": "",
+        "Location": "Alaska",
+        "Latitude": 64.4459613,
+        "Longitude": -149.680909,
+        "timestamp": "2025-04-04T13:36:37Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Science Daily"
+        },
+        "author": null,
+        "title": "Climate and health litigation mounting in Australia as exposure to heatwaves grows",
+        "description": "Australia has experienced a 37 per cent rise in dangerous heat exposure over the past two decades, while becoming the world's second-highest hotspot for climate litigation, a new report reveals.",
+        "url": "https:\/\/www.sciencedaily.com\/releases\/2025\/04\/250407003457.htm",
+        "urlToImage": "https:\/\/www.sciencedaily.com\/images\/scidaily-icon.png",
+        "content": "Australia's exposure to extreme heat continues to grow while the country has emerged as a global hotspot for climate change litigation, according to the latest MJA-Lancet Countdown report.Released to\u2026 [+4445 chars]",
+        "disaster_event": "Heatwave",
+        "location_ner": [
+            "Australia"
+        ],
+        "Country": "B.C.",
+        "Region": "Pemberton",
+        "City": "",
+        "Location": "Pemberton",
+        "Latitude": 44.0076685,
+        "Longitude": -93.7833425,
+        "timestamp": "2025-04-07T04:34:57Z"
+    },
+    {
+        "source": {
+            "id": "abc-news-au",
+            "name": "ABC News (AU)"
+        },
+        "author": "Giulia Bertoglio",
+        "title": "Flooding risk for WA's north as Ex-Tropical Cyclone Dianne moves inland",
+        "description": "Communities in Western Australia's north are on high alert for the risk of flooding as Ex-Tropical Cyclone Diane continues to move inland after crossing the coast on Saturday morning.",
+        "url": "https:\/\/www.abc.net.au\/news\/2025-03-29\/ex-tropical-cyclone-dianne-brings-flooding-risk-to-wa-kimberley\/105112090",
+        "urlToImage": "https:\/\/live-production.wcms.abc-cdn.net.au\/95043b3f762b31b5e723a7671fbd1f10?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=134&width=862&height=485&imformat=generic",
+        "content": "Communities in Western Australia's north are on high alert for the risk of flooding as Ex-Tropical Cyclone Diane continues to move inland after crossing the coast on Saturday morning.\u00a0\r\nAfter making \u2026 [+2465 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "WA"
+        ],
+        "Country": "Delhi",
+        "Region": "",
+        "City": "",
+        "Location": "Delhi",
+        "Latitude": 28.6273928,
+        "Longitude": 77.1716954,
+        "timestamp": "2025-03-29T01:36:08Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Diplomat"
+        },
+        "author": "Sebastian Strangio",
+        "title": "Airstrikes Amid Earthquakes: Myanmar\u2019s Double Disaster",
+        "description": "The junta's muddled and repressive response to the devastating March 28 earthquake show where its priorities really lie.",
+        "url": "https:\/\/thediplomat.com\/2025\/04\/airstrikes-amid-earthquakes-myanmars-double-disaster\/",
+        "urlToImage": "https:\/\/thediplomat.com\/wp-content\/uploads\/2025\/04\/sizes\/td-story-s-2\/thediplomat_2025-04-03-235923.jpg",
+        "content": "On March 28, Myanmar was devastated by a catastrophic 7.7 magnitude earthquake so severe that significant tremors were felt in Bangkok, Thailand, more than 1,000 kilometers from the quakes epicenter.\u2026 [+11510 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "India",
+        "Region": "",
+        "City": "",
+        "Location": "India",
+        "Latitude": 22.3511148,
+        "Longitude": 78.6677428,
+        "timestamp": "2025-04-04T04:28:18Z"
+    },
+    {
+        "source": {
+            "id": "abc-news-au",
+            "name": "ABC News (AU)"
+        },
+        "author": "Will Murray",
+        "title": "Rain in already sodden south-east Queensland could cause flooding",
+        "description": "South-east Queensland residents are on alert as a massive weather system that caused widespread flooding in the outback is expected to heap more rain as it moves south.",
+        "url": "https:\/\/www.abc.net.au\/news\/2025-03-29\/queensland-rainfall-flooding-wet-weather-bom-forecast\/105107956",
+        "urlToImage": "https:\/\/live-production.wcms.abc-cdn.net.au\/fd4f1b956f469d7aca2fb5cbf6147114?impolicy=wcms_watermark_news&cropH=2812&cropW=5000&xPos=0&yPos=64&width=862&height=485&imformat=generic",
+        "content": "South-east Queensland residents are on alert as a massive weather system that caused widespread flooding in the outback is expected to heap more rain on the already sodden region as it moves south.\r\n\u2026 [+3519 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Queensland"
+        ],
+        "Country": "India",
+        "Region": "",
+        "City": "",
+        "Location": "India",
+        "Latitude": 22.3511148,
+        "Longitude": 78.6677428,
+        "timestamp": "2025-03-28T21:25:13Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Week Magazine"
+        },
+        "author": "theweek@futurenet.com (Justin Klawans, The Week US)",
+        "title": "How will the Myanmar earthquake affect the nation's military junta?",
+        "description": "More than 2,700 people have reportedly died from the earthquake",
+        "url": "https:\/\/theweek.com\/world-news\/myanmar-earthquake-military-junta",
+        "urlToImage": "https:\/\/cdn.mos.cms.futurecdn.net\/7Vjf9yQKrEj9k2xUE5eGTk-1200-80.jpg",
+        "content": "A 7.7-magnitude earthquake in Myanmar on March 28 killed more than 2,700 people, causing a major issue to loom over the country already besieged by civil war: how this natural disaster will affect My\u2026 [+3878 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Delhi",
+        "Region": "South India",
+        "City": "Gujarat",
+        "Location": "Gujarat",
+        "Latitude": 22.3850051,
+        "Longitude": 71.745261,
+        "timestamp": "2025-04-02T16:47:41Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Japan Today"
+        },
+        "author": null,
+        "title": "Post-earthquake ceasefires in Myanmar offer rare opportunity for disaster diplomacy",
+        "description": "Temporary ceasefires announced by warring groups in Myanmar in the wake of last week\u2019s devastating 7.7 magnitude earthquake represent a rare de-escalation of a conflict that since 2021 has taken thousands of lives and uprooted more than 3 million people. Expe\u2026",
+        "url": "https:\/\/japantoday.com\/category\/world\/post-earthquake-ceasefires-in-myanmar-offer-rare-opportunity-for-disaster-diplomacy",
+        "urlToImage": null,
+        "content": "Temporary ceasefires announced by warring groups in Myanmar in the wake of last weeks devastating 7.7 magnitude earthquake represent a rare de-escalation of a conflict that since 2021 has taken thous\u2026 [+5084 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Delhi",
+        "Region": "",
+        "City": "",
+        "Location": "Delhi",
+        "Latitude": 28.6273928,
+        "Longitude": 77.1716954,
+        "timestamp": "2025-04-03T21:41:03Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Conversation Africa"
+        },
+        "author": "Adam Simpson, Senior Lecturer, International Studies, University of South Australia",
+        "title": "Thousands are feared dead in Myanmar\u2019s quake. Trump\u2019s USAID cuts will cause even more unnecessary deaths",
+        "description": "USAID accounted for a third of Myanmar\u2019s foreign aid last year. Now, this funding is gone as the country grapples with a devastating earthquake.",
+        "url": "https:\/\/theconversation.com\/thousands-are-feared-dead-in-myanmars-quake-trumps-usaid-cuts-will-cause-even-more-unnecessary-deaths-253403",
+        "urlToImage": "https:\/\/images.theconversation.com\/files\/658449\/original\/file-20250329-56-zc1ci6.jpg?ixlib=rb-4.1.0&rect=0%2C195%2C2899%2C1449&q=45&auto=format&w=1356&h=668&fit=crop",
+        "content": "In early 2021, after a decade of political and economic reforms, Myanmar looked like it was finally beginning to shake off the hangover of decades of military rule. Foreign investment was growing, an\u2026 [+6115 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Telangana",
+        "Region": "Karnataka",
+        "City": "Tamil Nadu",
+        "Location": "Tamil Nadu",
+        "Latitude": 10.9094334,
+        "Longitude": 78.3665347,
+        "timestamp": "2025-03-29T06:34:00Z"
+    },
+    {
+        "source": {
+            "id": "abc-news-au",
+            "name": "ABC News (AU)"
+        },
+        "author": "Danuta Kozaki, Jessica Kidd, and Declan Bowring",
+        "title": "Sydney's coast battered by massive swells and king tides",
+        "description": "Huge swells, a massive king tide and storm surges have battered some of Sydney's beaches including Bondi in the city's east and Cronulla in the south overnight, with more damage set to come with another large high tide forecast later today.",
+        "url": "https:\/\/www.abc.net.au\/news\/2025-04-02\/swells-king-tide-sydney-coast-bondi-cronulla-wollongong-bronte\/105125616",
+        "urlToImage": "https:\/\/live-production.wcms.abc-cdn.net.au\/3871f6d3587ba35b7fbe5e6c8c68d6d1?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485&imformat=generic",
+        "content": "Huge swells, a massive king tide and storm surges have battered some of Sydney's beaches including Bondi in the city's east and Cronulla in the south overnight, with more damage set to come with anot\u2026 [+3222 chars]",
+        "disaster_event": "Storm",
+        "location_ner": [
+            "Sydney"
+        ],
+        "Country": "Delhi",
+        "Region": "",
+        "City": "",
+        "Location": "Delhi",
+        "Latitude": 28.6273928,
+        "Longitude": 77.1716954,
+        "timestamp": "2025-04-01T22:50:31Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "DW (English)"
+        },
+        "author": "Deutsche Welle",
+        "title": "Myanmar earthquake death toll jumps to over 1,600",
+        "description": "Myanmar's military junta said at least 1,644 people have died in the powerful quake that rocked the country Friday. Rescuers continue to search for survivors, as international teams arrive to help.",
+        "url": "https:\/\/www.dw.com\/en\/myanmar-earthquake-death-toll-jumps-to-over-1600\/live-72080533",
+        "urlToImage": "https:\/\/static.dw.com\/image\/72082540_6.jpg",
+        "content": "Myanmar is already suffering from a massive humanitarian crisis amid an ongoing civil war since the 2021 military coup that\u00a0 overthrew the elected government of Aung San Suu Kyi.\r\nSince then, the mil\u2026 [+2034 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "India",
+        "Region": "Delhi",
+        "City": "",
+        "Location": "Delhi",
+        "Latitude": 28.6273928,
+        "Longitude": 77.1716954,
+        "timestamp": "2025-03-29T05:20:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "International Business Times"
+        },
+        "author": "AFP News",
+        "title": "Australia Sweats Through Hottest 12 Months On Record: Official Data",
+        "description": "Australia has just sweltered through its hottest 12 months on record, a weather official said Thursday, a period of drenching floods, tropical cyclones and mass coral bleaching.",
+        "url": "https:\/\/www.ibtimes.com\/australia-sweats-through-hottest-12-months-record-official-data-3768672",
+        "urlToImage": "https:\/\/d.ibtimes.com\/en\/full\/4591356\/australia-has-just-sweltered-through-its-hottest-12-months-record-period-drenching-floods.jpg",
+        "content": "Australia has just sweltered through its hottest 12 months on record, a weather official said Thursday, a period of drenching floods, tropical cyclones and mass coral bleaching.\r\nSenior government cl\u2026 [+2745 chars]",
+        "disaster_event": "Heatwave",
+        "location_ner": [
+            "Australia"
+        ],
+        "Country": "India",
+        "Region": "",
+        "City": "",
+        "Location": "India",
+        "Latitude": 22.3511148,
+        "Longitude": 78.6677428,
+        "timestamp": "2025-04-03T05:48:17Z"
+    },
+    {
+        "source": {
+            "id": "newsweek",
+            "name": "Newsweek"
+        },
+        "author": "Anna Skinner",
+        "title": "All of West Coast of US Warned of Dangerous Ocean Conditions",
+        "description": "A strong storm brewing offshore is causing breaking waves over 30 feet in some areas and creating dangerous ocean conditions.",
+        "url": "https:\/\/www.newsweek.com\/all-west-coast-us-warned-dangerous-ocean-conditions-pacific-storm-2051447",
+        "urlToImage": "https:\/\/d.newsweek.com\/en\/full\/2615900\/west-coast-us-warned-dangerous-ocean-conditions.jpg",
+        "content": "Multiple National Weather Service (NWS) offices along the U.S. West Coast have issued weather alerts warning of dangerous ocean conditions caused by a strong offshore storm.\r\nWhy It Matters\r\nAs of Th\u2026 [+2837 chars]",
+        "disaster_event": "Storm",
+        "location_ner": [
+            "West Coast"
+        ],
+        "Country": "Delhi",
+        "Region": "",
+        "City": "",
+        "Location": "Delhi",
+        "Latitude": 28.6273928,
+        "Longitude": 77.1716954,
+        "timestamp": "2025-03-27T16:23:35Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Human Rights Watch"
+        },
+        "author": "Human Rights Watch",
+        "title": "Myanmar: Allow Immediate Aid to Quake-Stricken Areas",
+        "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Medical workers transport an earthquake casualty at a hospital in Naypyidaw, Myanmar, on March 28, 2025.\n \u00a9 2025 SAI AUNG MAIN\/AFP via Getty Images\n \n \n\n\n \n(Bangkok) \u2013\u00a0Myanmar\u2019s military junta should allow immediate \u2026",
+        "url": "https:\/\/www.hrw.org\/news\/2025\/04\/01\/myanmar-allow-immediate-aid-quake-stricken-areas",
+        "urlToImage": "https:\/\/www.hrw.org\/sites\/default\/files\/styles\/opengraph\/public\/media_2025\/03\/202504asia_myanmar_earthquake.jpg?h=9a7fff01&itok=ibxdD2Zj",
+        "content": "(Bangkok) \u00a0Myanmars military junta should allow immediate unfettered access to humanitarian aid for earthquake survivors and lift restrictions that impede the emergency response, Human Rights Watch s\u2026 [+5689 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "India",
+        "Region": "",
+        "City": "",
+        "Location": "India",
+        "Latitude": 22.3511148,
+        "Longitude": 78.6677428,
+        "timestamp": "2025-04-01T02:24:06Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Vinson Kurian",
+        "title": "WMO \u2018retires\u2019 four Atlantic, East Pacific hurricane names for death, destruction caused in 2024",
+        "description": "Hurricane names Beryl, Helene, and Milton retired due to 2024 destruction; new names Brianna, Holly, Miguel, and Jake selected.",
+        "url": "https:\/\/www.thehindubusinessline.com\/economy\/agri-business\/wmo-retires-four-atlantic-east-pacific-hurricane-names-for-death-destruction-caused-in-2024\/article69426082.ece",
+        "urlToImage": "https:\/\/bl-i.thgim.com\/public\/incoming\/ys8z9j\/article69426128.ece\/alternates\/LANDSCAPE_1200\/2024-10-03T185611Z_1993708323_RC2HAAAO3CIH_RTRMADP_3_STORM-HELENE.JPG",
+        "content": "Hurricane names Beryl,Helene and Milton have been from its Atlantic basin name list and John from the eastern Pacific basin name list because of death and destruction caused by them in 2024. \r\nThe an\u2026 [+2907 chars]",
+        "disaster_event": "Hurricane",
+        "location_ner": [
+            "Atlantic",
+            "East Pacific"
+        ],
+        "Country": "Delhi",
+        "Region": "",
+        "City": "",
+        "Location": "Delhi",
+        "Latitude": 28.6273928,
+        "Longitude": 77.1716954,
+        "timestamp": "2025-04-08T07:27:37Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Insurance Journal"
+        },
+        "author": "Admin",
+        "title": "Australia Outback Lashed by Year\u2019s Worth of Rain in Week, With Many Livestock Killed",
+        "description": "Australia\u2019s remote outback in western Queensland has been swamped by flooding after being lashed with a year\u2019s worth of rainfall in a week, sweeping away tens of thousands of livestock. Up to 500 millimeters (19.7 inches) of rain has flooded \u2026",
+        "url": "https:\/\/www.insurancejournal.com\/news\/international\/2025\/04\/01\/817890.htm",
+        "urlToImage": "https:\/\/www.insurancejournal.com\/img\/social\/opengraph\/ij-social-agribusiness-1200x630.png",
+        "content": "Australia\u2019s remote outback in western Queensland has been swamped by flooding after being lashed with a year\u2019s worth of rainfall in a week, sweeping away tens of thousands of livestock.\r\nUp to 500 mi\u2026 [+1633 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Australia"
+        ],
+        "Country": "Central Asia",
+        "Region": "",
+        "City": "",
+        "Location": "Central Asia",
+        "Latitude": 39.4009215,
+        "Longitude": 72.8676621,
+        "timestamp": "2025-04-01T15:01:59Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tallahassee Democrat"
+        },
+        "author": "William L. Hatfield and Jeff Burlew, Tallahassee Democrat",
+        "title": "Reports of damage roll in after Tallahassee endures two possible tornadoes on Monday",
+        "description": "Leon County crews are responding to reports of storm damage in the northeast part of the county.",
+        "url": "https:\/\/www.tallahassee.com\/story\/news\/2025\/04\/07\/tallahassee-may-have-endured-two-tornadoes-on-monday\/82976869007\/",
+        "urlToImage": "https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/bA8BYKOUNJ_lpNC6Fb4dcA--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-\/https:\/\/media.zenfs.com\/en\/tallahassee-democrat\/84b8a6ff91abffe0161014756b34d1a8",
+        "content": "A line of storms, with a history of spawning tornadoes, appears to have spun off a twister or two in Tallahassee as reports of damage roll in from a nasty bout of severe weather.\r\nLeon County crews a\u2026 [+2865 chars]",
+        "disaster_event": "Tornado",
+        "location_ner": [
+            "Tallahassee"
+        ],
+        "Country": "Mumbai",
+        "Region": "",
+        "City": "",
+        "Location": "Mumbai",
+        "Latitude": 19.054999,
+        "Longitude": 72.8692035,
+        "timestamp": "2025-04-07T17:47:21Z"
+    },
+    {
+        "source": {
+            "id": "abc-news-au",
+            "name": "ABC News (AU)"
+        },
+        "author": "Tom Saunders",
+        "title": "Pseudo-monsoon delivers humidity and flooding rains to Queensland and NSW",
+        "description": "A mass of tropical air forecast to engulf Australia's east coast is set to bring more days of uncomfortable humidity alongside the chance of flooding rains.",
+        "url": "https:\/\/www.abc.net.au\/news\/2025-03-26\/nsw-pseudo-monsoon-humidity-flooding-rains-qld-nsw\/105095284",
+        "urlToImage": "https:\/\/live-production.wcms.abc-cdn.net.au\/fda551f08d83ea4f51ce84842d9038fa?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=344&width=862&height=485&imformat=generic",
+        "content": "A mass of tropical air engulfing eastern Australia is leading to both uncomfortable humidity and another round of flooding rains.\r\nThe moist winds closely resemble a monsoon flow even south of the tr\u2026 [+4791 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "NSW",
+            "Queensland"
+        ],
+        "Country": "Delhi",
+        "Region": "",
+        "City": "",
+        "Location": "Delhi",
+        "Latitude": 28.6273928,
+        "Longitude": 77.1716954,
+        "timestamp": "2025-03-25T19:31:48Z"
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Thailand",
+        "Region": "",
+        "City": "",
+        "Location": "Thailand",
+        "Latitude": 14.8971921,
+        "Longitude": 100.83273,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "Thailand",
+        "City": "",
+        "Location": "Thailand",
+        "Latitude": 14.8971921,
+        "Longitude": 100.83273,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "Bangkok",
+        "City": "",
+        "Location": "Bangkok",
+        "Latitude": 13.7524938,
+        "Longitude": 100.4935089,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "US",
+        "City": "",
+        "Location": "US",
+        "Latitude": 39.7837304,
+        "Longitude": -100.445882,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "Thailand",
+        "City": "",
+        "Location": "Thailand",
+        "Latitude": 14.8971921,
+        "Longitude": 100.83273,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Ohio River",
+        "Region": "",
+        "City": "",
+        "Location": "Ohio River",
+        "Latitude": 38.8197972,
+        "Longitude": -84.2289889,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Tennessee",
+        "Region": "",
+        "City": "",
+        "Location": "Tennessee",
+        "Latitude": 35.7730076,
+        "Longitude": -86.2820081,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Midwest",
+        "Region": "South",
+        "City": "",
+        "Location": "South",
+        "Latitude": 18.2612839,
+        "Longitude": -73.8444985,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Tsunami",
+        "Region": "Tonga",
+        "City": "",
+        "Location": "Tonga",
+        "Latitude": -19.9160819,
+        "Longitude": -175.202642,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "U.S.",
+        "Region": "",
+        "City": "",
+        "Location": "U.S.",
+        "Latitude": 39.7837304,
+        "Longitude": -100.445882,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "North and South Carolina",
+        "Region": "",
+        "City": "",
+        "Location": "North and South Carolina",
+        "Latitude": 54.105995,
+        "Longitude": -1.2368410757,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Sydney",
+        "Region": "",
+        "City": "",
+        "Location": "Sydney",
+        "Latitude": -33.8698439,
+        "Longitude": 151.2082848,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "North, South Carolina",
+        "Region": "",
+        "City": "",
+        "Location": "North, South Carolina",
+        "Latitude": 33.6157083,
+        "Longitude": -81.1020414,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Carolinas",
+        "Region": "",
+        "City": "",
+        "Location": "Carolinas",
+        "Latitude": 14.9350998,
+        "Longitude": 145.6391962,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Carolinas",
+        "Region": "",
+        "City": "",
+        "Location": "Carolinas",
+        "Latitude": 14.9350998,
+        "Longitude": 145.6391962,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Mississippi",
+        "Region": "Louisiana",
+        "City": "",
+        "Location": "Louisiana",
+        "Latitude": 30.8703881,
+        "Longitude": -92.007126,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "South Korea",
+        "Region": "",
+        "City": "",
+        "Location": "South Korea",
+        "Latitude": 36.638392,
+        "Longitude": 127.6961188,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "California",
+        "Region": "",
+        "City": "",
+        "Location": "California",
+        "Latitude": 36.7014631,
+        "Longitude": -118.755997,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "LA",
+        "Region": "",
+        "City": "",
+        "Location": "LA",
+        "Latitude": 20.0171109,
+        "Longitude": 103.378253,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "US",
+        "Region": "Myrtle Beach",
+        "City": "",
+        "Location": "Myrtle Beach",
+        "Latitude": 33.6956461,
+        "Longitude": -78.8900409,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "South Korea",
+        "Region": "",
+        "City": "",
+        "Location": "South Korea",
+        "Latitude": 36.638392,
+        "Longitude": 127.6961188,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "South Korea",
+        "Region": "",
+        "City": "",
+        "Location": "South Korea",
+        "Latitude": 36.638392,
+        "Longitude": 127.6961188,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Lahaina",
+        "Region": "",
+        "City": "",
+        "Location": "Lahaina",
+        "Latitude": 20.8738769,
+        "Longitude": -156.677678,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Arkansas",
+        "Region": "",
+        "City": "",
+        "Location": "Arkansas",
+        "Latitude": 35.2048883,
+        "Longitude": -92.4479108,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "West Michigan",
+        "Region": "",
+        "City": "",
+        "Location": "West Michigan",
+        "Latitude": 39.60906124,
+        "Longitude": -100.0057445543,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Tennessee",
+        "Region": "",
+        "City": "",
+        "Location": "Tennessee",
+        "Latitude": 35.7730076,
+        "Longitude": -86.2820081,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Midwest",
+        "Region": "South",
+        "City": "",
+        "Location": "South",
+        "Latitude": 18.2612839,
+        "Longitude": -73.8444985,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Lake City",
+        "Region": "Arkansas",
+        "City": "",
+        "Location": "Arkansas",
+        "Latitude": 35.2048883,
+        "Longitude": -92.4479108,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Vernon County",
+        "Region": "",
+        "City": "",
+        "Location": "Vernon County",
+        "Latitude": 37.8639924,
+        "Longitude": -94.3800151,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "US",
+        "Region": "",
+        "City": "",
+        "Location": "US",
+        "Latitude": 39.7837304,
+        "Longitude": -100.445882,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Midwest",
+        "Region": "Arkansas",
+        "City": "South",
+        "Location": "South",
+        "Latitude": 18.2612839,
+        "Longitude": -73.8444985,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Vanderburgh County",
+        "Region": "",
+        "City": "",
+        "Location": "Vanderburgh County",
+        "Latitude": 38.0461185,
+        "Longitude": -87.5806553,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Midwest",
+        "Region": "South",
+        "City": "",
+        "Location": "South",
+        "Latitude": 18.2612839,
+        "Longitude": -73.8444985,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Midwest",
+        "Region": "South",
+        "City": "",
+        "Location": "South",
+        "Latitude": 18.2612839,
+        "Longitude": -73.8444985,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Sydney",
+        "Region": "",
+        "City": "",
+        "Location": "Sydney",
+        "Latitude": -33.8698439,
+        "Longitude": 151.2082848,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Australia",
+        "Region": "",
+        "City": "",
+        "Location": "Australia",
+        "Latitude": -24.7761086,
+        "Longitude": 134.755,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Atlantic",
+        "Region": "East Pacific",
+        "City": "",
+        "Location": "East Pacific",
+        "Latitude": 36.6283653,
+        "Longitude": -105.2163937,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Australia",
+        "Region": "",
+        "City": "",
+        "Location": "Australia",
+        "Latitude": -24.7761086,
+        "Longitude": 134.755,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Tallahassee",
+        "Region": "",
+        "City": "",
+        "Location": "Tallahassee",
+        "Latitude": 30.4380832,
+        "Longitude": -84.2809332,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "NSW",
+        "Region": "Queensland",
+        "City": "",
+        "Location": "Queensland",
+        "Latitude": -22.1646782,
+        "Longitude": 144.5844903,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Indonesia",
+        "Region": "",
+        "City": "",
+        "Location": "Indonesia",
+        "Latitude": -2.4833826,
+        "Longitude": 117.8902853,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Iceland",
+        "Region": "",
+        "City": "",
+        "Location": "Iceland",
+        "Latitude": 64.9841821,
+        "Longitude": -18.1059013,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Hawaii",
+        "Region": "",
+        "City": "",
+        "Location": "Hawaii",
+        "Latitude": 19.5938015,
+        "Longitude": -155.4283700972,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Hawaii",
+        "Region": "",
+        "City": "",
+        "Location": "Hawaii",
+        "Latitude": 19.5938015,
+        "Longitude": -155.4283700972,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Iceland",
+        "Region": "",
+        "City": "",
+        "Location": "Iceland",
+        "Latitude": 64.9841821,
+        "Longitude": -18.1059013,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Hawaii",
+        "Region": "",
+        "City": "",
+        "Location": "Hawaii",
+        "Latitude": 19.5938015,
+        "Longitude": -155.4283700972,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Iceland",
+        "Region": "",
+        "City": "",
+        "Location": "Iceland",
+        "Latitude": 64.9841821,
+        "Longitude": -18.1059013,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Spain",
+        "Region": "",
+        "City": "",
+        "Location": "Spain",
+        "Latitude": 39.3260685,
+        "Longitude": -4.8379791,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Kenya",
+        "Region": "",
+        "City": "",
+        "Location": "Kenya",
+        "Latitude": 1.4419683,
+        "Longitude": 38.4313975,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Mexico",
+        "Region": "Texas",
+        "City": "",
+        "Location": "Texas",
+        "Latitude": 31.2638905,
+        "Longitude": -98.5456116,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "South Korea",
+        "Region": "",
+        "City": "",
+        "Location": "South Korea",
+        "Latitude": 36.638392,
+        "Longitude": 127.6961188,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Spain",
+        "Region": "",
+        "City": "",
+        "Location": "Spain",
+        "Latitude": 39.3260685,
+        "Longitude": -4.8379791,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Gombak",
+        "Region": "",
+        "City": "",
+        "Location": "Gombak",
+        "Latitude": 3.3,
+        "Longitude": 101.7,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Sandakan",
+        "Region": "",
+        "City": "",
+        "Location": "Sandakan",
+        "Latitude": 5.8391274,
+        "Longitude": 118.1158598,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Indonesia",
+        "Region": "",
+        "City": "",
+        "Location": "Indonesia",
+        "Latitude": -2.4833826,
+        "Longitude": 117.8902853,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Lake Okanagan Resort",
+        "Region": "",
+        "City": "",
+        "Location": "Lake Okanagan Resort",
+        "Latitude": 50.0123803,
+        "Longitude": -119.4930547,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myrtle Beach",
+        "Region": "",
+        "City": "",
+        "Location": "Myrtle Beach",
+        "Latitude": 33.6956461,
+        "Longitude": -78.8900409,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Ontario",
+        "Region": "",
+        "City": "",
+        "Location": "Ontario",
+        "Latitude": 50.000678,
+        "Longitude": -86.000977,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Northern Michigan",
+        "Region": "",
+        "City": "",
+        "Location": "Northern Michigan",
+        "Latitude": 46.56132435,
+        "Longitude": -87.4104811272,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "B.C.",
+        "Region": "",
+        "City": "",
+        "Location": "B.C.",
+        "Latitude": 55.001251,
+        "Longitude": -125.002441,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "B.C.",
+        "Region": "",
+        "City": "",
+        "Location": "B.C.",
+        "Latitude": 55.001251,
+        "Longitude": -125.002441,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Canada",
+        "Region": "",
+        "City": "",
+        "Location": "Canada",
+        "Latitude": 61.0666922,
+        "Longitude": -107.991707,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Delhi",
+        "Region": "",
+        "City": "",
+        "Location": "Delhi",
+        "Latitude": 28.6273928,
+        "Longitude": 77.1716954,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Andhra",
+        "Region": "Karnataka",
+        "City": "Gujarat",
+        "Location": "Gujarat",
+        "Latitude": 22.3850051,
+        "Longitude": 71.745261,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Northwest India",
+        "Region": "",
+        "City": "",
+        "Location": "Northwest India",
+        "Latitude": 35.327867,
+        "Longitude": -106.7471485,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "India",
+        "Region": "Delhi",
+        "City": "",
+        "Location": "Delhi",
+        "Latitude": 28.6273928,
+        "Longitude": 77.1716954,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Mumbai",
+        "Region": "",
+        "City": "",
+        "Location": "Mumbai",
+        "Latitude": 19.054999,
+        "Longitude": 72.8692035,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Delhi",
+        "Region": "",
+        "City": "",
+        "Location": "Delhi",
+        "Latitude": 28.6273928,
+        "Longitude": 77.1716954,
+        "timestamp": null
+    }
+]

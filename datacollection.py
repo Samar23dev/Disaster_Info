@@ -80,7 +80,7 @@ geolocator = Nominatim(user_agent="disaster_info_geocoder", timeout=20)
 def fetch_live_data(keyword):
     """Fetch news data with improved error handling"""
     try:
-        two_days_ago = datetime.datetime.now(datetime.UTC) - datetime.timedelta(days=5)
+        two_days_ago = datetime.datetime.now(datetime.UTC) - datetime.timedelta(days=20)
         params = {
             'apiKey': NEWSAPI_KEY,
             'q': keyword,
@@ -349,6 +349,11 @@ def main():
         df['Longitude'] = df['Coordinates'].apply(lambda x: x[1] if isinstance(x, tuple) and len(x) == 2 else np.nan)
         df.drop('Coordinates', axis=1, inplace=True)
         df = df.dropna(subset=['Latitude', 'Longitude'])
+
+        # Ensure timestamp is in the correct format
+        df['timestamp'] = pd.to_datetime(df['publishedAt']).dt.strftime('%Y-%m-%dT%H:%M:%SZ')
+        if 'publishedAt' in df.columns:
+            df.drop('publishedAt', axis=1, inplace=True)
         
         # Save to Excel
         timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
@@ -356,9 +361,9 @@ def main():
         df.to_excel(excel_filename, index=False)
         logger.info(f"Processed data saved to {excel_filename}: {len(df)} valid entries")
         
-        # Save to JSON
+        # Save to JSON with ISO date format
         json_filename = f'disaster_data_{timestamp}.json'
-        df.to_json(json_filename, orient='records', date_format='iso')
+        df.to_json(json_filename, orient='records')
         logger.info(f"Processed data saved to {json_filename}: {len(df)} valid entries")
         
         # Save to MongoDB
@@ -367,7 +372,28 @@ def main():
         collection = db["geonews"]
         
         try:
-            data_list = df.to_dict(orient='records')
+            # Prepare data for MongoDB insertion
+            data_list = []
+            for _, row in df.iterrows():
+                doc = row.to_dict()
+                
+                # Ensure source is a dictionary
+                if isinstance(doc.get('source'), str):
+                    doc['source'] = {'id': None, 'name': doc['source']}
+                
+                # Ensure numeric fields are float
+                doc['Latitude'] = float(doc['Latitude'])
+                doc['Longitude'] = float(doc['Longitude'])
+                
+                # Ensure timestamp is in correct string format
+                doc['timestamp'] = doc['timestamp']
+                
+                # Handle location_ner field
+                if isinstance(doc.get('location_ner'), (list, np.ndarray)):
+                    doc['location_ner'] = list(doc['location_ner'])
+                
+                data_list.append(doc)
+            
             result = collection.insert_many(data_list)
             logger.info(f"Successfully inserted {len(result.inserted_ids)} documents into MongoDB")
         except Exception as e:
