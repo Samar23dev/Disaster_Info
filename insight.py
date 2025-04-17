@@ -191,19 +191,7 @@ def main():
             
         # Time series analysis
         
-        # Word cloud
-        st.subheader("Word Cloud of Disaster Titles")
-        try:
-            text = ' '.join(filtered_df['title'].astype(str))
-            wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
-            
-            fig, ax = plt.subplots(figsize=(10, 5))
-            ax.imshow(wordcloud, interpolation='bilinear')
-            ax.axis('off')
-            st.pyplot(fig)
-        except Exception as e:
-            logger.error(f"Error generating word cloud: {str(e)}")
-            st.warning("Could not generate word cloud. Please try again later.")
+        
         
         # Map visualization
         st.subheader("Geographic Distribution of Disasters")
@@ -242,6 +230,16 @@ def main():
         st.subheader("Disaster Events Data")
         columns_to_display = ['title', 'disaster_event', 'timestamp', 'source', 'url', 'Location']
         st.write(filtered_df[columns_to_display])
+
+
+        # Word cloud
+        st.subheader("Word Cloud of Disaster Titles")
+        text = ' '.join(filtered_df['title'].astype(str))
+        wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
+        fig, ax = plt.subplots(figsize=(10, 5))
+        ax.imshow(wordcloud, interpolation='bilinear')
+        ax.axis('off')
+        st.pyplot(fig)
         
         logger.info("Insight page displayed successfully")
     except Exception as e:

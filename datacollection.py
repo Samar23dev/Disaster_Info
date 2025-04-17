@@ -80,7 +80,7 @@ geolocator = Nominatim(user_agent="disaster_info_geocoder", timeout=20)
 def fetch_live_data(keyword):
     """Fetch news data with improved error handling"""
     try:
-        two_days_ago = datetime.datetime.now(datetime.UTC) - datetime.timedelta(days=20)
+        two_days_ago = datetime.datetime.now(datetime.UTC) - datetime.timedelta(days=5)
         params = {
             'apiKey': NEWSAPI_KEY,
             'q': keyword,

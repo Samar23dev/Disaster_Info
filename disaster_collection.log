@@ -256,3 +256,195 @@
 2025-04-14 23:02:17,778 - INFO - Processing keyword: earthquake
 2025-04-14 23:02:18,933 - INFO - Processing keyword: flood
 2025-04-14 23:02:19,446 - INFO - Processing keyword: tsunami
+2025-04-17 22:24:03,070 - INFO - Using google-generativeai version: 0.8.4
+2025-04-17 22:24:04,760 - INFO - Gemini API configured and tested successfully
+2025-04-17 22:24:05,957 - INFO - spaCy model loaded successfully
+2025-04-17 22:24:06,007 - INFO - Starting data collection process
+2025-04-17 22:24:06,007 - INFO - Processing keyword: earthquake
+2025-04-17 22:24:07,923 - INFO - Processing keyword: flood
+2025-04-17 22:24:08,871 - INFO - Processing keyword: tsunami
+2025-04-17 22:24:09,566 - INFO - Processing keyword: hurricane
+2025-04-17 22:24:11,478 - INFO - Processing keyword: wildfire
+2025-04-17 22:24:13,553 - INFO - Processing keyword: forestfire
+2025-04-17 22:24:14,632 - INFO - Processing keyword: tornado
+2025-04-17 22:24:16,079 - INFO - Processing keyword: cyclone
+2025-04-17 22:24:16,653 - INFO - Processing keyword: volcano
+2025-04-17 22:24:17,367 - INFO - Processing keyword: drought
+2025-04-17 22:24:19,405 - INFO - Processing keyword: landslide
+2025-04-17 22:24:20,100 - INFO - Processing keyword: storm
+2025-04-17 22:24:22,081 - INFO - Processing keyword: blizzard
+2025-04-17 22:24:23,486 - INFO - Processing keyword: avalanche
+2025-04-17 22:24:25,442 - INFO - Processing keyword: heatwave
+2025-04-17 22:24:25,834 - INFO - Total articles collected: 1128
+2025-04-17 22:24:48,556 - INFO - Articles after pre-filtering: 434
+2025-04-17 22:24:48,558 - INFO - Processing batch 1 of 44
+2025-04-17 22:24:48,559 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:24:50,859 - INFO - Successfully processed 10 disaster articles from batch
+2025-04-17 22:24:51,861 - INFO - Processing batch 2 of 44
+2025-04-17 22:24:51,862 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:24:54,153 - INFO - Successfully processed 9 disaster articles from batch
+2025-04-17 22:24:55,156 - INFO - Processing batch 3 of 44
+2025-04-17 22:24:55,157 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:24:57,447 - INFO - Successfully processed 9 disaster articles from batch
+2025-04-17 22:24:58,450 - INFO - Processing batch 4 of 44
+2025-04-17 22:24:58,453 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:01,315 - INFO - Successfully processed 8 disaster articles from batch
+2025-04-17 22:25:02,319 - INFO - Processing batch 5 of 44
+2025-04-17 22:25:02,321 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:04,709 - INFO - Successfully processed 6 disaster articles from batch
+2025-04-17 22:25:05,711 - INFO - Processing batch 6 of 44
+2025-04-17 22:25:05,712 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:08,102 - INFO - Successfully processed 4 disaster articles from batch
+2025-04-17 22:25:09,104 - INFO - Processing batch 7 of 44
+2025-04-17 22:25:09,106 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:11,861 - INFO - Successfully processed 5 disaster articles from batch
+2025-04-17 22:25:12,867 - INFO - Processing batch 8 of 44
+2025-04-17 22:25:12,870 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:15,653 - INFO - Successfully processed 3 disaster articles from batch
+2025-04-17 22:25:16,655 - INFO - Processing batch 9 of 44
+2025-04-17 22:25:16,656 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:19,598 - INFO - Successfully processed 4 disaster articles from batch
+2025-04-17 22:25:20,599 - INFO - Processing batch 10 of 44
+2025-04-17 22:25:20,601 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:23,371 - INFO - Successfully processed 6 disaster articles from batch
+2025-04-17 22:25:24,373 - INFO - Processing batch 11 of 44
+2025-04-17 22:25:24,376 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:26,980 - INFO - Successfully processed 4 disaster articles from batch
+2025-04-17 22:25:27,994 - INFO - Processing batch 12 of 44
+2025-04-17 22:25:27,996 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:30,680 - INFO - Successfully processed 3 disaster articles from batch
+2025-04-17 22:25:31,682 - INFO - Processing batch 13 of 44
+2025-04-17 22:25:31,683 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:33,937 - INFO - Successfully processed 5 disaster articles from batch
+2025-04-17 22:25:34,940 - INFO - Processing batch 14 of 44
+2025-04-17 22:25:34,944 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:37,270 - INFO - Successfully processed 2 disaster articles from batch
+2025-04-17 22:25:38,271 - INFO - Processing batch 15 of 44
+2025-04-17 22:25:38,273 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:40,876 - INFO - Successfully processed 1 disaster articles from batch
+2025-04-17 22:25:41,878 - INFO - Processing batch 16 of 44
+2025-04-17 22:25:41,880 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:44,528 - INFO - Successfully processed 2 disaster articles from batch
+2025-04-17 22:25:45,531 - INFO - Processing batch 17 of 44
+2025-04-17 22:25:45,533 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:47,917 - INFO - Successfully processed 3 disaster articles from batch
+2025-04-17 22:25:48,920 - INFO - Processing batch 18 of 44
+2025-04-17 22:25:48,920 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:52,451 - INFO - Successfully processed 0 disaster articles from batch
+2025-04-17 22:25:53,454 - INFO - Processing batch 19 of 44
+2025-04-17 22:25:53,455 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:56,065 - INFO - Successfully processed 5 disaster articles from batch
+2025-04-17 22:25:57,088 - INFO - Processing batch 20 of 44
+2025-04-17 22:25:57,095 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:25:59,760 - INFO - Successfully processed 2 disaster articles from batch
+2025-04-17 22:26:00,763 - INFO - Processing batch 21 of 44
+2025-04-17 22:26:00,765 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:26:03,344 - INFO - Successfully processed 3 disaster articles from batch
+2025-04-17 22:26:04,353 - INFO - Processing batch 22 of 44
+2025-04-17 22:26:04,356 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:26:06,862 - INFO - Successfully processed 3 disaster articles from batch
+2025-04-17 22:26:07,866 - INFO - Processing batch 23 of 44
+2025-04-17 22:26:07,868 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:26:10,473 - INFO - Successfully processed 4 disaster articles from batch
+2025-04-17 22:26:11,476 - INFO - Processing batch 24 of 44
+2025-04-17 22:26:11,476 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:26:37,144 - INFO - Successfully processed 6 disaster articles from batch
+2025-04-17 22:26:38,145 - INFO - Processing batch 25 of 44
+2025-04-17 22:26:38,147 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:26:40,844 - INFO - Successfully processed 7 disaster articles from batch
+2025-04-17 22:26:41,846 - INFO - Processing batch 26 of 44
+2025-04-17 22:26:41,848 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:26:45,209 - INFO - Successfully processed 6 disaster articles from batch
+2025-04-17 22:26:46,219 - INFO - Processing batch 27 of 44
+2025-04-17 22:26:46,221 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:26:49,248 - INFO - Successfully processed 2 disaster articles from batch
+2025-04-17 22:26:50,253 - INFO - Processing batch 28 of 44
+2025-04-17 22:26:50,259 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:26:52,805 - INFO - Successfully processed 6 disaster articles from batch
+2025-04-17 22:26:53,809 - INFO - Processing batch 29 of 44
+2025-04-17 22:26:53,809 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:26:56,469 - INFO - Successfully processed 1 disaster articles from batch
+2025-04-17 22:26:57,472 - INFO - Processing batch 30 of 44
+2025-04-17 22:26:57,473 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:00,282 - ERROR - Failed to parse Gemini response as JSON: Expecting ':' delimiter: line 8 column 117 (char 763)
+2025-04-17 22:27:00,283 - ERROR - Cleaned response: {
+  "classifications": [
+    {"title": "Ancient road resurfaces as Lake Van recedes", "type": "Not a Disaster"},
+    {"title": "Will Germany's Easter bonfires be cancelled this year due to drought?", "type": "drought"},
+    {"title": "Exclusive: Newcastle United to make a move for ‘complete player’ but on one condition", "type": "Not a Disaster"},
+    {"title": "Rory McIlroy on his caddie, longtime friend: Masters win 'is just as much his as it is mine'", "type": "Not a Disaster"},
+    {"title": "Masters 2025: Rory McIlroy goes from triumph to tragedy back to triumph to finally end his years-long major drought", "type": "Not a Disaster"},
+    {"title": "Amid EU's hottest year on record, cities face more floods, extreme heat", "type": "flood", "heatwave"},
+    {"title": "Amid EU climate shift, cities face more floods, extreme heat", "type": "flood", "heatwave"},
+    {"title": "Venture Global debt deal wakes US junk bond market from tariff slumber", "type": "Not a Disaster"},
+    {"title": "Amid EU's hottest year cities face more floods, extreme heat", "type": "flood", "heatwave"},
+    {"title": "In A Bollywood Drought, ‘Tu Jhoothi Main Makkaar’ Is My Comfort Watch On Netflix", "type": "Not a Disaster"}
+  ]
+}
+2025-04-17 22:27:00,299 - INFO - Retrying batch processing (Attempt 2/3)
+2025-04-17 22:27:00,299 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:03,121 - ERROR - Failed to parse Gemini response as JSON: Expecting ':' delimiter: line 8 column 117 (char 763)
+2025-04-17 22:27:03,125 - ERROR - Cleaned response: {
+  "classifications": [
+    {"title": "Ancient road resurfaces as Lake Van recedes", "type": "Not a Disaster"},
+    {"title": "Will Germany's Easter bonfires be cancelled this year due to drought?", "type": "drought"},
+    {"title": "Exclusive: Newcastle United to make a move for ‘complete player’ but on one condition", "type": "Not a Disaster"},
+    {"title": "Rory McIlroy on his caddie, longtime friend: Masters win 'is just as much his as it is mine'", "type": "Not a Disaster"},
+    {"title": "Masters 2025: Rory McIlroy goes from triumph to tragedy back to triumph to finally end his years-long major drought", "type": "Not a Disaster"},
+    {"title": "Amid EU's hottest year on record, cities face more floods, extreme heat", "type": "flood", "heatwave"},
+    {"title": "Amid EU climate shift, cities face more floods, extreme heat", "type": "flood", "heatwave"},
+    {"title": "Venture Global debt deal wakes US junk bond market from tariff slumber", "type": "Not a Disaster"},
+    {"title": "Amid EU's hottest year cities face more floods, extreme heat", "type": "flood", "heatwave"},
+    {"title": "In A Bollywood Drought, ‘Tu Jhoothi Main Makkaar’ Is My Comfort Watch On Netflix", "type": "Not a Disaster"}
+  ]
+}
+2025-04-17 22:27:03,137 - INFO - Retrying batch processing (Attempt 3/3)
+2025-04-17 22:27:03,137 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:05,824 - INFO - Successfully processed 4 disaster articles from batch
+2025-04-17 22:27:06,827 - INFO - Processing batch 31 of 44
+2025-04-17 22:27:06,828 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:09,175 - INFO - Successfully processed 4 disaster articles from batch
+2025-04-17 22:27:10,185 - INFO - Processing batch 32 of 44
+2025-04-17 22:27:10,186 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:12,860 - INFO - Successfully processed 5 disaster articles from batch
+2025-04-17 22:27:13,864 - INFO - Processing batch 33 of 44
+2025-04-17 22:27:13,864 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:16,433 - INFO - Successfully processed 1 disaster articles from batch
+2025-04-17 22:27:17,436 - INFO - Processing batch 34 of 44
+2025-04-17 22:27:17,436 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:19,865 - INFO - Successfully processed 1 disaster articles from batch
+2025-04-17 22:27:20,869 - INFO - Processing batch 35 of 44
+2025-04-17 22:27:20,870 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:23,513 - INFO - Successfully processed 0 disaster articles from batch
+2025-04-17 22:27:24,518 - INFO - Processing batch 36 of 44
+2025-04-17 22:27:24,520 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:27,021 - INFO - Successfully processed 4 disaster articles from batch
+2025-04-17 22:27:28,025 - INFO - Processing batch 37 of 44
+2025-04-17 22:27:28,026 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:30,740 - INFO - Successfully processed 0 disaster articles from batch
+2025-04-17 22:27:31,742 - INFO - Processing batch 38 of 44
+2025-04-17 22:27:31,744 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:34,028 - INFO - Successfully processed 1 disaster articles from batch
+2025-04-17 22:27:35,034 - INFO - Processing batch 39 of 44
+2025-04-17 22:27:35,035 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:37,826 - INFO - Successfully processed 0 disaster articles from batch
+2025-04-17 22:27:38,831 - INFO - Processing batch 40 of 44
+2025-04-17 22:27:38,833 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:41,504 - INFO - Successfully processed 0 disaster articles from batch
+2025-04-17 22:27:42,506 - INFO - Processing batch 41 of 44
+2025-04-17 22:27:42,507 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:45,397 - INFO - Successfully processed 1 disaster articles from batch
+2025-04-17 22:27:46,402 - INFO - Processing batch 42 of 44
+2025-04-17 22:27:46,405 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:48,927 - INFO - Successfully processed 4 disaster articles from batch
+2025-04-17 22:27:49,931 - INFO - Processing batch 43 of 44
+2025-04-17 22:27:49,932 - INFO - Sending batch of 10 articles to Gemini
+2025-04-17 22:27:52,528 - INFO - Successfully processed 7 disaster articles from batch
+2025-04-17 22:27:53,531 - INFO - Processing batch 44 of 44
+2025-04-17 22:27:53,533 - INFO - Sending batch of 4 articles to Gemini
+2025-04-17 22:27:54,996 - INFO - Successfully processed 1 disaster articles from batch
+2025-04-17 22:27:56,001 - INFO - Final data collection: 162 articles
+2025-04-17 22:29:15,707 - INFO - Processed data saved to disaster_data_20250417_222914.xlsx: 77 valid entries
+2025-04-17 22:29:15,719 - INFO - Processed data saved to disaster_data_20250417_222914.json: 77 valid entries
+2025-04-17 22:29:16,658 - INFO - Successfully inserted 77 documents into MongoDB
+2025-04-17 22:29:16,675 - INFO - Data collection process completed successfully

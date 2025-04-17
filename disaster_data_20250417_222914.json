@@ -1,0 +1,1612 @@
+[
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Jaclyn Diaz",
+        "title": "A 5.2 magnitude earthquake strikes Southern California",
+        "description": "A series of aftershocks followed the initial 5.2 magnitude earthquake that struck Julian, Calif., continuing for several minutes.",
+        "url": "https:\/\/www.npr.org\/2025\/04\/14\/nx-s1-5364784\/earthquake-southern-california",
+        "urlToImage": "https:\/\/media.npr.org\/include\/images\/facebook-default-wide-s1400-c100.jpg",
+        "content": "A 5.2 magnitude earthquake shook southern California at approximately 10 a.m., local time, according to the U.S. Geological Survey. The extent of any damage caused by the quake is still unclear.\r\nCal\u2026 [+650 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Southern California"
+        ],
+        "Country": "Southern California",
+        "Region": "",
+        "City": "",
+        "Location": "Southern California",
+        "Latitude": 34.169263,
+        "Longitude": -116.7874482,
+        "timestamp": "2025-04-14T18:47:36Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Emily Shapiro",
+        "title": "5.2 magnitude earthquake shakes Southern California",
+        "description": "The quake -- centered in San Diego County -- was felt as far north as LA.",
+        "url": "https:\/\/abcnews.go.com\/US\/52-magnitude-earthquake-shakes-southern-california\/story?id=120796597",
+        "urlToImage": "https:\/\/i.abcnewsfe.com\/a\/0205f030-2bc2-4bc5-94c2-3f40cc651237\/earthquake-ht-gmh-250414_1744651593781_hpMain_16x9.jpg?w=1600",
+        "content": "A 5.2 magnitude earthquake shook Southern California on Monday, according to the U.S. Geological Survey.\r\nThe quake was centered in San Diego County but was felt as far north as Los Angeles.\r\nCalifor\u2026 [+186 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Southern California"
+        ],
+        "Country": "Southern California",
+        "Region": "",
+        "City": "",
+        "Location": "Southern California",
+        "Latitude": 34.169263,
+        "Longitude": -116.7874482,
+        "timestamp": "2025-04-14T17:23:49Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "WATCH: California earthquake stirs slumbering baby",
+        "description": "Baby monitor footage captured the moment Monday's 5.2 magnitude earthquake struck the San Diego area, stirring at least one baby awake in its crib.",
+        "url": "https:\/\/abcnews.go.com\/US\/video\/california-earthquake-stirs-slumbering-baby-120802958",
+        "urlToImage": "https:\/\/i.abcnewsfe.com\/a\/09fbdec9-3a85-473b-904b-7a15d7365df2\/250414_abc_social_BABY_QUAKE_hpMain_16x9.jpg?w=992",
+        "content": "<ul><li>5.2 magnitude earthquake shakes San Diego area\r\n<\/li><li>US stocks rise amid Trump tariff exemptions for electronics\r\n<\/li><li>FTC's historic antitrust trial against Meta underway\r\n<\/li><li>E\u2026 [+4405 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "California"
+        ],
+        "Country": "California",
+        "Region": "",
+        "City": "",
+        "Location": "California",
+        "Latitude": 36.7014631,
+        "Longitude": -118.755997,
+        "timestamp": "2025-04-14T20:02:14Z"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "WATCH: Elephants rush to protect their young during California earthquake",
+        "description": "Elephants at the San Diego Zoo Safari Park rushed to protect their young as Monday's 5.2 magnitude quake shook California.",
+        "url": "https:\/\/abcnews.go.com\/US\/video\/elephants-rush-protect-young-california-earthquake-120812049",
+        "urlToImage": "https:\/\/i.abcnewsfe.com\/a\/783ff86e-61b8-41e8-91b3-02b5ca979e82\/250414_social_elephant_hpMain_16x9.jpg?w=992",
+        "content": "<ul><li>Trump: \"Homegrown criminals\" could also be sent to El Salvador prison\r\n<\/li><li>White House tariffs causing confusion and uncertainty for small businesses\r\n<\/li><li>Suspect faces attempted mu\u2026 [+4480 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "California"
+        ],
+        "Country": "California",
+        "Region": "",
+        "City": "",
+        "Location": "California",
+        "Latitude": 36.7014631,
+        "Longitude": -118.755997,
+        "timestamp": "2025-04-15T02:41:15Z"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Anthony Robledo, USA TODAY",
+        "title": "Watch as elephants form a protective circle in San Diego after 5.2-magnitude earthquake",
+        "description": "Heart-melting video shows African elephants at the San Diego Zoo instinctively forming a protective circle after the earthquake hit Southern California.",
+        "url": "https:\/\/www.usatoday.com\/story\/news\/nation\/2025\/04\/14\/elephants-protective-circle-san-diego-earthquake\/83088633007\/",
+        "urlToImage": "https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/g2V1es9ldQFLU3GWQ6.Y6A--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-\/https:\/\/media.zenfs.com\/en\/usa_today_news_641\/a5b1e7bf7041564e2a43a1b6af375ffd",
+        "content": "When an earthquake strikes, humans duck and cover. But elephants get in formation.\r\nAfrican elephants at the San Diego Zoo instinctively formed a protective circle around its youngest family members \u2026 [+1512 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "San Diego"
+        ],
+        "Country": "San Diego",
+        "Region": "",
+        "City": "",
+        "Location": "San Diego",
+        "Latitude": 32.7174202,
+        "Longitude": -117.162772,
+        "timestamp": "2025-04-15T00:22:19Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "fox5sandiego.com"
+        },
+        "author": "Anna Ashcraft",
+        "title": "Watch: Elephants at Safari Park form protective circle during San Diego earthquake",
+        "description": "Watch: Elephants at the San Diego Zoo Safari Park surrounded the younger elephants in a protective \"alert circle\" when a 5.2 magnitude earthquake struck the ...",
+        "url": "https:\/\/fox5sandiego.com\/news\/local-news\/elephants-at-safari-park-form-protective-circle-during-san-diego-earthquake\/",
+        "urlToImage": "https:\/\/media.zenfs.com\/en\/kswb_articles_601\/7ebda1a0c0dc531da7fcf32ae487697f",
+        "content": "SAN DIEGO (FOX 5\/KUSI) Elephants at the San Diego Zoo Safari Park were caught on camera forming a protective circle when a 5.2 magnitude earthquake shook Southern California Monday morning.\r\nThe San \u2026 [+1111 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "San Diego"
+        ],
+        "Country": "San Diego",
+        "Region": "",
+        "City": "",
+        "Location": "San Diego",
+        "Latitude": 32.7174202,
+        "Longitude": -117.162772,
+        "timestamp": "2025-04-14T21:02:22Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Rebecca Rosman",
+        "title": "When an earthquake struck San Diego, these elephants formed a protective circle",
+        "description": "When a 5.2 earthquake hit near San Diego yesterday, the San Diego Zoo Safari Park caught its elephants on video taking action to protect their young. They formed what experts call an \"alert circle.\"",
+        "url": "https:\/\/www.npr.org\/2025\/04\/15\/nx-s1-5366007\/earthquake-san-diego-elephants-protective-circle",
+        "urlToImage": "https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/2250x1266+0+117\/resize\/1400\/quality\/100\/format\/jpeg\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2Fc0%2F852622dd4525a443417c05052f54%2Ft18-0418-064.jpg",
+        "content": "When a 5.2 magnitude earthquake hit Southern California on Monday, humans followed the usual drill: drop, cover and hold on.\r\nBut one herd of elephants at the San Diego Zoo Safari Park in Escondido, \u2026 [+2055 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "San Diego"
+        ],
+        "Country": "San Diego",
+        "Region": "",
+        "City": "",
+        "Location": "San Diego",
+        "Latitude": 32.7174202,
+        "Longitude": -117.162772,
+        "timestamp": "2025-04-15T20:30:56Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": null,
+        "title": "Elephant herd in zoo reacts to California earthquake to protect their young",
+        "description": "Video shows elephants huddling protectively around their young at the San Diego Zoo Safari Park during earthquake.",
+        "url": "https:\/\/www.aljazeera.com\/program\/newsfeed\/2025\/4\/15\/elephant-herd-in-zoo-reacts-to-california-earthquake-to-protect-their-young",
+        "urlToImage": "https:\/\/www.aljazeera.com\/wp-content\/uploads\/2025\/04\/image-1744718756.jpg?resize=1920%2C1080&quality=80",
+        "content": "NewsFeed\r\nVideo shows elephants huddling protectively around their young at the San Diego Zoo Safari Park during a 5.2 magnitude earthquake in California.",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "California"
+        ],
+        "Country": "California",
+        "Region": "",
+        "City": "",
+        "Location": "California",
+        "Latitude": 36.7014631,
+        "Longitude": -118.755997,
+        "timestamp": "2025-04-15T12:09:09Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Phys.Org"
+        },
+        "author": "Science X",
+        "title": "Earthquake strikes under Indian Ocean far off Australian coast, but no tsunami warning issued",
+        "description": "A 6.6-magnitude earthquake struck far off southwest Australia on Wednesday, but no tsunami warning was issued.",
+        "url": "https:\/\/phys.org\/news\/2025-04-earthquake-indian-ocean-australian-coast.html",
+        "urlToImage": "https:\/\/scx2.b-cdn.net\/gfx\/news\/2023\/tsunami-1.jpg",
+        "content": "A 6.6-magnitude earthquake struck far off southwest Australia on Wednesday, but no tsunami warning was issued.\r\nThe epicenter was in the Indian Ocean 2,069 kilometers (1,283 miles) southwest of Alban\u2026 [+830 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Indian Ocean"
+        ],
+        "Country": "Indian Ocean",
+        "Region": "",
+        "City": "",
+        "Location": "Indian Ocean",
+        "Latitude": -9.9999999,
+        "Longitude": 69.9999999,
+        "timestamp": "2025-04-16T08:50:04Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Live Science"
+        },
+        "author": "Patrick Pester",
+        "title": "Watch zoo elephants form protective 'alert circle' around young during 5.2 San Diego earthquake",
+        "description": "The San Diego Zoo Safari Park's elephants raced to protect their calves with an \"alert circle\" when a 5.2 magnitude earthquake struck Julian in Southern California.",
+        "url": "https:\/\/www.livescience.com\/animals\/elephants\/watch-zoo-elephants-form-protective-alert-circle-around-young-during-5-2-san-diego-earthquake",
+        "urlToImage": "https:\/\/cdn.mos.cms.futurecdn.net\/VSYENWzNqUvRRcq8hQbPqd.jpg",
+        "content": "Rare footage captures the moment elephants\r\n at the San Diego Zoo Safari Park formed a protective ring around their calves as a 5.2 magnitude earthquake wobbled Southern California yesterday morning \u2026 [+3098 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "San Diego"
+        ],
+        "Country": "San Diego County",
+        "Region": "Julian",
+        "City": "California",
+        "Location": "California",
+        "Latitude": 36.7014631,
+        "Longitude": -118.755997,
+        "timestamp": "2025-04-15T15:18:47Z"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Minyvonne Burke",
+        "title": "5.2-magnitude earthquake strikes Julian, California, in San Diego County",
+        "description": "A preliminary 5.2-magnitude earthquake struck Julian, California, on Monday, the United States Geological Survey said.",
+        "url": "https:\/\/www.nbcnews.com\/news\/us-news\/52-magnitude-earthquake-strikes-julian-california-san-diego-county-rcna201187",
+        "urlToImage": "https:\/\/media-cldnry.s-nbcnews.com\/image\/upload\/t_nbcnews-fp-1200-630,f_auto,q_auto:best\/rockcms\/2025-04\/250414-julian-california-earthquake-ew-150p-92ae1e.jpg",
+        "content": "A preliminary 5.2-magnitude earthquake struck Julian, California, on Monday, the United States Geological Survey said. \r\nThe effect was felt across San Diego County, NBC San Diego reported. \r\nThe Nat\u2026 [+529 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "San Diego County",
+            "Julian",
+            "California"
+        ],
+        "Country": "San Diego",
+        "Region": "",
+        "City": "",
+        "Location": "San Diego",
+        "Latitude": 32.7174202,
+        "Longitude": -117.162772,
+        "timestamp": "2025-04-14T17:32:05Z"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "The Associated Press",
+        "title": "Elephants at San Diego safari park huddle to protect calves during earthquake",
+        "description": "As the ground shook from a 5.2-magnitude earthquake, a herd of elephants at the San Diego Zoo Safari Park sprung into action to protect their young.",
+        "url": "https:\/\/www.nbcnews.com\/news\/us-news\/elephants-san-diego-safari-park-huddle-protect-calves-earthquake-rcna201266",
+        "urlToImage": "https:\/\/media-cldnry.s-nbcnews.com\/image\/upload\/t_nbcnews-fp-1200-630,f_auto,q_auto:best\/rockcms\/2025-04\/25415-san-diego-earthquake-elephants-rc-1247a-5fcb84.jpg",
+        "content": "SAN DIEGO As the ground shook from a\u00a05.2-magnitude earthquake, a herd of elephants at the San Diego Zoo Safari Park sprung into action to protect their young.\r\nA video shot of their enclosure at the \u2026 [+2481 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "San Diego"
+        ],
+        "Country": "San Diego",
+        "Region": "California",
+        "City": "",
+        "Location": "California",
+        "Latitude": 36.7014631,
+        "Longitude": -118.755997,
+        "timestamp": "2025-04-15T05:18:09Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Metafilter.com"
+        },
+        "author": "chariot pulled by cassowaries",
+        "title": "Zoo elephants huddle to protect calves during San Diego earthquake",
+        "description": "Zoo elephants huddle to protect calves during San Diego earthquake. Elephants at the San Diego Zoo were caught on video running over to protect their young by huddling together during a 5.2-magnitude earthquake.\n\nThis \"alert circle\" is a natural response to p\u2026",
+        "url": "https:\/\/www.metafilter.com\/208433\/Zoo-elephants-huddle-to-protect-calves-during-San-Diego-earthquake",
+        "urlToImage": "https:\/\/cdn.mefi.us\/images\/mefi\/apple-touch-icon.png",
+        "content": "MetaFilter is a weblog that anyone can contribute a link or a comment to. A typical weblog is one person posting their thoughts on the unique things they find on the web. This website exists to break\u2026 [+120 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "San Diego"
+        ],
+        "Country": "San Diego",
+        "Region": "",
+        "City": "",
+        "Location": "San Diego",
+        "Latitude": 32.7174202,
+        "Longitude": -117.162772,
+        "timestamp": "2025-04-16T00:41:00Z"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Julie  Sharp",
+        "title": "A preliminary 5.2 -magnitude earthquake strikes near San Diego",
+        "description": "A preliminary 5.2-magnitude earthquake struck near Julian according to the U.S. Geological Survey.",
+        "url": "https:\/\/www.cbsnews.com\/losangeles\/news\/earthquake-strikes-near-san-diego\/",
+        "urlToImage": "https:\/\/assets1.cbsnewsstatic.com\/hub\/i\/r\/2025\/04\/14\/ae9e409c-ca0e-4f45-b2f7-42f90049a97a\/thumbnail\/1200x630\/647b04c226f65b5d25cb94176944166f\/image.png?v=653dd6912cdd8596c9bfea812c355f95",
+        "content": "A preliminary 5.2-magnitude earthquake struck near San Diego at 10:08 a.m., according to the U.S. Geological Survey.\r\nThe quake's epicenter was recorded 2.49 miles south of Julian, in San Diego Count\u2026 [+446 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "San Diego"
+        ],
+        "Country": "California",
+        "Region": "",
+        "City": "",
+        "Location": "California",
+        "Latitude": 36.7014631,
+        "Longitude": -118.755997,
+        "timestamp": "2025-04-14T17:15:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Diplomat"
+        },
+        "author": "Sebastian Strangio",
+        "title": "A Green Light for US Earthquake Relief in Myanmar",
+        "description": "The U.S. government increases disaster aid but cancels a \"diversity\" scholarship.",
+        "url": "https:\/\/thediplomat.com\/2025\/04\/a-green-light-for-us-earthquake-relief-in-myanmar\/",
+        "urlToImage": "https:\/\/thediplomat.com\/wp-content\/uploads\/2025\/04\/sizes\/td-story-s-2\/thediplomat_2025-04-14-072341.jpg",
+        "content": "\u201cWe\u2019re not the government of the world,\u201d\u00a0Marco Rubio told a BBC reporter at NATO Headquarters in Brussels on April 4.\r\nThe U.S. Secretary of State defended a modest $2 million contribution for Myanma\u2026 [+8832 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "San Diego",
+        "Region": "Southern California",
+        "City": "",
+        "Location": "Southern California",
+        "Latitude": 34.169263,
+        "Longitude": -116.7874482,
+        "timestamp": "2025-04-14T08:15:06Z"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": null,
+        "title": "Video shows elephants shielding calves during California earthquake",
+        "description": "A video shows the older elephants - Ndlula, Umngani, Khosi - scramble to encircle and shield the two 7-year-old calves Zuli and Mkhaya from any possible threats.",
+        "url": "https:\/\/www.cbsnews.com\/news\/earthquake-video-elephants-san-diego-zoo-safari-park-protect-calves\/",
+        "urlToImage": "https:\/\/assets2.cbsnewsstatic.com\/hub\/i\/r\/2025\/04\/15\/06e6160b-d689-4920-82f7-47228f43aa86\/thumbnail\/1200x630\/c4e60d7cb2a1bb273f497e0271362e04\/ap25105001032953.jpg?v=22a842e47fa1552047fb956f78e1acf0",
+        "content": "As the ground shook from a 5.2-magnitude earthquake, a herd of elephants at the San Diego Zoo Safari Park sprung into action to protect their young.\r\nA video shot of their enclosure at the park Monda\u2026 [+3274 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "California"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-15T10:49:54Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Archaeology"
+        },
+        "author": "Jason Urbanus",
+        "title": "Earthquake in Myanmar Exposes Ancient Royal Structure",
+        "description": "INWA, MAYANMAR\u2013\u2013ARTnews reports that a massive earthquake that struck parts of southeast Asia revealed the [\u2026]\nThe post Earthquake in Myanmar Exposes Ancient Royal Structure appeared first on Archaeology Magazine.",
+        "url": "https:\/\/archaeology.org\/news\/2025\/04\/15\/earthquake-in-myanmar-exposes-ancient-royal-structure\/",
+        "urlToImage": "https:\/\/archaeology.org\/wp-content\/uploads\/2025\/04\/News-20250415-Myanmar-Exposed-.jpg",
+        "content": "Ruins in Inwa, Myanmar, exposed by earthquake\r\nINWA, MAYANMARARTnews reports that a massive earthquake that struck parts of southeast Asia revealed the ruins of an ancient structure near the historic\u2026 [+804 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Malaysia",
+        "Region": "Myanmar",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-15T18:00:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Jared Downing",
+        "title": "Earthquake hits San Diego at 5.2 magnitude and shakes southern California with effects felt up to LA",
+        "description": "The quake centered near San Diego, but shockwaves were felt as far as Los Angeles more than 100 miles away, according to the US Geological Survey.",
+        "url": "https:\/\/nypost.com\/2025\/04\/14\/us-news\/earthquake-hits-san-diego-at-5-2-magnitude-and-shakes-southern-california-with-effects-felt-up-to-la\/",
+        "urlToImage": "https:\/\/nypost.com\/wp-content\/uploads\/sites\/2\/2025\/04\/newspress-collage-8pyghla03-1744651664478.jpg?quality=75&strip=all&1744637287&w=1024",
+        "content": "A 5.2-magnitude earthquake near San Diego rattled Southern California on Monday morning.\r\nThe quake centered near San Diego, but shockwaves were felt as far as Los Angeles more than 100 miles away, a\u2026 [+226 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "San Diego",
+            "LA",
+            "California"
+        ],
+        "Country": "Thailand",
+        "Region": "",
+        "City": "",
+        "Location": "Thailand",
+        "Latitude": 14.8971921,
+        "Longitude": 100.83273,
+        "timestamp": "2025-04-14T17:28:31Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Star Online"
+        },
+        "author": "Isabelle LEONG",
+        "title": "Malaysia PM Anwar to meet Myanmar junta chief over quake relief",
+        "description": "Malaysian Prime Minister and Asean chair Datuk Seri Anwar Ibrahim said Monday he will meet Myanmar's isolated junta chief in Bangkok this week as the strongman makes a rare trip abroad to discuss earthquake relief. Read full story",
+        "url": "https:\/\/www.thestar.com.my\/aseanplus\/aseanplus-news\/2025\/04\/14\/malaysia-pm-anwar-to-meet-myanmar-junta-chief-over-quake-relief",
+        "urlToImage": "https:\/\/apicms.thestar.com.my\/uploads\/images\/2025\/04\/14\/3264696.jpg",
+        "content": "KUALA LUMPUR (AFP): Malaysian Prime Minister and Asean chair Datuk Seri Anwar Ibrahim said Monday he will meet Myanmar's isolated junta chief in Bangkok this week as the strongman makes a rare trip a\u2026 [+2104 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Aiding",
+        "Region": "",
+        "City": "",
+        "Location": "Aiding",
+        "Latitude": 24.6154,
+        "Longitude": 121.8373,
+        "timestamp": "2025-04-14T12:22:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Star Online"
+        },
+        "author": "MARTIN CARVALHO",
+        "title": "Malaysia to seek ceasefire extension in Myanmar for quake relief efforts to go on",
+        "description": "PUTRAJAYA: Malaysia, as Asean chair, will seek an extension of the ceasefire announced by Myanmar's military junta to allow humanitarian efforts in the earthquake-ravaged nation, says Datuk Seri Anwar Ibrahim. Read full story",
+        "url": "https:\/\/www.thestar.com.my\/news\/nation\/2025\/04\/14\/malaysia-to-seek-ceasefire-extension-in-myanmar-for-quake-relief-efforts-to-go-on",
+        "urlToImage": "https:\/\/apicms.thestar.com.my\/uploads\/images\/2025\/04\/14\/3263438.jpg",
+        "content": "PUTRAJAYA: Malaysia, as Asean chair, will seek an extension of the ceasefire announced by Myanmar's military junta to allow humanitarian efforts in the earthquake-ravaged nation, says Datuk Seri Anwa\u2026 [+2142 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Malaysia",
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-14T02:41:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Star Online"
+        },
+        "author": "The Star Online",
+        "title": "Malaysia awaiting green light from Myanmar to deploy Armed Forces medical officers",
+        "description": "KUALA LUMPUR: Malaysia is awaiting the Myanmar government's green light to mobilise Armed Forces medical officers on a humanitarian mission following the earthquake that struck the country on March 28. Read full story",
+        "url": "https:\/\/www.thestar.com.my\/news\/nation\/2025\/04\/15\/malaysia-awaiting-green-light-from-myanmar-to-deploy-armed-forces-medical-officers",
+        "urlToImage": "https:\/\/apicms.thestar.com.my\/uploads\/images\/2025\/04\/15\/3266424.JPG",
+        "content": "KUALA LUMPUR: Malaysia is awaiting the Myanmar government's green light to mobilise Armed Forces medical officers on a humanitarian mission following the earthquake that struck the country on March 2\u2026 [+754 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Malaysia",
+            "Myanmar"
+        ],
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": "2025-04-15T10:22:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "DW (English)"
+        },
+        "author": "Tommy Walker",
+        "title": "Myanmar earthquake relief hampered by lack of aid, airstrikes",
+        "description": "Myanmar's strongest earthquake since 1912 has left thousands homeless, complicating relief efforts amid an ongoing civil war.",
+        "url": "https:\/\/www.dw.com\/en\/myanmar-earthquake-relief-hampered-by-lack-of-aid-airstrikes\/a-72262559",
+        "urlToImage": "https:\/\/static.dw.com\/image\/72263504_6.jpg",
+        "content": "Some 60,000 people are living in tent encampments in central Myanmar following last month's 7.7 magnitude tremor the country's strongest since 1912.\r\nMyanmar suffered heavy damage in the March 28 qua\u2026 [+5677 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Warning Zone",
+        "Region": "",
+        "City": "",
+        "Location": "Warning Zone",
+        "Latitude": 10.790053,
+        "Longitude": 106.6989515,
+        "timestamp": "2025-04-16T14:56:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Celebitchy.com"
+        },
+        "author": "Kismet",
+        "title": "Elephants form huddle around their calves during San Diego earthquake",
+        "description": "I was born and raised in San Francisco, so earthquake drills were a big part of growing up. Though I have no recollection of it, I was there for the 1989 Loma Prieta earthquake \u2014 aka the \u201cWorld Series earthquake\u201d \u2014 that reached a whopping 6.9 magnitude. My pa\u2026",
+        "url": "https:\/\/www.celebitchy.com\/918234\/elephants_form_huddle_around_their_calves_during_san_diego_earthquake\/",
+        "urlToImage": null,
+        "content": "I was born and raised in San Francisco, so earthquake drills were a big part of growing up. Though I have no recollection of it, I was there for the 1989 Loma Prieta earthquake aka the World Series e\u2026 [+3649 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "San Diego"
+        ],
+        "Country": "San Diego",
+        "Region": "",
+        "City": "",
+        "Location": "San Diego",
+        "Latitude": 32.7174202,
+        "Longitude": -117.162772,
+        "timestamp": "2025-04-16T11:00:26Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Bangkok Post"
+        },
+        "author": "Apinya Wipatayotin",
+        "title": "Tremor jolts southern Thailand, felt in 2 Krabi districts",
+        "description": "<p>A minor <strong>earthquake<\/strong> was detected in tambon Khlong Khamao of Nuea Khlong district in the southern province of Krabi Monday afternoon and it was felt in two districts.<\/p>",
+        "url": "https:\/\/www.bangkokpost.com\/thailand\/general\/3003006\/tremor-jolts-southern-thailand-felt-in-2-krabi-districts",
+        "urlToImage": "https:\/\/static.bangkokpost.com\/media\/content\/20250414\/c1_3003006_700.jpg",
+        "content": "A minor earthquake was detected in tambon Khlong Khamao of Nuea Khlong district in the southern province of Krabi Monday afternoon and it was felt in two districts.\r\nSukanyanee Yawinchan, director-ge\u2026 [+663 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Thailand"
+        ],
+        "Country": "Singapore",
+        "Region": "",
+        "City": "",
+        "Location": "Singapore",
+        "Latitude": 1.357107,
+        "Longitude": 103.8194992,
+        "timestamp": "2025-04-14T11:25:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNA"
+        },
+        "author": null,
+        "title": "Myanmar marks new year festival mourning quake losses",
+        "description": "MANDALAY:\u00a0Thousands marked the start of Myanmar's water festival on Sunday (Apr 13) in the ruins of last month's earthquake, with the country's most raucous holiday muted by the",
+        "url": "https:\/\/www.channelnewsasia.com\/asia\/myanmar-new-year-festival-mourn-earthquake-5062876",
+        "urlToImage": "https:\/\/dam.mediacorp.sg\/image\/upload\/s--6_5AZu1Q--\/c_crop,h_450,w_800,x_0,y_7\/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1\/f_auto,q_auto\/c_fill,g_auto,h_676,w_1200\/v1\/one-cms\/core\/2025-04-09t141400z_1_lynxnpel380u4_rtroptp_3_myanmar-quake.jpg?itok=T4VO2jpE",
+        "content": "Myanmar's ruling military junta has commanded the five-day festival to have no music or dance.\r\nSince the Mar 28 quake Mandalay temperatures have soared up to a parching 44 degrees Celsius while at n\u2026 [+1255 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "Ontario",
+        "Region": "",
+        "City": "",
+        "Location": "Ontario",
+        "Latitude": 50.000678,
+        "Longitude": -86.000977,
+        "timestamp": "2025-04-13T07:43:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Japan Today"
+        },
+        "author": null,
+        "title": "Central Myanmar shaken by new quake in one of the biggest aftershocks since March 28 temblor",
+        "description": "A magnitude 5.5 earthquake struck on Sunday morning near Meiktila, a small city in central Myanmar, according to the U.S. Geological Survey. The quake came as Myanmar is engaged in relief efforts following a massive 7.7 magnitude temblor that also hit the cou\u2026",
+        "url": "https:\/\/japantoday.com\/category\/world\/central-myanmar-shaken-by-new-quake-in-one-of-the-biggest-aftershocks-since-march-28-temblor",
+        "urlToImage": null,
+        "content": "A magnitude 5.5 earthquake struck on Sunday morning near Meiktila, a small city in central Myanmar, according to the U.S. Geological Survey.\r\nThe quake came as Myanmar is engaged in relief efforts fo\u2026 [+2047 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "N.C.",
+        "Region": "",
+        "City": "",
+        "Location": "N.C.",
+        "Latitude": 35.6729639,
+        "Longitude": -79.0392919,
+        "timestamp": "2025-04-13T06:03:03Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Globalsecurity.org"
+        },
+        "author": "John Pike",
+        "title": "Myanmar: UN seeks additional $240 million to bolster earthquake relief",
+        "description": "The United Nations is ramping up its response to Myanmar's devastating earthquake, calling for increased funding and an immediate ceasefire to ensure more aid reaches those in desperate need.",
+        "url": "https:\/\/www.globalsecurity.org\/wmd\/library\/news\/myanmar\/2025\/myanmar-250410-unnews01.htm",
+        "urlToImage": null,
+        "content": "By Vibhu Mishra10 April 2025 - The United Nations is ramping up its response to Myanmar's devastating earthquake, calling for increased funding and an immediate ceasefire to ensure more aid reaches t\u2026 [+3640 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "California",
+        "Region": "US",
+        "City": "",
+        "Location": "US",
+        "Latitude": 39.7837304,
+        "Longitude": -100.445882,
+        "timestamp": "2025-04-12T08:31:56Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Inside the Magic"
+        },
+        "author": "Alessia Dunn",
+        "title": "25 Million California Residents Alerted During Earthquake, Disneyland in Warning Zone",
+        "description": "A 5.2 magnitude earthquake struck Southern California on Monday morning, but the effects at Disneyland Resort in Anaheim were mild, with operations continuing as usual. Guests, however, were quickly notified through the state\u2019s early warning system, offering \u2026",
+        "url": "https:\/\/insidethemagic.net\/2025\/04\/25-million-california-residents-earthquake-ad1\/",
+        "urlToImage": "https:\/\/insidethemagic.net\/wp-content\/uploads\/2024\/07\/disney-california-adventure-entrance.jpg",
+        "content": "A 5.2 magnitude earthquake struck Southern California on Monday morning, but the effects at Disneyland Resort in Anaheim were mild, with operations continuing as usual. Guests, however, were quickly \u2026 [+3416 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Warning Zone"
+        ],
+        "Country": "San Diego",
+        "Region": "",
+        "City": "",
+        "Location": "San Diego",
+        "Latitude": 32.7174202,
+        "Longitude": -117.162772,
+        "timestamp": "2025-04-14T20:23:59Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Globalsecurity.org"
+        },
+        "author": "John Pike",
+        "title": "Myanmar junta bombs monastery as it blames quake for religious devastation",
+        "description": "Myanmar's junta bombed a monastery in the country's northwest on Saturday, killing five people, including children, just one day before it publicly announced that a recent earthquake had destroyed almost 10,000 religious buildings across the country.",
+        "url": "https:\/\/www.globalsecurity.org\/wmd\/library\/news\/myanmar\/2025\/myanmar-250414-rfa01.htm",
+        "urlToImage": null,
+        "content": "The junta said a recent earthquake destroyed almost 10,000 religious buildings in the country.\r\nBy RFA Burmese 2025.04.14 -- Myanmar's junta bombed a monastery in the country's northwest on Saturday,\u2026 [+3651 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "AI",
+        "Region": "",
+        "City": "",
+        "Location": "AI",
+        "Latitude": 18.1954947,
+        "Longitude": -63.0750234,
+        "timestamp": "2025-04-15T06:37:42Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "fox5sandiego.com"
+        },
+        "author": "Anna Ashcraft",
+        "title": "Earthquake shakes San Diego, causing road closures and rockfalls",
+        "description": "A 5.2 magnitude earthquake struck San Diego County Monday morning, causing landslides and rockfalls in some areas, leading to road closures.",
+        "url": "https:\/\/fox5sandiego.com\/news\/earthquakes\/earthquake-shakes-san-diego-causing-road-closures-and-rockfalls\/",
+        "urlToImage": "https:\/\/media.zenfs.com\/en\/kswb_articles_601\/da06af4423e4c7fb37aec621f45038b3",
+        "content": "SAN DIEGO (FOX 5\/KUSI) A 5.2 magnitude earthquake rattled San Diego County and Southern California Monday morning causing landslides and rockfalls in some areas, prompting road closures.\r\nImmediately\u2026 [+1359 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "San Diego"
+        ],
+        "Country": "South Korea",
+        "Region": "",
+        "City": "",
+        "Location": "South Korea",
+        "Latitude": 36.638392,
+        "Longitude": 127.6961188,
+        "timestamp": "2025-04-14T20:38:04Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Science Daily"
+        },
+        "author": null,
+        "title": "Seismologists share early analyses of Myanmar earthquake",
+        "description": "The 28 March magnitude 7.7 Mandalay, Burma (Myanmar) earthquake caused widespread and severe damage in Myanmar and neighboring countries such as Thailand, with more than 5,000 casualties now confirmed. At the Seismological Society of America's Annual Meeting,\u2026",
+        "url": "https:\/\/www.sciencedaily.com\/releases\/2025\/04\/250415144009.htm",
+        "urlToImage": "https:\/\/www.sciencedaily.com\/images\/scidaily-icon.png",
+        "content": "The 28 March magnitude 7.7 Mandalay, Burma (Myanmar) earthquake caused widespread and severe damage in Myanmar and neighboring countries such as Thailand, with more than 5,000 casualties now confirme\u2026 [+2883 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Myanmar"
+        ],
+        "Country": "California",
+        "Region": "",
+        "City": "",
+        "Location": "California",
+        "Latitude": 36.7014631,
+        "Longitude": -118.755997,
+        "timestamp": "2025-04-15T18:40:09Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Star Online"
+        },
+        "author": "The Star Online",
+        "title": "Flood situation improves in Selangor and Johor, unchanged in Sabah",
+        "description": "KUALA LUMPUR: The flood situation in Selangor and Johor has improved on Sunday (April 13) morning, with fewer evacuees at temporary relief centres, while conditions in Sabah remain unchanged. Read full story",
+        "url": "https:\/\/www.thestar.com.my\/news\/nation\/2025\/04\/13\/flood-situation-improves-in-selangor-and-johor-unchanged-in-sabah",
+        "urlToImage": "https:\/\/apicms.thestar.com.my\/uploads\/images\/2025\/04\/13\/3262062.jpg",
+        "content": "KUALA LUMPUR: The flood situation in Selangor and Johor has improved on Sunday (April 13) morning, with fewer evacuees at temporary relief centres, while conditions in Sabah remain\u00a0unchanged.\r\nIn SEL\u2026 [+1754 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Sabah",
+            "Selangor"
+        ],
+        "Country": "Mississippi",
+        "Region": "",
+        "City": "",
+        "Location": "Mississippi",
+        "Latitude": 32.9715285,
+        "Longitude": -89.7348497,
+        "timestamp": "2025-04-13T02:43:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNA"
+        },
+        "author": null,
+        "title": "Flash floods hit parts of Singapore after afternoon downpour: PUB",
+        "description": "SINGAPORE: Heavy rain fell across the island on Sunday afternoon (Apr 13), causing flash floods in parts of Singapore, national water agency PUB said. In a post on Facebook, PUB said that it issued flood risk warnings for 13 locations, including in Punggol, Y\u2026",
+        "url": "https:\/\/www.channelnewsasia.com\/singapore\/pub-flash-flood-apr-13-yishun-punggol-5062926",
+        "urlToImage": "https:\/\/dam.mediacorp.sg\/image\/upload\/s--N64tYhQw--\/c_crop,h_750,w_1334,x_89,y_62\/f_auto,q_auto\/c_fill,g_auto,h_676,w_1200\/v1\/mediacorp\/cna\/image\/2025\/04\/13\/490218442_983051393999414_6102890449776019860_n.jpg?itok=g_Nb36Y2",
+        "content": "SINGAPORE: Heavy rain fell across the island on Sunday afternoon (Apr 13), causing flash floods in parts of Singapore, national water agency PUB said.\r\nIn a post on Facebook, PUB said that it issued \u2026 [+633 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Singapore"
+        ],
+        "Country": "Arkansas",
+        "Region": "Missouri",
+        "City": "",
+        "Location": "Missouri",
+        "Latitude": 38.7604815,
+        "Longitude": -92.5617875,
+        "timestamp": "2025-04-13T09:13:09Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Yuki Noguchi",
+        "title": "DOGE cut a CDC team as it was about to start a project to help N.C. flood victims",
+        "description": "The National Center for Environmental Health was hollowed out in the cuts of 10,000 federal health workers on April 1. That's the same day an assessment of people hurt in floods was set to begin.",
+        "url": "https:\/\/www.npr.org\/sections\/shots-health-news\/2025\/04\/15\/nx-s1-5364897\/cdc-disaster-doge-trump-layoffs-hurricane-helene",
+        "urlToImage": "https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/5870x3302+0+306\/resize\/1400\/quality\/100\/format\/jpeg\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F42%2F921b66fc4c4292c424175bc1b7b0%2Fgettyimages-2206279806.jpg",
+        "content": "In and around Asheville, N.C., there are still visible signs of devastation that remain from the floods of Hurricane Helene six months ago: rusted debris in the yards of water-damaged residences in r\u2026 [+6224 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "N.C."
+        ],
+        "Country": "Kentucky",
+        "Region": "",
+        "City": "",
+        "Location": "Kentucky",
+        "Latitude": 37.5726028,
+        "Longitude": -85.1551411,
+        "timestamp": "2025-04-15T13:00:00Z"
+    },
+    {
+        "source": {
+            "id": "cbc-news",
+            "name": "CBC News"
+        },
+        "author": null,
+        "title": "Kashechewan First Nation in northern Ontario evacuating dozens amid spring flooding threat",
+        "description": "Kashechewan First Nation has declared a state of emergency as the threat of spring flooding looms over the community on northern Ontario's James Bay Coast.",
+        "url": "https:\/\/www.cbc.ca\/news\/canada\/sudbury\/kashechewan-evacuation-flooding-1.7509725",
+        "urlToImage": "https:\/\/i.cbc.ca\/1.3565693.1744646543!\/cpImage\/httpImage\/image.jpg_gen\/derivatives\/16x9_1180\/ont-kashechewan-evacuations-20140512.jpg?im=Resize%3D620",
+        "content": "Kashechewan First Nation has declared a state of emergency as the threat of spring flooding looms over the community on northern Ontario's James Bay Coast.\u00a0\r\nIn a public notice shared with community \u2026 [+2761 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Ontario"
+        ],
+        "Country": "East Tennessee",
+        "Region": "",
+        "City": "",
+        "Location": "East Tennessee",
+        "Latitude": 35.7995377,
+        "Longitude": -84.1051993,
+        "timestamp": "2025-04-14T16:14:35Z"
+    },
+    {
+        "source": {
+            "id": "cbc-news",
+            "name": "CBC News"
+        },
+        "author": null,
+        "title": "Neskantaga First Nation evacuating members to Thunder Bay, Ont., due to flooded nursing station",
+        "description": "Neskantaga First Nation is evacuating vulnerable community members to Thunder Bay after its only nursing station was closed due to flooding. Here's what we know about the evolving situation in the remote northwestern Ontario community, which comes on the heel\u2026",
+        "url": "https:\/\/www.cbc.ca\/news\/canada\/thunder-bay\/neskantaga-first-nation-evacuation-1.7511688",
+        "urlToImage": "https:\/\/i.cbc.ca\/1.7512011.1744830550!\/fileImage\/httpImage\/image.JPG_gen\/derivatives\/16x9_1180\/neskantaga-first-nation-chief-gary-quisses.JPG?im=Resize%3D620",
+        "content": "Neskantaga First Nation is evacuating its most vulnerable community members to Thunder Bay as it\u00a0grapples with the closure of its only nursing station due to flooding.\r\nThe remote northwestern Ontari\u2026 [+3214 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "Thunder Bay"
+        ],
+        "Country": "Washington",
+        "Region": "",
+        "City": "",
+        "Location": "Washington",
+        "Latitude": 38.8950368,
+        "Longitude": -77.0365427,
+        "timestamp": "2025-04-16T16:33:43Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Memeorandum.com"
+        },
+        "author": null,
+        "title": "DOGE cut a CDC team as it was about to start a project to help N.C. flood victims (Yuki Noguchi\/NPR)",
+        "description": "Yuki Noguchi \/ NPR:\nDOGE cut a CDC team as it was about to start a project to help N.C. flood victims\u00a0 \u2014\u00a0 In and around Asheville, N.C., there are still visible signs of devastation that remain from the floods of Hurricane Helene six months ago: rusted debris\u2026",
+        "url": "https:\/\/www.memeorandum.com\/250415\/p28",
+        "urlToImage": "https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/5870x3302+0+306\/resize\/1400\/quality\/100\/format\/jpeg\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F42%2F921b66fc4c4292c424175bc1b7b0%2Fgettyimages-2206279806.jpg",
+        "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+        "disaster_event": "Flood",
+        "location_ner": [
+            "N.C."
+        ],
+        "Country": "North Island",
+        "Region": "",
+        "City": "",
+        "Location": "North Island",
+        "Latitude": -38.0035304,
+        "Longitude": 175.957821,
+        "timestamp": "2025-04-15T13:50:01Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NDTV News"
+        },
+        "author": "Agence France-Presse",
+        "title": "5.1 Magnitude Earthquake Strikes Near San Diego In US' California",
+        "description": "A strong quake hit near San Diego on Monday, US geologists said.",
+        "url": "https:\/\/www.ndtv.com\/world-news\/5-1-magnitude-earthquake-strikes-near-san-diego-in-us-california-8164314",
+        "urlToImage": "https:\/\/c.ndtvimg.com\/2025-03\/9p4mj938_earthquake-generic_625x300_18_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "content": "Los Angeles: A strong, shallow 5.1 magnitude quake hit southern California on Monday, US geologists said.\r\nThe tremor was centered 2.5 miles (four kilometers) south of Julian, which sits around 20 mi\u2026 [+900 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "California",
+            "US"
+        ],
+        "Country": "Mexico",
+        "Region": "Texas",
+        "City": "",
+        "Location": "Texas",
+        "Latitude": 31.2638905,
+        "Longitude": -98.5456116,
+        "timestamp": "2025-04-14T17:29:43Z"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Global Desk",
+        "title": "Two earthquakes hit between Fiji and New Zealand, no tsunami warning issued",
+        "description": "Two earthquakes hit the area between Fiji and New Zealand on April 14 morning. The first quake measured 6.5, and the second measured 6.1. The quakes occurred near the Kermadec Trench. The Australian Bureau of Meteorology confirmed the absence of a tsunami thr\u2026",
+        "url": "https:\/\/economictimes.indiatimes.com\/news\/international\/new-zealand\/two-earthquakes-hit-between-fiji-and-new-zealand-no-tsunami-warning-issued\/articleshow\/120269594.cms",
+        "urlToImage": "https:\/\/img.etimg.com\/thumb\/msid-120269771,width-1200,height-630,imgsize-185474,overlay-economictimes\/articleshow.jpg",
+        "content": "Two earthquakes, measuring 6.5 and 6.1 on the Richter scale, struck between Fiji and New Zealand on Monday (April 14). The first and the bigger quake happened around 8:03 am New Zealand time. But was\u2026 [+1873 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "Fiji",
+            "New Zealand"
+        ],
+        "Country": "Dry Crossing",
+        "Region": "",
+        "City": "",
+        "Location": "Dry Crossing",
+        "Latitude": 49.341461,
+        "Longitude": -122.739771,
+        "timestamp": "2025-04-14T04:32:26Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBC 7 San Diego"
+        },
+        "author": "Brenda Gregorio-nieto",
+        "title": "Preliminary 5.2 earthquake strikes East San Diego County",
+        "description": "A preliminary 5.2 earthquake struck Julian Monday morning and was felt across San Diego County.",
+        "url": "https:\/\/www.nbcsandiego.com\/news\/local\/preliminary-5-2-earthquake-strikes-julian-in-east-san-diego-county\/3803433\/",
+        "urlToImage": "https:\/\/media.nbcsandiego.com\/2025\/04\/earthquake.jpg?quality=85&strip=all&resize=1200%2C675",
+        "content": "We are no longer updating this story. Please click here to follow live updates.\r\nA preliminary 5.2 earthquake struck Julian Monday morning and was felt across San Diego County.\r\nA preliminary earthqu\u2026 [+1190 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "East San Diego County"
+        ],
+        "Country": "Indonesia",
+        "Region": "",
+        "City": "",
+        "Location": "Indonesia",
+        "Latitude": -2.4833826,
+        "Longitude": 117.8902853,
+        "timestamp": "2025-04-14T17:24:05Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WSB Atlanta"
+        },
+        "author": "Cox Media Group National Content Desk",
+        "title": "Large earthquake jolts area near San Diego",
+        "description": "Large earthquake jolts area near San Diegowsbtv.com",
+        "url": "https:\/\/www.wsbtv.com\/news\/trending\/large-earthquake-shakes-area-near-san-diego\/U2AHCWP66ZB3NM3FTP3HUU62QI\/",
+        "urlToImage": "https:\/\/cmg-cmg-tv-10010-prod.cdn.arcpublishing.com\/resizer\/v2\/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F7J4AQQ3D5BFFZBRRI4DYVXWSPE.png?auth=3e0a396e69fe9e7f8e77a6da58c4f53d373fa69e0f9651641295338ff516ee62&width=1200&height=630&smart=true",
+        "content": "A large earthquake has shaken Southern California.\r\nThe United States Geological Survey said the quake happened 4 kilometers south of Julian, California and initially registered as a 5.2 magnitude. I\u2026 [+1106 chars]",
+        "disaster_event": "Earthquake",
+        "location_ner": [
+            "San Diego"
+        ],
+        "Country": "Northern Michigan",
+        "Region": "",
+        "City": "",
+        "Location": "Northern Michigan",
+        "Latitude": 46.5613243,
+        "Longitude": -87.4104811,
+        "timestamp": "2025-04-14T18:16:59Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Wimp.com"
+        },
+        "author": "Ashley Dreiling",
+        "title": "How AI mapping helped with hurricane disaster relief.",
+        "description": "Two companies and a nonprofit teamed up to provide disaster aid relief in new way following Hurricane Ian.",
+        "url": "https:\/\/www.wimp.com\/how-ai-mapping-helped-with-hurricane-disaster-relief\/",
+        "urlToImage": "https:\/\/www.wimp.com\/wp-content\/uploads\/2022\/11\/how-ai-helped-provide-aid-after-hurricane-ian-TSeU8ROSsnQ.jpg",
+        "content": "Two companies and a nonprofit teamed up to provide disaster aid relief in new way following Hurricane Ian.",
+        "disaster_event": "Hurricane",
+        "location_ner": [
+            "AI"
+        ],
+        "Country": "T\u00fcrkiye",
+        "Region": "",
+        "City": "",
+        "Location": "T\u00fcrkiye",
+        "Latitude": 39.294076,
+        "Longitude": 35.2316631,
+        "timestamp": "2025-04-12T13:30:36Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Flowingdata.com"
+        },
+        "author": "Nathan Yau",
+        "title": "Reach of a deadly wildfire in South Korea",
+        "description": "South Korea experienced its largest and most deadly wildfire last month in Uiseong county. For Reuters, Sudev Kiyada, Han Huang, and Adolfo Arranz describe the path of destruction with animated map\u2026",
+        "url": "https:\/\/flowingdata.com\/2025\/04\/16\/reach-of-a-deadly-wildfire-in-south-korea\/",
+        "urlToImage": "https:\/\/flowingdata.com\/wp-content\/uploads\/2025\/04\/Reuters-south-korea-fire.png",
+        "content": "Experts have said the spread of the Uiseong fire was extremely unusual in terms of scale and speed, while climate change is expected to make wildfires more frequent and deadly globally.\r\nThe wildfire\u2026 [+227 chars]",
+        "disaster_event": "Wildfire",
+        "location_ner": [
+            "South Korea"
+        ],
+        "Country": "Delhi",
+        "Region": "",
+        "City": "",
+        "Location": "Delhi",
+        "Latitude": 28.6273928,
+        "Longitude": 77.1716954,
+        "timestamp": "2025-04-16T07:59:56Z"
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "San Diego",
+        "Region": "",
+        "City": "",
+        "Location": "San Diego",
+        "Latitude": 32.7174202,
+        "Longitude": -117.162772,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "San Diego",
+        "Region": "LA",
+        "City": "California",
+        "Location": "California",
+        "Latitude": 36.7014631,
+        "Longitude": -118.755997,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Malaysia",
+        "Region": "Myanmar",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "San Diego",
+        "Region": "",
+        "City": "",
+        "Location": "San Diego",
+        "Latitude": 32.7174202,
+        "Longitude": -117.162772,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Myanmar",
+        "Region": "",
+        "City": "",
+        "Location": "Myanmar",
+        "Latitude": 17.1750495,
+        "Longitude": 95.9999652,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Sabah",
+        "Region": "Selangor",
+        "City": "",
+        "Location": "Selangor",
+        "Latitude": 3.2083304,
+        "Longitude": 101.304146,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Kentucky",
+        "Region": "",
+        "City": "",
+        "Location": "Kentucky",
+        "Latitude": 37.5726028,
+        "Longitude": -85.1551411,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "N.C.",
+        "Region": "",
+        "City": "",
+        "Location": "N.C.",
+        "Latitude": 35.6729639,
+        "Longitude": -79.0392919,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Fiji",
+        "Region": "New Zealand",
+        "City": "",
+        "Location": "New Zealand",
+        "Latitude": -41.5000831,
+        "Longitude": 172.8344077,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "East San Diego County",
+        "Region": "",
+        "City": "",
+        "Location": "East San Diego County",
+        "Latitude": 32.7494952,
+        "Longitude": -117.1100315,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Kelowna",
+        "Region": "B.C.",
+        "City": "",
+        "Location": "B.C.",
+        "Latitude": 55.001251,
+        "Longitude": -125.002441,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Pacific Palisades",
+        "Region": "",
+        "City": "",
+        "Location": "Pacific Palisades",
+        "Latitude": 34.0480643,
+        "Longitude": -118.5264706,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Oregon",
+        "Region": "",
+        "City": "",
+        "Location": "Oregon",
+        "Latitude": 43.9792797,
+        "Longitude": -120.737257,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Canada",
+        "Region": "Alberta",
+        "City": "",
+        "Location": "Alberta",
+        "Latitude": 55.001251,
+        "Longitude": -115.002136,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "US",
+        "Region": "",
+        "City": "",
+        "Location": "US",
+        "Latitude": 39.7837304,
+        "Longitude": -100.445882,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Washington",
+        "Region": "",
+        "City": "",
+        "Location": "Washington",
+        "Latitude": 38.8950368,
+        "Longitude": -77.0365427,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "New Zealand",
+        "Region": "North Island",
+        "City": "",
+        "Location": "North Island",
+        "Latitude": -38.0035304,
+        "Longitude": 175.957821,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "North Island",
+        "Region": "New Zealand's",
+        "City": "",
+        "Location": "New Zealand's",
+        "Latitude": -48.011781,
+        "Longitude": 166.6054011,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "New Zealand",
+        "Region": "North Island",
+        "City": "",
+        "Location": "North Island",
+        "Latitude": -38.0035304,
+        "Longitude": 175.957821,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "North Island",
+        "Region": "Auckland",
+        "City": "",
+        "Location": "Auckland",
+        "Latitude": -36.852095,
+        "Longitude": 174.7631803,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "North Island",
+        "Region": "",
+        "City": "",
+        "Location": "North Island",
+        "Latitude": -38.0035304,
+        "Longitude": 175.957821,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Mount Spurr",
+        "Region": "Alaska",
+        "City": "",
+        "Location": "Alaska",
+        "Latitude": 64.4459613,
+        "Longitude": -149.680909,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Kanlaon",
+        "Region": "",
+        "City": "",
+        "Location": "Kanlaon",
+        "Latitude": 10.4113894,
+        "Longitude": 123.1324518,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Iraq",
+        "Region": "Earth",
+        "City": "'Sea of Salt'",
+        "Location": "'Sea of Salt'",
+        "Latitude": 40.6032951,
+        "Longitude": -75.5011712,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Michigan",
+        "Region": "",
+        "City": "",
+        "Location": "Michigan",
+        "Latitude": 43.6211955,
+        "Longitude": -84.6824346,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Indonesia",
+        "Region": "Russia",
+        "City": "",
+        "Location": "Russia",
+        "Latitude": 64.6863136,
+        "Longitude": 97.7453061,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Pakistan",
+        "Region": "Death Valley",
+        "City": "India",
+        "Location": "India",
+        "Latitude": 22.3511148,
+        "Longitude": 78.6677428,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Telangana",
+        "Region": "",
+        "City": "",
+        "Location": "Telangana",
+        "Latitude": 17.8495919,
+        "Longitude": 79.1151663,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "UK",
+        "Region": "",
+        "City": "",
+        "Location": "UK",
+        "Latitude": 6.3110548,
+        "Longitude": 20.5447525,
+        "timestamp": null
+    },
+    {
+        "source": null,
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "content": null,
+        "disaster_event": null,
+        "location_ner": null,
+        "Country": "Delhi",
+        "Region": "Odisha",
+        "City": "",
+        "Location": "Odisha",
+        "Latitude": 20.5431241,
+        "Longitude": 84.6897321,
+        "timestamp": null
+    }
+]
