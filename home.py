@@ -230,8 +230,6 @@ def main():
                 st.markdown(f"""
                                 <div style="display: flex; justify-content: space-between; align-items: center; color: #666; font-size: 0.9em; margin-top: 10px;">
                                     <div>
-                                        <span style="margin-right: 15px;">📍 {row['Location']}</span>
-                                        <span style="margin-right: 15px;">📰 {row['source']}</span>
                                         <span>🕒 {row['timestamp'].strftime('%Y-%m-%d %H:%M')}</span>
                                     </div>
                                     <a href="{row['url']}" target="_blank" 

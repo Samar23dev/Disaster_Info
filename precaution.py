@@ -3,11 +3,10 @@ import logging
 import json
 import pandas as pd
 
-# Configure logging
+
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("precausion")
 
-# Minimal CSS for essential styling
 st.markdown("""
 <style>
     .header {background-color: #0072B5; color: white; padding: 1rem; border-radius: 5px; text-align: center; margin-bottom: 1rem;}
