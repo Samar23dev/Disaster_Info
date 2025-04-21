@@ -35,8 +35,8 @@ def main():
         # Set up the navigation menu with improved styling
         selected = option_menu(
             menu_title=None,
-            options=["Home","Insight", "Alerts", "Weather", "About", "Precaution", "Login/SignUp"],
-            icons=["house", "globe", "bell", "cloud-sun", "info", "7-circle", "key"],
+            options=["Home","Insight", "Alerts", "Weather", "About", "Help", "Login/SignUp"],
+            icons=["house", "globe", "bell", "cloud-sun", "info", "bi-shield-exclamation", "key"],
             orientation="horizontal",
             default_index=0,  # Set Home as default
             styles={
@@ -54,7 +54,7 @@ def main():
             "Login/SignUp": "login",
             "About": "about",
             "Insight": "insight",
-            "Precaution": "precaution",
+            "Help": "precaution",
             "Weather": "weather"
         }
 
